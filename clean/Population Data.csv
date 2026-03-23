@@ -1,0 +1,1324 @@
+DGUID,GEO_LEVEL,CENSUS_YEAR,GEO_NAME,TOTAL_GENDER (1),CHARACTERISTIC_NAME,AGE
+2021A00051001485,Census subdivision,2021,Conception Bay South,4450,  0 to 14 years,Total - Age
+2021A00051001485,Census subdivision,2021,Conception Bay South,17810,  15 to 64 years,Total - Age
+2021A00051001485,Census subdivision,2021,Conception Bay South,4490,  65 years and over,Total - Age
+2021A00051001517,Census subdivision,2021,Paradise,4510,  0 to 14 years,Total - Age
+2021A00051001517,Census subdivision,2021,Paradise,16010,  15 to 64 years,Total - Age
+2021A00051001517,Census subdivision,2021,Paradise,2280,  65 years and over,Total - Age
+2021A00051001519,Census subdivision,2021,St. John's,14635,  0 to 14 years,Total - Age
+2021A00051001519,Census subdivision,2021,St. John's,72935,  15 to 64 years,Total - Age
+2021A00051001519,Census subdivision,2021,St. John's,20085,  65 years and over,Total - Age
+2021A00051001542,Census subdivision,2021,Mount Pearl,2760,  0 to 14 years,Total - Age
+2021A00051001542,Census subdivision,2021,Mount Pearl,14785,  15 to 64 years,Total - Age
+2021A00051001542,Census subdivision,2021,Mount Pearl,4810,  65 years and over,Total - Age
+2021A00051005018,Census subdivision,2021,Corner Brook,2275,  0 to 14 years,Total - Age
+2021A00051005018,Census subdivision,2021,Corner Brook,11675,  15 to 64 years,Total - Age
+2021A00051005018,Census subdivision,2021,Corner Brook,4645,  65 years and over,Total - Age
+2021A00051006009,Census subdivision,2021,Gander,1815,  0 to 14 years,Total - Age
+2021A00051006009,Census subdivision,2021,Gander,7555,  15 to 64 years,Total - Age
+2021A00051006009,Census subdivision,2021,Gander,2170,  65 years and over,Total - Age
+2021A00051006017,Census subdivision,2021,Grand Falls-Windsor,1925,  0 to 14 years,Total - Age
+2021A00051006017,Census subdivision,2021,Grand Falls-Windsor,8425,  15 to 64 years,Total - Age
+2021A00051006017,Census subdivision,2021,Grand Falls-Windsor,3245,  65 years and over,Total - Age
+2021C30051099999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Newfoundland and Labrador",35770,  0 to 14 years,Total - Age
+2021C30051099999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Newfoundland and Labrador",170020,  15 to 64 years,Total - Age
+2021C30051099999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Newfoundland and Labrador",73015,  65 years and over,Total - Age
+2021A00051102075,Census subdivision,2021,Charlottetown,5135,  0 to 14 years,Total - Age
+2021A00051102075,Census subdivision,2021,Charlottetown,25175,  15 to 64 years,Total - Age
+2021A00051102075,Census subdivision,2021,Charlottetown,7290,  65 years and over,Total - Age
+2021A00051102080,Census subdivision,2021,Stratford,2110,  0 to 14 years,Total - Age
+2021A00051102080,Census subdivision,2021,Stratford,6795,  15 to 64 years,Total - Age
+2021A00051102080,Census subdivision,2021,Stratford,1945,  65 years and over,Total - Age
+2021A00051103025,Census subdivision,2021,Summerside,2285,  0 to 14 years,Total - Age
+2021A00051103025,Census subdivision,2021,Summerside,9695,  15 to 64 years,Total - Age
+2021A00051103025,Census subdivision,2021,Summerside,3565,  65 years and over,Total - Age
+2021C30051199999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Prince Edward Island",14055,  0 to 14 years,Total - Age
+2021C30051199999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Prince Edward Island",54440,  15 to 64 years,Total - Age
+2021C30051199999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Prince Edward Island",17995,  65 years and over,Total - Age
+2021A00051202004,Census subdivision,2021,Yarmouth,1360,  0 to 14 years,Total - Age
+2021A00051202004,Census subdivision,2021,Yarmouth,6095,  15 to 64 years,Total - Age
+2021A00051202004,Census subdivision,2021,Yarmouth,2490,  65 years and over,Total - Age
+2021A00051204010,Census subdivision,2021,Queens,1120,  0 to 14 years,Total - Age
+2021A00051204010,Census subdivision,2021,Queens,5980,  15 to 64 years,Total - Age
+2021A00051204010,Census subdivision,2021,Queens,3165,  65 years and over,Total - Age
+2021A00051206001,Census subdivision,2021,Lunenburg,3095,  0 to 14 years,Total - Age
+2021A00051206001,Census subdivision,2021,Lunenburg,15095,  15 to 64 years,Total - Age
+2021A00051206001,Census subdivision,2021,Lunenburg,7200,  65 years and over,Total - Age
+2021A00051206009,Census subdivision,2021,Chester,1235,  0 to 14 years,Total - Age
+2021A00051206009,Census subdivision,2021,Chester,6155,  15 to 64 years,Total - Age
+2021A00051206009,Census subdivision,2021,Chester,3175,  65 years and over,Total - Age
+2021A00051207001,Census subdivision,2021,"Kings, Subd. A",3675,  0 to 14 years,Total - Age
+2021A00051207001,Census subdivision,2021,"Kings, Subd. A",13600,  15 to 64 years,Total - Age
+2021A00051207001,Census subdivision,2021,"Kings, Subd. A",4745,  65 years and over,Total - Age
+2021A00051207016,Census subdivision,2021,"Kings, Subd. B",1780,  0 to 14 years,Total - Age
+2021A00051207016,Census subdivision,2021,"Kings, Subd. B",7510,  15 to 64 years,Total - Age
+2021A00051207016,Census subdivision,2021,"Kings, Subd. B",2625,  65 years and over,Total - Age
+2021A00051208003,Census subdivision,2021,West Hants,2835,  0 to 14 years,Total - Age
+2021A00051208003,Census subdivision,2021,West Hants,11805,  15 to 64 years,Total - Age
+2021A00051208003,Census subdivision,2021,West Hants,4480,  65 years and over,Total - Age
+2021A00051208008,Census subdivision,2021,East Hants,3710,  0 to 14 years,Total - Age
+2021A00051208008,Census subdivision,2021,East Hants,14945,  15 to 64 years,Total - Age
+2021A00051208008,Census subdivision,2021,East Hants,4195,  65 years and over,Total - Age
+2021A00051209034,Census subdivision,2021,Halifax,64935,  0 to 14 years,Total - Age
+2021A00051209034,Census subdivision,2021,Halifax,297045,  15 to 64 years,Total - Age
+2021A00051209034,Census subdivision,2021,Halifax,73310,  65 years and over,Total - Age
+2021A00051210001,Census subdivision,2021,"Colchester, Subd. C",1920,  0 to 14 years,Total - Age
+2021A00051210001,Census subdivision,2021,"Colchester, Subd. C",7850,  15 to 64 years,Total - Age
+2021A00051210001,Census subdivision,2021,"Colchester, Subd. C",2655,  65 years and over,Total - Age
+2021A00051210006,Census subdivision,2021,Truro,1645,  0 to 14 years,Total - Age
+2021A00051210006,Census subdivision,2021,Truro,7710,  15 to 64 years,Total - Age
+2021A00051210006,Census subdivision,2021,Truro,3060,  65 years and over,Total - Age
+2021A00051210008,Census subdivision,2021,"Colchester, Subd. B",2880,  0 to 14 years,Total - Age
+2021A00051210008,Census subdivision,2021,"Colchester, Subd. B",12020,  15 to 64 years,Total - Age
+2021A00051210008,Census subdivision,2021,"Colchester, Subd. B",4720,  65 years and over,Total - Age
+2021A00051217030,Census subdivision,2021,Cape Breton,11760,  0 to 14 years,Total - Age
+2021A00051217030,Census subdivision,2021,Cape Breton,56465,  15 to 64 years,Total - Age
+2021A00051217030,Census subdivision,2021,Cape Breton,23795,  65 years and over,Total - Age
+2021C30051299999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Nova Scotia",34575,  0 to 14 years,Total - Age
+2021C30051299999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Nova Scotia",150790,  15 to 64 years,Total - Age
+2021C30051299999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Nova Scotia",66645,  65 years and over,Total - Age
+2021A00051301006,Census subdivision,2021,Saint John,10150,  0 to 14 years,Total - Age
+2021A00051301006,Census subdivision,2021,Saint John,44620,  15 to 64 years,Total - Age
+2021A00051301006,Census subdivision,2021,Saint John,13410,  65 years and over,Total - Age
+2021A00051305045,Census subdivision,2021,Rothesay,1875,  0 to 14 years,Total - Age
+2021A00051305045,Census subdivision,2021,Rothesay,7515,  15 to 64 years,Total - Age
+2021A00051305045,Census subdivision,2021,Rothesay,2525,  65 years and over,Total - Age
+2021A00051305057,Census subdivision,2021,Quispamsis,3425,  0 to 14 years,Total - Age
+2021A00051305057,Census subdivision,2021,Quispamsis,11890,  15 to 64 years,Total - Age
+2021A00051305057,Census subdivision,2021,Quispamsis,3165,  65 years and over,Total - Age
+2021A00051306020,Census subdivision,2021,Riverview,3120,  0 to 14 years,Total - Age
+2021A00051306020,Census subdivision,2021,Riverview,12905,  15 to 64 years,Total - Age
+2021A00051306020,Census subdivision,2021,Riverview,4270,  65 years and over,Total - Age
+2021A00051307019,Census subdivision,2021,Moncton,1785,  0 to 14 years,Total - Age
+2021A00051307019,Census subdivision,2021,Moncton,6900,  15 to 64 years,Total - Age
+2021A00051307019,Census subdivision,2021,Moncton,1945,  65 years and over,Total - Age
+2021A00051307022,Census subdivision,2021,Moncton,11885,  0 to 14 years,Total - Age
+2021A00051307022,Census subdivision,2021,Moncton,51425,  15 to 64 years,Total - Age
+2021A00051307022,Census subdivision,2021,Moncton,14090,  65 years and over,Total - Age
+2021A00051307045,Census subdivision,2021,Dieppe,4700,  0 to 14 years,Total - Age
+2021A00051307045,Census subdivision,2021,Dieppe,18515,  15 to 64 years,Total - Age
+2021A00051307045,Census subdivision,2021,Dieppe,4455,  65 years and over,Total - Age
+2021A00051309050,Census subdivision,2021,Miramichi,2360,  0 to 14 years,Total - Age
+2021A00051309050,Census subdivision,2021,Miramichi,10250,  15 to 64 years,Total - Age
+2021A00051309050,Census subdivision,2021,Miramichi,4585,  65 years and over,Total - Age
+2021A00051310032,Census subdivision,2021,Fredericton,9105,  0 to 14 years,Total - Age
+2021A00051310032,Census subdivision,2021,Fredericton,41085,  15 to 64 years,Total - Age
+2021A00051310032,Census subdivision,2021,Fredericton,11645,  65 years and over,Total - Age
+2021A00051313027,Census subdivision,2021,Edmundston,1855,  0 to 14 years,Total - Age
+2021A00051313027,Census subdivision,2021,Edmundston,9175,  15 to 64 years,Total - Age
+2021A00051313027,Census subdivision,2021,Edmundston,4225,  65 years and over,Total - Age
+2021A00051315002,Census subdivision,2021,Tracadie,1760,  0 to 14 years,Total - Age
+2021A00051315002,Census subdivision,2021,Tracadie,9955,  15 to 64 years,Total - Age
+2021A00051315002,Census subdivision,2021,Tracadie,3930,  65 years and over,Total - Age
+2021A00051315011,Census subdivision,2021,Bathurst,1315,  0 to 14 years,Total - Age
+2021A00051315011,Census subdivision,2021,Bathurst,6905,  15 to 64 years,Total - Age
+2021A00051315011,Census subdivision,2021,Bathurst,3400,  65 years and over,Total - Age
+2021C30051399999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, New Brunswick",57615,  0 to 14 years,Total - Age
+2021C30051399999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, New Brunswick",250375,  15 to 64 years,Total - Age
+2021C30051399999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, New Brunswick",95100,  65 years and over,Total - Age
+2021A00052401023,Census subdivision,2021,Les Îles-de-la-Madeleine,1360,  0 to 14 years,Total - Age
+2021A00052401023,Census subdivision,2021,Les Îles-de-la-Madeleine,7255,  15 to 64 years,Total - Age
+2021A00052401023,Census subdivision,2021,Les Îles-de-la-Madeleine,3305,  65 years and over,Total - Age
+2021A00052403005,Census subdivision,2021,Gaspé,2125,  0 to 14 years,Total - Age
+2021A00052403005,Census subdivision,2021,Gaspé,9000,  15 to 64 years,Total - Age
+2021A00052403005,Census subdivision,2021,Gaspé,3530,  65 years and over,Total - Age
+2021A00052408053,Census subdivision,2021,Matane,1685,  0 to 14 years,Total - Age
+2021A00052408053,Census subdivision,2021,Matane,7920,  15 to 64 years,Total - Age
+2021A00052408053,Census subdivision,2021,Matane,3915,  65 years and over,Total - Age
+2021A00052410043,Census subdivision,2021,Rimouski,7010,  0 to 14 years,Total - Age
+2021A00052410043,Census subdivision,2021,Rimouski,28975,  15 to 64 years,Total - Age
+2021A00052410043,Census subdivision,2021,Rimouski,11480,  65 years and over,Total - Age
+2021A00052412072,Census subdivision,2021,Rivière-du-Loup,2745,  0 to 14 years,Total - Age
+2021A00052412072,Census subdivision,2021,Rivière-du-Loup,11455,  15 to 64 years,Total - Age
+2021A00052412072,Census subdivision,2021,Rivière-du-Loup,4665,  65 years and over,Total - Age
+2021A00052418050,Census subdivision,2021,Montmagny,1325,  0 to 14 years,Total - Age
+2021A00052418050,Census subdivision,2021,Montmagny,6305,  15 to 64 years,Total - Age
+2021A00052418050,Census subdivision,2021,Montmagny,3090,  65 years and over,Total - Age
+2021A00052423027,Census subdivision,2021,Québec,80845,  0 to 14 years,Total - Age
+2021A00052423027,Census subdivision,2021,Québec,339750,  15 to 64 years,Total - Age
+2021A00052423027,Census subdivision,2021,Québec,112940,  65 years and over,Total - Age
+2021A00052423057,Census subdivision,2021,L'Ancienne-Lorette,2505,  0 to 14 years,Total - Age
+2021A00052423057,Census subdivision,2021,L'Ancienne-Lorette,10110,  15 to 64 years,Total - Age
+2021A00052423057,Census subdivision,2021,L'Ancienne-Lorette,3825,  65 years and over,Total - Age
+2021A00052423072,Census subdivision,2021,Saint-Augustin-de-Desmaures,2980,  0 to 14 years,Total - Age
+2021A00052423072,Census subdivision,2021,Saint-Augustin-de-Desmaures,12000,  15 to 64 years,Total - Age
+2021A00052423072,Census subdivision,2021,Saint-Augustin-de-Desmaures,4275,  65 years and over,Total - Age
+2021A00052425213,Census subdivision,2021,Lévis,25135,  0 to 14 years,Total - Age
+2021A00052425213,Census subdivision,2021,Lévis,92385,  15 to 64 years,Total - Age
+2021A00052425213,Census subdivision,2021,Lévis,28710,  65 years and over,Total - Age
+2021A00052426030,Census subdivision,2021,Sainte-Marie,2335,  0 to 14 years,Total - Age
+2021A00052426030,Census subdivision,2021,Sainte-Marie,7780,  15 to 64 years,Total - Age
+2021A00052426030,Census subdivision,2021,Sainte-Marie,2525,  65 years and over,Total - Age
+2021A00052429073,Census subdivision,2021,Saint-Georges,5315,  0 to 14 years,Total - Age
+2021A00052429073,Census subdivision,2021,Saint-Georges,19735,  15 to 64 years,Total - Age
+2021A00052429073,Census subdivision,2021,Saint-Georges,7045,  65 years and over,Total - Age
+2021A00052431084,Census subdivision,2021,Thetford Mines,3525,  0 to 14 years,Total - Age
+2021A00052431084,Census subdivision,2021,Thetford Mines,13880,  15 to 64 years,Total - Age
+2021A00052431084,Census subdivision,2021,Thetford Mines,6840,  65 years and over,Total - Age
+2021A00052434017,Census subdivision,2021,Pont-Rouge,2030,  0 to 14 years,Total - Age
+2021A00052434017,Census subdivision,2021,Pont-Rouge,6265,  15 to 64 years,Total - Age
+2021A00052434017,Census subdivision,2021,Pont-Rouge,1620,  65 years and over,Total - Age
+2021A00052434128,Census subdivision,2021,Saint-Raymond,1850,  0 to 14 years,Total - Age
+2021A00052434128,Census subdivision,2021,Saint-Raymond,6650,  15 to 64 years,Total - Age
+2021A00052434128,Census subdivision,2021,Saint-Raymond,2355,  65 years and over,Total - Age
+2021A00052436033,Census subdivision,2021,Shawinigan,6290,  0 to 14 years,Total - Age
+2021A00052436033,Census subdivision,2021,Shawinigan,27805,  15 to 64 years,Total - Age
+2021A00052436033,Census subdivision,2021,Shawinigan,13550,  65 years and over,Total - Age
+2021A00052437067,Census subdivision,2021,Trois-Rivières,19555,  0 to 14 years,Total - Age
+2021A00052437067,Census subdivision,2021,Trois-Rivières,82435,  15 to 64 years,Total - Age
+2021A00052437067,Census subdivision,2021,Trois-Rivières,31685,  65 years and over,Total - Age
+2021A00052438010,Census subdivision,2021,Bécancour,2300,  0 to 14 years,Total - Age
+2021A00052438010,Census subdivision,2021,Bécancour,8175,  15 to 64 years,Total - Age
+2021A00052438010,Census subdivision,2021,Bécancour,2690,  65 years and over,Total - Age
+2021A00052439062,Census subdivision,2021,Victoriaville,7435,  0 to 14 years,Total - Age
+2021A00052439062,Census subdivision,2021,Victoriaville,26840,  15 to 64 years,Total - Age
+2021A00052439062,Census subdivision,2021,Victoriaville,11105,  65 years and over,Total - Age
+2021A00052443027,Census subdivision,2021,Sherbrooke,27195,  0 to 14 years,Total - Age
+2021A00052443027,Census subdivision,2021,Sherbrooke,107560,  15 to 64 years,Total - Age
+2021A00052443027,Census subdivision,2021,Sherbrooke,32425,  65 years and over,Total - Age
+2021A00052445072,Census subdivision,2021,Magog,3690,  0 to 14 years,Total - Age
+2021A00052445072,Census subdivision,2021,Magog,15465,  15 to 64 years,Total - Age
+2021A00052445072,Census subdivision,2021,Magog,7815,  65 years and over,Total - Age
+2021A00052446078,Census subdivision,2021,Bromont,1830,  0 to 14 years,Total - Age
+2021A00052446078,Census subdivision,2021,Bromont,7080,  15 to 64 years,Total - Age
+2021A00052446078,Census subdivision,2021,Bromont,2350,  65 years and over,Total - Age
+2021A00052446080,Census subdivision,2021,Cowansville,2275,  0 to 14 years,Total - Age
+2021A00052446080,Census subdivision,2021,Cowansville,8250,  15 to 64 years,Total - Age
+2021A00052446080,Census subdivision,2021,Cowansville,3760,  65 years and over,Total - Age
+2021A00052446112,Census subdivision,2021,Farnham,1945,  0 to 14 years,Total - Age
+2021A00052446112,Census subdivision,2021,Farnham,6120,  15 to 64 years,Total - Age
+2021A00052446112,Census subdivision,2021,Farnham,1900,  65 years and over,Total - Age
+2021A00052447017,Census subdivision,2021,Granby,10565,  0 to 14 years,Total - Age
+2021A00052447017,Census subdivision,2021,Granby,40315,  15 to 64 years,Total - Age
+2021A00052447017,Census subdivision,2021,Granby,15710,  65 years and over,Total - Age
+2021A00052449058,Census subdivision,2021,Drummondville,12400,  0 to 14 years,Total - Age
+2021A00052449058,Census subdivision,2021,Drummondville,47440,  15 to 64 years,Total - Age
+2021A00052449058,Census subdivision,2021,Drummondville,16595,  65 years and over,Total - Age
+2021A00052452007,Census subdivision,2021,Lavaltrie,2770,  0 to 14 years,Total - Age
+2021A00052452007,Census subdivision,2021,Lavaltrie,9270,  15 to 64 years,Total - Age
+2021A00052452007,Census subdivision,2021,Lavaltrie,2300,  65 years and over,Total - Age
+2021A00052453052,Census subdivision,2021,Sorel-Tracy,4380,  0 to 14 years,Total - Age
+2021A00052453052,Census subdivision,2021,Sorel-Tracy,19545,  15 to 64 years,Total - Age
+2021A00052453052,Census subdivision,2021,Sorel-Tracy,9785,  65 years and over,Total - Age
+2021A00052454048,Census subdivision,2021,Saint-Hyacinthe,8480,  0 to 14 years,Total - Age
+2021A00052454048,Census subdivision,2021,Saint-Hyacinthe,33525,  15 to 64 years,Total - Age
+2021A00052454048,Census subdivision,2021,Saint-Hyacinthe,12820,  65 years and over,Total - Age
+2021A00052455048,Census subdivision,2021,Marieville,2300,  0 to 14 years,Total - Age
+2021A00052455048,Census subdivision,2021,Marieville,7045,  15 to 64 years,Total - Age
+2021A00052455048,Census subdivision,2021,Marieville,1690,  65 years and over,Total - Age
+2021A00052456083,Census subdivision,2021,Saint-Jean-sur-Richelieu,16620,  0 to 14 years,Total - Age
+2021A00052456083,Census subdivision,2021,Saint-Jean-sur-Richelieu,59935,  15 to 64 years,Total - Age
+2021A00052456083,Census subdivision,2021,Saint-Jean-sur-Richelieu,19145,  65 years and over,Total - Age
+2021A00052457005,Census subdivision,2021,Chambly,6725,  0 to 14 years,Total - Age
+2021A00052457005,Census subdivision,2021,Chambly,20180,  15 to 64 years,Total - Age
+2021A00052457005,Census subdivision,2021,Chambly,3990,  65 years and over,Total - Age
+2021A00052457010,Census subdivision,2021,Carignan,2545,  0 to 14 years,Total - Age
+2021A00052457010,Census subdivision,2021,Carignan,7835,  15 to 64 years,Total - Age
+2021A00052457010,Census subdivision,2021,Carignan,1355,  65 years and over,Total - Age
+2021A00052457020,Census subdivision,2021,Saint-Basile-le-Grand,3355,  0 to 14 years,Total - Age
+2021A00052457020,Census subdivision,2021,Saint-Basile-le-Grand,11215,  15 to 64 years,Total - Age
+2021A00052457020,Census subdivision,2021,Saint-Basile-le-Grand,2335,  65 years and over,Total - Age
+2021A00052457035,Census subdivision,2021,Mont-Saint-Hilaire,3140,  0 to 14 years,Total - Age
+2021A00052457035,Census subdivision,2021,Mont-Saint-Hilaire,11305,  15 to 64 years,Total - Age
+2021A00052457035,Census subdivision,2021,Mont-Saint-Hilaire,3865,  65 years and over,Total - Age
+2021A00052457040,Census subdivision,2021,Beloeil,4575,  0 to 14 years,Total - Age
+2021A00052457040,Census subdivision,2021,Beloeil,14355,  15 to 64 years,Total - Age
+2021A00052457040,Census subdivision,2021,Beloeil,4815,  65 years and over,Total - Age
+2021A00052458007,Census subdivision,2021,Brossard,15160,  0 to 14 years,Total - Age
+2021A00052458007,Census subdivision,2021,Brossard,56340,  15 to 64 years,Total - Age
+2021A00052458007,Census subdivision,2021,Brossard,17645,  65 years and over,Total - Age
+2021A00052458012,Census subdivision,2021,Saint-Lambert,3410,  0 to 14 years,Total - Age
+2021A00052458012,Census subdivision,2021,Saint-Lambert,12760,  15 to 64 years,Total - Age
+2021A00052458012,Census subdivision,2021,Saint-Lambert,5620,  65 years and over,Total - Age
+2021A00052458033,Census subdivision,2021,Boucherville,6505,  0 to 14 years,Total - Age
+2021A00052458033,Census subdivision,2021,Boucherville,24845,  15 to 64 years,Total - Age
+2021A00052458033,Census subdivision,2021,Boucherville,9525,  65 years and over,Total - Age
+2021A00052458037,Census subdivision,2021,Saint-Bruno-de-Montarville,4640,  0 to 14 years,Total - Age
+2021A00052458037,Census subdivision,2021,Saint-Bruno-de-Montarville,15545,  15 to 64 years,Total - Age
+2021A00052458037,Census subdivision,2021,Saint-Bruno-de-Montarville,5745,  65 years and over,Total - Age
+2021A00052458227,Census subdivision,2021,Longueuil,42610,  0 to 14 years,Total - Age
+2021A00052458227,Census subdivision,2021,Longueuil,162960,  15 to 64 years,Total - Age
+2021A00052458227,Census subdivision,2021,Longueuil,44865,  65 years and over,Total - Age
+2021A00052459010,Census subdivision,2021,Sainte-Julie,5205,  0 to 14 years,Total - Age
+2021A00052459010,Census subdivision,2021,Sainte-Julie,19425,  15 to 64 years,Total - Age
+2021A00052459010,Census subdivision,2021,Sainte-Julie,4710,  65 years and over,Total - Age
+2021A00052459015,Census subdivision,2021,Saint-Amable,3020,  0 to 14 years,Total - Age
+2021A00052459015,Census subdivision,2021,Saint-Amable,8975,  15 to 64 years,Total - Age
+2021A00052459015,Census subdivision,2021,Saint-Amable,1325,  65 years and over,Total - Age
+2021A00052459020,Census subdivision,2021,Varennes,3920,  0 to 14 years,Total - Age
+2021A00052459020,Census subdivision,2021,Varennes,13790,  15 to 64 years,Total - Age
+2021A00052459020,Census subdivision,2021,Varennes,3090,  65 years and over,Total - Age
+2021A00052460013,Census subdivision,2021,Repentigny,15535,  0 to 14 years,Total - Age
+2021A00052460013,Census subdivision,2021,Repentigny,52815,  15 to 64 years,Total - Age
+2021A00052460013,Census subdivision,2021,Repentigny,16630,  65 years and over,Total - Age
+2021A00052460028,Census subdivision,2021,L'Assomption,5065,  0 to 14 years,Total - Age
+2021A00052460028,Census subdivision,2021,L'Assomption,14335,  15 to 64 years,Total - Age
+2021A00052460028,Census subdivision,2021,L'Assomption,3620,  65 years and over,Total - Age
+2021A00052461025,Census subdivision,2021,Joliette,3060,  0 to 14 years,Total - Age
+2021A00052461025,Census subdivision,2021,Joliette,12530,  15 to 64 years,Total - Age
+2021A00052461025,Census subdivision,2021,Joliette,4885,  65 years and over,Total - Age
+2021A00052461035,Census subdivision,2021,Saint-Charles-Borromée,1825,  0 to 14 years,Total - Age
+2021A00052461035,Census subdivision,2021,Saint-Charles-Borromée,7395,  15 to 64 years,Total - Age
+2021A00052461035,Census subdivision,2021,Saint-Charles-Borromée,4470,  65 years and over,Total - Age
+2021A00052462037,Census subdivision,2021,Rawdon,1745,  0 to 14 years,Total - Age
+2021A00052462037,Census subdivision,2021,Rawdon,7070,  15 to 64 years,Total - Age
+2021A00052462037,Census subdivision,2021,Rawdon,2685,  65 years and over,Total - Age
+2021A00052463048,Census subdivision,2021,Saint-Lin--Laurentides,5625,  0 to 14 years,Total - Age
+2021A00052463048,Census subdivision,2021,Saint-Lin--Laurentides,15480,  15 to 64 years,Total - Age
+2021A00052463048,Census subdivision,2021,Saint-Lin--Laurentides,2760,  65 years and over,Total - Age
+2021A00052463060,Census subdivision,2021,Sainte-Julienne,2065,  0 to 14 years,Total - Age
+2021A00052463060,Census subdivision,2021,Sainte-Julienne,7060,  15 to 64 years,Total - Age
+2021A00052463060,Census subdivision,2021,Sainte-Julienne,1780,  65 years and over,Total - Age
+2021A00052464008,Census subdivision,2021,Terrebonne,23795,  0 to 14 years,Total - Age
+2021A00052464008,Census subdivision,2021,Terrebonne,77410,  15 to 64 years,Total - Age
+2021A00052464008,Census subdivision,2021,Terrebonne,16840,  65 years and over,Total - Age
+2021A00052464015,Census subdivision,2021,Mascouche,10150,  0 to 14 years,Total - Age
+2021A00052464015,Census subdivision,2021,Mascouche,32590,  15 to 64 years,Total - Age
+2021A00052464015,Census subdivision,2021,Mascouche,7340,  65 years and over,Total - Age
+2021A00052465005,Census subdivision,2021,Laval,75140,  0 to 14 years,Total - Age
+2021A00052465005,Census subdivision,2021,Laval,280025,  15 to 64 years,Total - Age
+2021A00052465005,Census subdivision,2021,Laval,74390,  65 years and over,Total - Age
+2021A00052466023,Census subdivision,2021,Montréal,269930,  0 to 14 years,Total - Age
+2021A00052466023,Census subdivision,2021,Montréal,1187090,  15 to 64 years,Total - Age
+2021A00052466023,Census subdivision,2021,Montréal,266205,  65 years and over,Total - Age
+2021A00052466032,Census subdivision,2021,Westmount,2835,  0 to 14 years,Total - Age
+2021A00052466032,Census subdivision,2021,Westmount,11150,  15 to 64 years,Total - Age
+2021A00052466032,Census subdivision,2021,Westmount,5300,  65 years and over,Total - Age
+2021A00052466058,Census subdivision,2021,Côte-Saint-Luc,6000,  0 to 14 years,Total - Age
+2021A00052466058,Census subdivision,2021,Côte-Saint-Luc,18560,  15 to 64 years,Total - Age
+2021A00052466058,Census subdivision,2021,Côte-Saint-Luc,9155,  65 years and over,Total - Age
+2021A00052466072,Census subdivision,2021,Mont-Royal,4260,  0 to 14 years,Total - Age
+2021A00052466072,Census subdivision,2021,Mont-Royal,12755,  15 to 64 years,Total - Age
+2021A00052466072,Census subdivision,2021,Mont-Royal,3675,  65 years and over,Total - Age
+2021A00052466087,Census subdivision,2021,Dorval,2640,  0 to 14 years,Total - Age
+2021A00052466087,Census subdivision,2021,Dorval,12490,  15 to 64 years,Total - Age
+2021A00052466087,Census subdivision,2021,Dorval,3885,  65 years and over,Total - Age
+2021A00052466097,Census subdivision,2021,Pointe-Claire,4885,  0 to 14 years,Total - Age
+2021A00052466097,Census subdivision,2021,Pointe-Claire,19240,  15 to 64 years,Total - Age
+2021A00052466097,Census subdivision,2021,Pointe-Claire,7435,  65 years and over,Total - Age
+2021A00052466102,Census subdivision,2021,Kirkland,3070,  0 to 14 years,Total - Age
+2021A00052466102,Census subdivision,2021,Kirkland,12480,  15 to 64 years,Total - Age
+2021A00052466102,Census subdivision,2021,Kirkland,3690,  65 years and over,Total - Age
+2021A00052466107,Census subdivision,2021,Beaconsfield,3465,  0 to 14 years,Total - Age
+2021A00052466107,Census subdivision,2021,Beaconsfield,11950,  15 to 64 years,Total - Age
+2021A00052466107,Census subdivision,2021,Beaconsfield,3620,  65 years and over,Total - Age
+2021A00052466142,Census subdivision,2021,Dollard-Des Ormeaux,7885,  0 to 14 years,Total - Age
+2021A00052466142,Census subdivision,2021,Dollard-Des Ormeaux,30210,  15 to 64 years,Total - Age
+2021A00052466142,Census subdivision,2021,Dollard-Des Ormeaux,9830,  65 years and over,Total - Age
+2021A00052467015,Census subdivision,2021,La Prairie,4765,  0 to 14 years,Total - Age
+2021A00052467015,Census subdivision,2021,La Prairie,17145,  15 to 64 years,Total - Age
+2021A00052467015,Census subdivision,2021,La Prairie,4285,  65 years and over,Total - Age
+2021A00052467020,Census subdivision,2021,Candiac,4565,  0 to 14 years,Total - Age
+2021A00052467020,Census subdivision,2021,Candiac,14580,  15 to 64 years,Total - Age
+2021A00052467020,Census subdivision,2021,Candiac,3390,  65 years and over,Total - Age
+2021A00052467030,Census subdivision,2021,Sainte-Catherine,2910,  0 to 14 years,Total - Age
+2021A00052467030,Census subdivision,2021,Sainte-Catherine,11200,  15 to 64 years,Total - Age
+2021A00052467030,Census subdivision,2021,Sainte-Catherine,2490,  65 years and over,Total - Age
+2021A00052467035,Census subdivision,2021,Saint-Constant,5980,  0 to 14 years,Total - Age
+2021A00052467035,Census subdivision,2021,Saint-Constant,19800,  15 to 64 years,Total - Age
+2021A00052467035,Census subdivision,2021,Saint-Constant,3975,  65 years and over,Total - Age
+2021A00052467045,Census subdivision,2021,Mercier,3240,  0 to 14 years,Total - Age
+2021A00052467045,Census subdivision,2021,Mercier,9330,  15 to 64 years,Total - Age
+2021A00052467045,Census subdivision,2021,Mercier,2000,  65 years and over,Total - Age
+2021A00052467050,Census subdivision,2021,Châteauguay,9330,  0 to 14 years,Total - Age
+2021A00052467050,Census subdivision,2021,Châteauguay,31435,  15 to 64 years,Total - Age
+2021A00052467050,Census subdivision,2021,Châteauguay,9230,  65 years and over,Total - Age
+2021A00052470022,Census subdivision,2021,Beauharnois,2225,  0 to 14 years,Total - Age
+2021A00052470022,Census subdivision,2021,Beauharnois,8505,  15 to 64 years,Total - Age
+2021A00052470022,Census subdivision,2021,Beauharnois,2790,  65 years and over,Total - Age
+2021A00052470052,Census subdivision,2021,Salaberry-de-Valleyfield,6240,  0 to 14 years,Total - Age
+2021A00052470052,Census subdivision,2021,Salaberry-de-Valleyfield,25315,  15 to 64 years,Total - Age
+2021A00052470052,Census subdivision,2021,Salaberry-de-Valleyfield,9645,  65 years and over,Total - Age
+2021A00052471060,Census subdivision,2021,L'Île-Perrot,1820,  0 to 14 years,Total - Age
+2021A00052471060,Census subdivision,2021,L'Île-Perrot,7505,  15 to 64 years,Total - Age
+2021A00052471060,Census subdivision,2021,L'Île-Perrot,1855,  65 years and over,Total - Age
+2021A00052471065,Census subdivision,2021,Notre-Dame-de-l'Île-Perrot,2110,  0 to 14 years,Total - Age
+2021A00052471065,Census subdivision,2021,Notre-Dame-de-l'Île-Perrot,7735,  15 to 64 years,Total - Age
+2021A00052471065,Census subdivision,2021,Notre-Dame-de-l'Île-Perrot,1575,  65 years and over,Total - Age
+2021A00052471070,Census subdivision,2021,Pincourt,2840,  0 to 14 years,Total - Age
+2021A00052471070,Census subdivision,2021,Pincourt,9405,  15 to 64 years,Total - Age
+2021A00052471070,Census subdivision,2021,Pincourt,2455,  65 years and over,Total - Age
+2021A00052471083,Census subdivision,2021,Vaudreuil-Dorion,8545,  0 to 14 years,Total - Age
+2021A00052471083,Census subdivision,2021,Vaudreuil-Dorion,27295,  15 to 64 years,Total - Age
+2021A00052471083,Census subdivision,2021,Vaudreuil-Dorion,6335,  65 years and over,Total - Age
+2021A00052471105,Census subdivision,2021,Saint-Lazare,4525,  0 to 14 years,Total - Age
+2021A00052471105,Census subdivision,2021,Saint-Lazare,14890,  15 to 64 years,Total - Age
+2021A00052471105,Census subdivision,2021,Saint-Lazare,2935,  65 years and over,Total - Age
+2021A00052472005,Census subdivision,2021,Saint-Eustache,7550,  0 to 14 years,Total - Age
+2021A00052472005,Census subdivision,2021,Saint-Eustache,27835,  15 to 64 years,Total - Age
+2021A00052472005,Census subdivision,2021,Saint-Eustache,8885,  65 years and over,Total - Age
+2021A00052472010,Census subdivision,2021,Deux-Montagnes,3260,  0 to 14 years,Total - Age
+2021A00052472010,Census subdivision,2021,Deux-Montagnes,11620,  15 to 64 years,Total - Age
+2021A00052472010,Census subdivision,2021,Deux-Montagnes,2715,  65 years and over,Total - Age
+2021A00052472015,Census subdivision,2021,Sainte-Marthe-sur-le-Lac,4660,  0 to 14 years,Total - Age
+2021A00052472015,Census subdivision,2021,Sainte-Marthe-sur-le-Lac,12595,  15 to 64 years,Total - Age
+2021A00052472015,Census subdivision,2021,Sainte-Marthe-sur-le-Lac,2500,  65 years and over,Total - Age
+2021A00052473005,Census subdivision,2021,Boisbriand,5545,  0 to 14 years,Total - Age
+2021A00052473005,Census subdivision,2021,Boisbriand,18430,  15 to 64 years,Total - Age
+2021A00052473005,Census subdivision,2021,Boisbriand,4300,  65 years and over,Total - Age
+2021A00052473010,Census subdivision,2021,Sainte-Thérèse,3285,  0 to 14 years,Total - Age
+2021A00052473010,Census subdivision,2021,Sainte-Thérèse,16085,  15 to 64 years,Total - Age
+2021A00052473010,Census subdivision,2021,Sainte-Thérèse,5485,  65 years and over,Total - Age
+2021A00052473015,Census subdivision,2021,Blainville,10995,  0 to 14 years,Total - Age
+2021A00052473015,Census subdivision,2021,Blainville,39910,  15 to 64 years,Total - Age
+2021A00052473015,Census subdivision,2021,Blainville,8105,  65 years and over,Total - Age
+2021A00052473020,Census subdivision,2021,Rosemère,2470,  0 to 14 years,Total - Age
+2021A00052473020,Census subdivision,2021,Rosemère,8800,  15 to 64 years,Total - Age
+2021A00052473020,Census subdivision,2021,Rosemère,2800,  65 years and over,Total - Age
+2021A00052473030,Census subdivision,2021,Bois-des-Filion,1920,  0 to 14 years,Total - Age
+2021A00052473030,Census subdivision,2021,Bois-des-Filion,6685,  15 to 64 years,Total - Age
+2021A00052473030,Census subdivision,2021,Bois-des-Filion,1435,  65 years and over,Total - Age
+2021A00052473035,Census subdivision,2021,Sainte-Anne-des-Plaines,2855,  0 to 14 years,Total - Age
+2021A00052473035,Census subdivision,2021,Sainte-Anne-des-Plaines,9465,  15 to 64 years,Total - Age
+2021A00052473035,Census subdivision,2021,Sainte-Anne-des-Plaines,2190,  65 years and over,Total - Age
+2021A00052474005,Census subdivision,2021,Mirabel,12605,  0 to 14 years,Total - Age
+2021A00052474005,Census subdivision,2021,Mirabel,40650,  15 to 64 years,Total - Age
+2021A00052474005,Census subdivision,2021,Mirabel,7590,  65 years and over,Total - Age
+2021A00052475005,Census subdivision,2021,Saint-Colomban,4080,  0 to 14 years,Total - Age
+2021A00052475005,Census subdivision,2021,Saint-Colomban,11815,  15 to 64 years,Total - Age
+2021A00052475005,Census subdivision,2021,Saint-Colomban,1830,  65 years and over,Total - Age
+2021A00052475017,Census subdivision,2021,Saint-Jérôme,12405,  0 to 14 years,Total - Age
+2021A00052475017,Census subdivision,2021,Saint-Jérôme,48210,  15 to 64 years,Total - Age
+2021A00052475017,Census subdivision,2021,Saint-Jérôme,17260,  65 years and over,Total - Age
+2021A00052475028,Census subdivision,2021,Sainte-Sophie,3890,  0 to 14 years,Total - Age
+2021A00052475028,Census subdivision,2021,Sainte-Sophie,12075,  15 to 64 years,Total - Age
+2021A00052475028,Census subdivision,2021,Sainte-Sophie,2015,  65 years and over,Total - Age
+2021A00052475040,Census subdivision,2021,Prévost,2480,  0 to 14 years,Total - Age
+2021A00052475040,Census subdivision,2021,Prévost,8640,  15 to 64 years,Total - Age
+2021A00052475040,Census subdivision,2021,Prévost,2500,  65 years and over,Total - Age
+2021A00052475045,Census subdivision,2021,Saint-Hippolyte,1770,  0 to 14 years,Total - Age
+2021A00052475045,Census subdivision,2021,Saint-Hippolyte,7120,  15 to 64 years,Total - Age
+2021A00052475045,Census subdivision,2021,Saint-Hippolyte,1755,  65 years and over,Total - Age
+2021A00052476020,Census subdivision,2021,Lachute,1995,  0 to 14 years,Total - Age
+2021A00052476020,Census subdivision,2021,Lachute,8020,  15 to 64 years,Total - Age
+2021A00052476020,Census subdivision,2021,Lachute,3345,  65 years and over,Total - Age
+2021A00052477022,Census subdivision,2021,Sainte-Adèle,1715,  0 to 14 years,Total - Age
+2021A00052477022,Census subdivision,2021,Sainte-Adèle,8415,  15 to 64 years,Total - Age
+2021A00052477022,Census subdivision,2021,Sainte-Adèle,3635,  65 years and over,Total - Age
+2021A00052477043,Census subdivision,2021,Saint-Sauveur,1150,  0 to 14 years,Total - Age
+2021A00052477043,Census subdivision,2021,Saint-Sauveur,6335,  15 to 64 years,Total - Age
+2021A00052477043,Census subdivision,2021,Saint-Sauveur,3925,  65 years and over,Total - Age
+2021A00052478032,Census subdivision,2021,Sainte-Agathe-des-Monts,1385,  0 to 14 years,Total - Age
+2021A00052478032,Census subdivision,2021,Sainte-Agathe-des-Monts,6290,  15 to 64 years,Total - Age
+2021A00052478032,Census subdivision,2021,Sainte-Agathe-des-Monts,3175,  65 years and over,Total - Age
+2021A00052478102,Census subdivision,2021,Mont-Tremblant,1300,  0 to 14 years,Total - Age
+2021A00052478102,Census subdivision,2021,Mont-Tremblant,6380,  15 to 64 years,Total - Age
+2021A00052478102,Census subdivision,2021,Mont-Tremblant,2875,  65 years and over,Total - Age
+2021A00052479088,Census subdivision,2021,Mont-Laurier,2015,  0 to 14 years,Total - Age
+2021A00052479088,Census subdivision,2021,Mont-Laurier,8320,  15 to 64 years,Total - Age
+2021A00052479088,Census subdivision,2021,Mont-Laurier,3360,  65 years and over,Total - Age
+2021A00052481017,Census subdivision,2021,Gatineau,52580,  0 to 14 years,Total - Age
+2021A00052481017,Census subdivision,2021,Gatineau,189730,  15 to 64 years,Total - Age
+2021A00052481017,Census subdivision,2021,Gatineau,43405,  65 years and over,Total - Age
+2021A00052482015,Census subdivision,2021,Val-des-Monts,2570,  0 to 14 years,Total - Age
+2021A00052482015,Census subdivision,2021,Val-des-Monts,9005,  15 to 64 years,Total - Age
+2021A00052482015,Census subdivision,2021,Val-des-Monts,1745,  65 years and over,Total - Age
+2021A00052482020,Census subdivision,2021,Cantley,2445,  0 to 14 years,Total - Age
+2021A00052482020,Census subdivision,2021,Cantley,7780,  15 to 64 years,Total - Age
+2021A00052482020,Census subdivision,2021,Cantley,1210,  65 years and over,Total - Age
+2021A00052486042,Census subdivision,2021,Rouyn-Noranda,7295,  0 to 14 years,Total - Age
+2021A00052486042,Census subdivision,2021,Rouyn-Noranda,26565,  15 to 64 years,Total - Age
+2021A00052486042,Census subdivision,2021,Rouyn-Noranda,7430,  65 years and over,Total - Age
+2021A00052488055,Census subdivision,2021,Amos,2000,  0 to 14 years,Total - Age
+2021A00052488055,Census subdivision,2021,Amos,7540,  15 to 64 years,Total - Age
+2021A00052488055,Census subdivision,2021,Amos,2565,  65 years and over,Total - Age
+2021A00052489008,Census subdivision,2021,Val-d'Or,5625,  0 to 14 years,Total - Age
+2021A00052489008,Census subdivision,2021,Val-d'Or,20565,  15 to 64 years,Total - Age
+2021A00052489008,Census subdivision,2021,Val-d'Or,5955,  65 years and over,Total - Age
+2021A00052490012,Census subdivision,2021,La Tuque,1575,  0 to 14 years,Total - Age
+2021A00052490012,Census subdivision,2021,La Tuque,6525,  15 to 64 years,Total - Age
+2021A00052490012,Census subdivision,2021,La Tuque,2820,  65 years and over,Total - Age
+2021A00052491042,Census subdivision,2021,Saint-Félicien,1555,  0 to 14 years,Total - Age
+2021A00052491042,Census subdivision,2021,Saint-Félicien,5945,  15 to 64 years,Total - Age
+2021A00052491042,Census subdivision,2021,Saint-Félicien,2370,  65 years and over,Total - Age
+2021A00052492022,Census subdivision,2021,Dolbeau-Mistassini,2065,  0 to 14 years,Total - Age
+2021A00052492022,Census subdivision,2021,Dolbeau-Mistassini,7725,  15 to 64 years,Total - Age
+2021A00052492022,Census subdivision,2021,Dolbeau-Mistassini,3335,  65 years and over,Total - Age
+2021A00052493042,Census subdivision,2021,Alma,4635,  0 to 14 years,Total - Age
+2021A00052493042,Census subdivision,2021,Alma,17950,  15 to 64 years,Total - Age
+2021A00052493042,Census subdivision,2021,Alma,6735,  65 years and over,Total - Age
+2021A00052494068,Census subdivision,2021,Saguenay,21530,  0 to 14 years,Total - Age
+2021A00052494068,Census subdivision,2021,Saguenay,86625,  15 to 64 years,Total - Age
+2021A00052494068,Census subdivision,2021,Saguenay,32960,  65 years and over,Total - Age
+2021A00052496020,Census subdivision,2021,Baie-Comeau,2950,  0 to 14 years,Total - Age
+2021A00052496020,Census subdivision,2021,Baie-Comeau,12575,  15 to 64 years,Total - Age
+2021A00052496020,Census subdivision,2021,Baie-Comeau,4270,  65 years and over,Total - Age
+2021A00052497007,Census subdivision,2021,Sept-Îles,4005,  0 to 14 years,Total - Age
+2021A00052497007,Census subdivision,2021,Sept-Îles,15330,  15 to 64 years,Total - Age
+2021A00052497007,Census subdivision,2021,Sept-Îles,4690,  65 years and over,Total - Age
+2021C30052499999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Quebec",303915,  0 to 14 years,Total - Age
+2021C30052499999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Quebec",1088590,  15 to 64 years,Total - Age
+2021C30052499999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Quebec",393330,  65 years and over,Total - Age
+2021A00053501005,Census subdivision,2021,South Glengarry,2000,  0 to 14 years,Total - Age
+2021A00053501005,Census subdivision,2021,South Glengarry,7965,  15 to 64 years,Total - Age
+2021A00053501005,Census subdivision,2021,South Glengarry,3250,  65 years and over,Total - Age
+2021A00053501011,Census subdivision,2021,South Stormont,2125,  0 to 14 years,Total - Age
+2021A00053501011,Census subdivision,2021,South Stormont,8310,  15 to 64 years,Total - Age
+2021A00053501011,Census subdivision,2021,South Stormont,2970,  65 years and over,Total - Age
+2021A00053501012,Census subdivision,2021,Cornwall,7505,  0 to 14 years,Total - Age
+2021A00053501012,Census subdivision,2021,Cornwall,27930,  15 to 64 years,Total - Age
+2021A00053501012,Census subdivision,2021,Cornwall,10910,  65 years and over,Total - Age
+2021A00053501020,Census subdivision,2021,South Dundas,1655,  0 to 14 years,Total - Age
+2021A00053501020,Census subdivision,2021,South Dundas,6365,  15 to 64 years,Total - Age
+2021A00053501020,Census subdivision,2021,South Dundas,2925,  65 years and over,Total - Age
+2021A00053501030,Census subdivision,2021,North Dundas,1915,  0 to 14 years,Total - Age
+2021A00053501030,Census subdivision,2021,North Dundas,7030,  15 to 64 years,Total - Age
+2021A00053501030,Census subdivision,2021,North Dundas,2160,  65 years and over,Total - Age
+2021A00053501050,Census subdivision,2021,North Glengarry,1385,  0 to 14 years,Total - Age
+2021A00053501050,Census subdivision,2021,North Glengarry,5975,  15 to 64 years,Total - Age
+2021A00053501050,Census subdivision,2021,North Glengarry,2535,  65 years and over,Total - Age
+2021A00053502008,Census subdivision,2021,Hawkesbury,1200,  0 to 14 years,Total - Age
+2021A00053502008,Census subdivision,2021,Hawkesbury,5670,  15 to 64 years,Total - Age
+2021A00053502008,Census subdivision,2021,Hawkesbury,2960,  65 years and over,Total - Age
+2021A00053502025,Census subdivision,2021,The Nation / La Nation,2420,  0 to 14 years,Total - Age
+2021A00053502025,Census subdivision,2021,The Nation / La Nation,8790,  15 to 64 years,Total - Age
+2021A00053502025,Census subdivision,2021,The Nation / La Nation,1945,  65 years and over,Total - Age
+2021A00053502036,Census subdivision,2021,Clarence-Rockland,4705,  0 to 14 years,Total - Age
+2021A00053502036,Census subdivision,2021,Clarence-Rockland,16750,  15 to 64 years,Total - Age
+2021A00053502036,Census subdivision,2021,Clarence-Rockland,4490,  65 years and over,Total - Age
+2021A00053502048,Census subdivision,2021,Russell,3855,  0 to 14 years,Total - Age
+2021A00053502048,Census subdivision,2021,Russell,12895,  15 to 64 years,Total - Age
+2021A00053502048,Census subdivision,2021,Russell,2690,  65 years and over,Total - Age
+2021A00053506008,Census subdivision,2021,Ottawa,166800,  0 to 14 years,Total - Age
+2021A00053506008,Census subdivision,2021,Ottawa,673700,  15 to 64 years,Total - Age
+2021A00053506008,Census subdivision,2021,Ottawa,160435,  65 years and over,Total - Age
+2021A00053507015,Census subdivision,2021,Brockville,2655,  0 to 14 years,Total - Age
+2021A00053507015,Census subdivision,2021,Brockville,12665,  15 to 64 years,Total - Age
+2021A00053507015,Census subdivision,2021,Brockville,6195,  65 years and over,Total - Age
+2021A00053507040,Census subdivision,2021,Rideau Lakes,1355,  0 to 14 years,Total - Age
+2021A00053507040,Census subdivision,2021,Rideau Lakes,6125,  15 to 64 years,Total - Age
+2021A00053507040,Census subdivision,2021,Rideau Lakes,3310,  65 years and over,Total - Age
+2021A00053507065,Census subdivision,2021,North Grenville,2930,  0 to 14 years,Total - Age
+2021A00053507065,Census subdivision,2021,North Grenville,11165,  15 to 64 years,Total - Age
+2021A00053507065,Census subdivision,2021,North Grenville,3710,  65 years and over,Total - Age
+2021A00053509028,Census subdivision,2021,Carleton Place,2235,  0 to 14 years,Total - Age
+2021A00053509028,Census subdivision,2021,Carleton Place,7660,  15 to 64 years,Total - Age
+2021A00053509028,Census subdivision,2021,Carleton Place,2375,  65 years and over,Total - Age
+2021A00053509030,Census subdivision,2021,Mississippi Mills,2175,  0 to 14 years,Total - Age
+2021A00053509030,Census subdivision,2021,Mississippi Mills,8610,  15 to 64 years,Total - Age
+2021A00053509030,Census subdivision,2021,Mississippi Mills,3605,  65 years and over,Total - Age
+2021A00053510010,Census subdivision,2021,Kingston,18710,  0 to 14 years,Total - Age
+2021A00053510010,Census subdivision,2021,Kingston,84210,  15 to 64 years,Total - Age
+2021A00053510010,Census subdivision,2021,Kingston,26190,  65 years and over,Total - Age
+2021A00053510020,Census subdivision,2021,South Frontenac,3110,  0 to 14 years,Total - Age
+2021A00053510020,Census subdivision,2021,South Frontenac,12705,  15 to 64 years,Total - Age
+2021A00053510020,Census subdivision,2021,South Frontenac,4320,  65 years and over,Total - Age
+2021A00053511005,Census subdivision,2021,Loyalist,2800,  0 to 14 years,Total - Age
+2021A00053511005,Census subdivision,2021,Loyalist,10365,  15 to 64 years,Total - Age
+2021A00053511005,Census subdivision,2021,Loyalist,3730,  65 years and over,Total - Age
+2021A00053511015,Census subdivision,2021,Greater Napanee,2285,  0 to 14 years,Total - Age
+2021A00053511015,Census subdivision,2021,Greater Napanee,9535,  15 to 64 years,Total - Age
+2021A00053511015,Census subdivision,2021,Greater Napanee,4145,  65 years and over,Total - Age
+2021A00053512005,Census subdivision,2021,Belleville,8220,  0 to 14 years,Total - Age
+2021A00053512005,Census subdivision,2021,Belleville,33505,  15 to 64 years,Total - Age
+2021A00053512005,Census subdivision,2021,Belleville,12065,  65 years and over,Total - Age
+2021A00053512015,Census subdivision,2021,Quinte West,7345,  0 to 14 years,Total - Age
+2021A00053512015,Census subdivision,2021,Quinte West,28640,  15 to 64 years,Total - Age
+2021A00053512015,Census subdivision,2021,Quinte West,9990,  65 years and over,Total - Age
+2021A00053513020,Census subdivision,2021,Prince Edward County,2960,  0 to 14 years,Total - Age
+2021A00053513020,Census subdivision,2021,Prince Edward County,13950,  15 to 64 years,Total - Age
+2021A00053513020,Census subdivision,2021,Prince Edward County,8280,  65 years and over,Total - Age
+2021A00053514004,Census subdivision,2021,Brighton,1360,  0 to 14 years,Total - Age
+2021A00053514004,Census subdivision,2021,Brighton,6260,  15 to 64 years,Total - Age
+2021A00053514004,Census subdivision,2021,Brighton,3875,  65 years and over,Total - Age
+2021A00053514019,Census subdivision,2021,Hamilton,1535,  0 to 14 years,Total - Age
+2021A00053514019,Census subdivision,2021,Hamilton,6990,  15 to 64 years,Total - Age
+2021A00053514019,Census subdivision,2021,Hamilton,2505,  65 years and over,Total - Age
+2021A00053514020,Census subdivision,2021,Port Hope,2215,  0 to 14 years,Total - Age
+2021A00053514020,Census subdivision,2021,Port Hope,10165,  15 to 64 years,Total - Age
+2021A00053514020,Census subdivision,2021,Port Hope,4505,  65 years and over,Total - Age
+2021A00053514021,Census subdivision,2021,Cobourg,2535,  0 to 14 years,Total - Age
+2021A00053514021,Census subdivision,2021,Cobourg,10935,  15 to 64 years,Total - Age
+2021A00053514021,Census subdivision,2021,Cobourg,6310,  65 years and over,Total - Age
+2021A00053514045,Census subdivision,2021,Trent Hills,1720,  0 to 14 years,Total - Age
+2021A00053514045,Census subdivision,2021,Trent Hills,7790,  15 to 64 years,Total - Age
+2021A00053514045,Census subdivision,2021,Trent Hills,4105,  65 years and over,Total - Age
+2021A00053515013,Census subdivision,2021,Cavan Monaghan,1785,  0 to 14 years,Total - Age
+2021A00053515013,Census subdivision,2021,Cavan Monaghan,6095,  15 to 64 years,Total - Age
+2021A00053515013,Census subdivision,2021,Cavan Monaghan,1885,  65 years and over,Total - Age
+2021A00053515014,Census subdivision,2021,Peterborough,11960,  0 to 14 years,Total - Age
+2021A00053515014,Census subdivision,2021,Peterborough,51000,  15 to 64 years,Total - Age
+2021A00053515014,Census subdivision,2021,Peterborough,18640,  65 years and over,Total - Age
+2021A00053515015,Census subdivision,2021,Selwyn,2595,  0 to 14 years,Total - Age
+2021A00053515015,Census subdivision,2021,Selwyn,10705,  15 to 64 years,Total - Age
+2021A00053515015,Census subdivision,2021,Selwyn,5160,  65 years and over,Total - Age
+2021A00053516010,Census subdivision,2021,Kawartha Lakes,10530,  0 to 14 years,Total - Age
+2021A00053516010,Census subdivision,2021,Kawartha Lakes,45440,  15 to 64 years,Total - Age
+2021A00053516010,Census subdivision,2021,Kawartha Lakes,21260,  65 years and over,Total - Age
+2021A00053518001,Census subdivision,2021,Pickering,16390,  0 to 14 years,Total - Age
+2021A00053518001,Census subdivision,2021,Pickering,66265,  15 to 64 years,Total - Age
+2021A00053518001,Census subdivision,2021,Pickering,15930,  65 years and over,Total - Age
+2021A00053518005,Census subdivision,2021,Ajax,23790,  0 to 14 years,Total - Age
+2021A00053518005,Census subdivision,2021,Ajax,86175,  15 to 64 years,Total - Age
+2021A00053518005,Census subdivision,2021,Ajax,16285,  65 years and over,Total - Age
+2021A00053518009,Census subdivision,2021,Whitby,26400,  0 to 14 years,Total - Age
+2021A00053518009,Census subdivision,2021,Whitby,91185,  15 to 64 years,Total - Age
+2021A00053518009,Census subdivision,2021,Whitby,19080,  65 years and over,Total - Age
+2021A00053518013,Census subdivision,2021,Oshawa,30770,  0 to 14 years,Total - Age
+2021A00053518013,Census subdivision,2021,Oshawa,114935,  15 to 64 years,Total - Age
+2021A00053518013,Census subdivision,2021,Oshawa,28300,  65 years and over,Total - Age
+2021A00053518017,Census subdivision,2021,Clarington,19600,  0 to 14 years,Total - Age
+2021A00053518017,Census subdivision,2021,Clarington,66000,  15 to 64 years,Total - Age
+2021A00053518017,Census subdivision,2021,Clarington,15130,  65 years and over,Total - Age
+2021A00053518020,Census subdivision,2021,Scugog,3015,  0 to 14 years,Total - Age
+2021A00053518020,Census subdivision,2021,Scugog,13255,  15 to 64 years,Total - Age
+2021A00053518020,Census subdivision,2021,Scugog,5010,  65 years and over,Total - Age
+2021A00053518029,Census subdivision,2021,Uxbridge,3265,  0 to 14 years,Total - Age
+2021A00053518029,Census subdivision,2021,Uxbridge,13650,  15 to 64 years,Total - Age
+2021A00053518029,Census subdivision,2021,Uxbridge,4495,  65 years and over,Total - Age
+2021A00053518039,Census subdivision,2021,Brock,2130,  0 to 14 years,Total - Age
+2021A00053518039,Census subdivision,2021,Brock,7610,  15 to 64 years,Total - Age
+2021A00053518039,Census subdivision,2021,Brock,2565,  65 years and over,Total - Age
+2021A00053519028,Census subdivision,2021,Vaughan,53260,  0 to 14 years,Total - Age
+2021A00053519028,Census subdivision,2021,Vaughan,216920,  15 to 64 years,Total - Age
+2021A00053519028,Census subdivision,2021,Vaughan,51130,  65 years and over,Total - Age
+2021A00053519036,Census subdivision,2021,Markham,53850,  0 to 14 years,Total - Age
+2021A00053519036,Census subdivision,2021,Markham,222425,  15 to 64 years,Total - Age
+2021A00053519036,Census subdivision,2021,Markham,60980,  65 years and over,Total - Age
+2021A00053519038,Census subdivision,2021,Richmond Hill,29950,  0 to 14 years,Total - Age
+2021A00053519038,Census subdivision,2021,Richmond Hill,137175,  15 to 64 years,Total - Age
+2021A00053519038,Census subdivision,2021,Richmond Hill,33805,  65 years and over,Total - Age
+2021A00053519044,Census subdivision,2021,Whitchurch-Stouffville,9650,  0 to 14 years,Total - Age
+2021A00053519044,Census subdivision,2021,Whitchurch-Stouffville,31205,  15 to 64 years,Total - Age
+2021A00053519044,Census subdivision,2021,Whitchurch-Stouffville,8570,  65 years and over,Total - Age
+2021A00053519046,Census subdivision,2021,Aurora,10560,  0 to 14 years,Total - Age
+2021A00053519046,Census subdivision,2021,Aurora,41790,  15 to 64 years,Total - Age
+2021A00053519046,Census subdivision,2021,Aurora,9040,  65 years and over,Total - Age
+2021A00053519048,Census subdivision,2021,Newmarket,14510,  0 to 14 years,Total - Age
+2021A00053519048,Census subdivision,2021,Newmarket,59185,  15 to 64 years,Total - Age
+2021A00053519048,Census subdivision,2021,Newmarket,12915,  65 years and over,Total - Age
+2021A00053519049,Census subdivision,2021,King,4875,  0 to 14 years,Total - Age
+2021A00053519049,Census subdivision,2021,King,17915,  15 to 64 years,Total - Age
+2021A00053519049,Census subdivision,2021,King,4415,  65 years and over,Total - Age
+2021A00053519054,Census subdivision,2021,East Gwillimbury,6615,  0 to 14 years,Total - Age
+2021A00053519054,Census subdivision,2021,East Gwillimbury,22825,  15 to 64 years,Total - Age
+2021A00053519054,Census subdivision,2021,East Gwillimbury,4680,  65 years and over,Total - Age
+2021A00053519070,Census subdivision,2021,Georgina,7770,  0 to 14 years,Total - Age
+2021A00053519070,Census subdivision,2021,Georgina,31620,  15 to 64 years,Total - Age
+2021A00053519070,Census subdivision,2021,Georgina,7735,  65 years and over,Total - Age
+2021A00053520005,Census subdivision,2021,Toronto,383340,  0 to 14 years,Total - Age
+2021A00053520005,Census subdivision,2021,Toronto,1921010,  15 to 64 years,Total - Age
+2021A00053520005,Census subdivision,2021,Toronto,456940,  65 years and over,Total - Age
+2021A00053521005,Census subdivision,2021,Mississauga,109230,  0 to 14 years,Total - Age
+2021A00053521005,Census subdivision,2021,Mississauga,488510,  15 to 64 years,Total - Age
+2021A00053521005,Census subdivision,2021,Mississauga,115080,  65 years and over,Total - Age
+2021A00053521010,Census subdivision,2021,Brampton,117620,  0 to 14 years,Total - Age
+2021A00053521010,Census subdivision,2021,Brampton,452810,  15 to 64 years,Total - Age
+2021A00053521010,Census subdivision,2021,Brampton,79730,  65 years and over,Total - Age
+2021A00053521024,Census subdivision,2021,Caledon,13150,  0 to 14 years,Total - Age
+2021A00053521024,Census subdivision,2021,Caledon,51670,  15 to 64 years,Total - Age
+2021A00053521024,Census subdivision,2021,Caledon,11265,  65 years and over,Total - Age
+2021A00053522014,Census subdivision,2021,Orangeville,5720,  0 to 14 years,Total - Age
+2021A00053522014,Census subdivision,2021,Orangeville,19750,  15 to 64 years,Total - Age
+2021A00053522014,Census subdivision,2021,Orangeville,4225,  65 years and over,Total - Age
+2021A00053523008,Census subdivision,2021,Guelph,23480,  0 to 14 years,Total - Age
+2021A00053523008,Census subdivision,2021,Guelph,96380,  15 to 64 years,Total - Age
+2021A00053523008,Census subdivision,2021,Guelph,21970,  65 years and over,Total - Age
+2021A00053523009,Census subdivision,2021,Guelph/Eramosa,2310,  0 to 14 years,Total - Age
+2021A00053523009,Census subdivision,2021,Guelph/Eramosa,8925,  15 to 64 years,Total - Age
+2021A00053523009,Census subdivision,2021,Guelph/Eramosa,2510,  65 years and over,Total - Age
+2021A00053523017,Census subdivision,2021,Erin,1810,  0 to 14 years,Total - Age
+2021A00053523017,Census subdivision,2021,Erin,8065,  15 to 64 years,Total - Age
+2021A00053523017,Census subdivision,2021,Erin,2080,  65 years and over,Total - Age
+2021A00053523025,Census subdivision,2021,Centre Wellington,5335,  0 to 14 years,Total - Age
+2021A00053523025,Census subdivision,2021,Centre Wellington,18760,  15 to 64 years,Total - Age
+2021A00053523025,Census subdivision,2021,Centre Wellington,6550,  65 years and over,Total - Age
+2021A00053523033,Census subdivision,2021,Mapleton,2930,  0 to 14 years,Total - Age
+2021A00053523033,Census subdivision,2021,Mapleton,6570,  15 to 64 years,Total - Age
+2021A00053523033,Census subdivision,2021,Mapleton,1325,  65 years and over,Total - Age
+2021A00053523050,Census subdivision,2021,Wellington North,2340,  0 to 14 years,Total - Age
+2021A00053523050,Census subdivision,2021,Wellington North,7325,  15 to 64 years,Total - Age
+2021A00053523050,Census subdivision,2021,Wellington North,2435,  65 years and over,Total - Age
+2021A00053524001,Census subdivision,2021,Oakville,38430,  0 to 14 years,Total - Age
+2021A00053524001,Census subdivision,2021,Oakville,141515,  15 to 64 years,Total - Age
+2021A00053524001,Census subdivision,2021,Oakville,32110,  65 years and over,Total - Age
+2021A00053524002,Census subdivision,2021,Burlington,29880,  0 to 14 years,Total - Age
+2021A00053524002,Census subdivision,2021,Burlington,117430,  15 to 64 years,Total - Age
+2021A00053524002,Census subdivision,2021,Burlington,36645,  65 years and over,Total - Age
+2021A00053524009,Census subdivision,2021,Milton,31970,  0 to 14 years,Total - Age
+2021A00053524009,Census subdivision,2021,Milton,86640,  15 to 64 years,Total - Age
+2021A00053524009,Census subdivision,2021,Milton,12825,  65 years and over,Total - Age
+2021A00053524015,Census subdivision,2021,Halton Hills,10710,  0 to 14 years,Total - Age
+2021A00053524015,Census subdivision,2021,Halton Hills,42530,  15 to 64 years,Total - Age
+2021A00053524015,Census subdivision,2021,Halton Hills,9085,  65 years and over,Total - Age
+2021A00053525005,Census subdivision,2021,Hamilton,91120,  0 to 14 years,Total - Age
+2021A00053525005,Census subdivision,2021,Hamilton,371225,  15 to 64 years,Total - Age
+2021A00053525005,Census subdivision,2021,Hamilton,98575,  65 years and over,Total - Age
+2021A00053526003,Census subdivision,2021,Fort Erie,4400,  0 to 14 years,Total - Age
+2021A00053526003,Census subdivision,2021,Fort Erie,19415,  15 to 64 years,Total - Age
+2021A00053526003,Census subdivision,2021,Fort Erie,8675,  65 years and over,Total - Age
+2021A00053526011,Census subdivision,2021,Port Colborne,2630,  0 to 14 years,Total - Age
+2021A00053526011,Census subdivision,2021,Port Colborne,11895,  15 to 64 years,Total - Age
+2021A00053526011,Census subdivision,2021,Port Colborne,4880,  65 years and over,Total - Age
+2021A00053526021,Census subdivision,2021,West Lincoln,3115,  0 to 14 years,Total - Age
+2021A00053526021,Census subdivision,2021,West Lincoln,9605,  15 to 64 years,Total - Age
+2021A00053526021,Census subdivision,2021,West Lincoln,2685,  65 years and over,Total - Age
+2021A00053526028,Census subdivision,2021,Pelham,2715,  0 to 14 years,Total - Age
+2021A00053526028,Census subdivision,2021,Pelham,10445,  15 to 64 years,Total - Age
+2021A00053526028,Census subdivision,2021,Pelham,4640,  65 years and over,Total - Age
+2021A00053526032,Census subdivision,2021,Welland,8310,  0 to 14 years,Total - Age
+2021A00053526032,Census subdivision,2021,Welland,34450,  15 to 64 years,Total - Age
+2021A00053526032,Census subdivision,2021,Welland,12220,  65 years and over,Total - Age
+2021A00053526037,Census subdivision,2021,Thorold,4015,  0 to 14 years,Total - Age
+2021A00053526037,Census subdivision,2021,Thorold,15840,  15 to 64 years,Total - Age
+2021A00053526037,Census subdivision,2021,Thorold,3680,  65 years and over,Total - Age
+2021A00053526043,Census subdivision,2021,Niagara Falls,13855,  0 to 14 years,Total - Age
+2021A00053526043,Census subdivision,2021,Niagara Falls,59370,  15 to 64 years,Total - Age
+2021A00053526043,Census subdivision,2021,Niagara Falls,19445,  65 years and over,Total - Age
+2021A00053526047,Census subdivision,2021,Niagara-on-the-Lake,2095,  0 to 14 years,Total - Age
+2021A00053526047,Census subdivision,2021,Niagara-on-the-Lake,9835,  15 to 64 years,Total - Age
+2021A00053526047,Census subdivision,2021,Niagara-on-the-Lake,6535,  65 years and over,Total - Age
+2021A00053526053,Census subdivision,2021,St. Catharines,19330,  0 to 14 years,Total - Age
+2021A00053526053,Census subdivision,2021,St. Catharines,85055,  15 to 64 years,Total - Age
+2021A00053526053,Census subdivision,2021,St. Catharines,29950,  65 years and over,Total - Age
+2021A00053526057,Census subdivision,2021,Lincoln,4265,  0 to 14 years,Total - Age
+2021A00053526057,Census subdivision,2021,Lincoln,15370,  15 to 64 years,Total - Age
+2021A00053526057,Census subdivision,2021,Lincoln,5310,  65 years and over,Total - Age
+2021A00053526065,Census subdivision,2021,Grimsby,4675,  0 to 14 years,Total - Age
+2021A00053526065,Census subdivision,2021,Grimsby,18000,  15 to 64 years,Total - Age
+2021A00053526065,Census subdivision,2021,Grimsby,5895,  65 years and over,Total - Age
+2021A00053528018,Census subdivision,2021,Haldimand County,8625,  0 to 14 years,Total - Age
+2021A00053528018,Census subdivision,2021,Haldimand County,30320,  15 to 64 years,Total - Age
+2021A00053528018,Census subdivision,2021,Haldimand County,9620,  65 years and over,Total - Age
+2021A00053528052,Census subdivision,2021,Norfolk County,10245,  0 to 14 years,Total - Age
+2021A00053528052,Census subdivision,2021,Norfolk County,39230,  15 to 64 years,Total - Age
+2021A00053528052,Census subdivision,2021,Norfolk County,16755,  65 years and over,Total - Age
+2021A00053529005,Census subdivision,2021,Brant,6665,  0 to 14 years,Total - Age
+2021A00053529005,Census subdivision,2021,Brant,24560,  15 to 64 years,Total - Age
+2021A00053529005,Census subdivision,2021,Brant,7475,  65 years and over,Total - Age
+2021A00053529006,Census subdivision,2021,Brantford,17980,  0 to 14 years,Total - Age
+2021A00053529006,Census subdivision,2021,Brantford,66515,  15 to 64 years,Total - Age
+2021A00053529006,Census subdivision,2021,Brantford,18705,  65 years and over,Total - Age
+2021A00053530004,Census subdivision,2021,North Dumfries,1940,  0 to 14 years,Total - Age
+2021A00053530004,Census subdivision,2021,North Dumfries,6865,  15 to 64 years,Total - Age
+2021A00053530004,Census subdivision,2021,North Dumfries,1755,  65 years and over,Total - Age
+2021A00053530010,Census subdivision,2021,Cambridge,24465,  0 to 14 years,Total - Age
+2021A00053530010,Census subdivision,2021,Cambridge,91550,  15 to 64 years,Total - Age
+2021A00053530010,Census subdivision,2021,Cambridge,21105,  65 years and over,Total - Age
+2021A00053530013,Census subdivision,2021,Kitchener,44865,  0 to 14 years,Total - Age
+2021A00053530013,Census subdivision,2021,Kitchener,173310,  15 to 64 years,Total - Age
+2021A00053530013,Census subdivision,2021,Kitchener,35970,  65 years and over,Total - Age
+2021A00053530016,Census subdivision,2021,Waterloo,17570,  0 to 14 years,Total - Age
+2021A00053530016,Census subdivision,2021,Waterloo,83880,  15 to 64 years,Total - Age
+2021A00053530016,Census subdivision,2021,Waterloo,16940,  65 years and over,Total - Age
+2021A00053530020,Census subdivision,2021,Wilmot,4020,  0 to 14 years,Total - Age
+2021A00053530020,Census subdivision,2021,Wilmot,12820,  15 to 64 years,Total - Age
+2021A00053530020,Census subdivision,2021,Wilmot,4405,  65 years and over,Total - Age
+2021A00053530027,Census subdivision,2021,Wellesley,2775,  0 to 14 years,Total - Age
+2021A00053530027,Census subdivision,2021,Wellesley,6950,  15 to 64 years,Total - Age
+2021A00053530027,Census subdivision,2021,Wellesley,1585,  65 years and over,Total - Age
+2021A00053530035,Census subdivision,2021,Woolwich,5605,  0 to 14 years,Total - Age
+2021A00053530035,Census subdivision,2021,Woolwich,16555,  15 to 64 years,Total - Age
+2021A00053530035,Census subdivision,2021,Woolwich,4450,  65 years and over,Total - Age
+2021A00053531011,Census subdivision,2021,Stratford,4765,  0 to 14 years,Total - Age
+2021A00053531011,Census subdivision,2021,Stratford,20340,  15 to 64 years,Total - Age
+2021A00053531011,Census subdivision,2021,Stratford,7380,  65 years and over,Total - Age
+2021A00053531030,Census subdivision,2021,Perth East,2915,  0 to 14 years,Total - Age
+2021A00053531030,Census subdivision,2021,Perth East,7655,  15 to 64 years,Total - Age
+2021A00053531030,Census subdivision,2021,Perth East,1820,  65 years and over,Total - Age
+2021A00053531040,Census subdivision,2021,North Perth,3280,  0 to 14 years,Total - Age
+2021A00053531040,Census subdivision,2021,North Perth,9335,  15 to 64 years,Total - Age
+2021A00053531040,Census subdivision,2021,North Perth,2795,  65 years and over,Total - Age
+2021A00053532002,Census subdivision,2021,Norwich,2640,  0 to 14 years,Total - Age
+2021A00053532002,Census subdivision,2021,Norwich,6780,  15 to 64 years,Total - Age
+2021A00053532002,Census subdivision,2021,Norwich,1690,  65 years and over,Total - Age
+2021A00053532004,Census subdivision,2021,Tillsonburg,2630,  0 to 14 years,Total - Age
+2021A00053532004,Census subdivision,2021,Tillsonburg,10470,  15 to 64 years,Total - Age
+2021A00053532004,Census subdivision,2021,Tillsonburg,5195,  65 years and over,Total - Age
+2021A00053532018,Census subdivision,2021,Ingersoll,2495,  0 to 14 years,Total - Age
+2021A00053532018,Census subdivision,2021,Ingersoll,8825,  15 to 64 years,Total - Age
+2021A00053532018,Census subdivision,2021,Ingersoll,2215,  65 years and over,Total - Age
+2021A00053532042,Census subdivision,2021,Woodstock,8225,  0 to 14 years,Total - Age
+2021A00053532042,Census subdivision,2021,Woodstock,29155,  15 to 64 years,Total - Age
+2021A00053532042,Census subdivision,2021,Woodstock,8570,  65 years and over,Total - Age
+2021A00053534020,Census subdivision,2021,Central Elgin,1995,  0 to 14 years,Total - Age
+2021A00053534020,Census subdivision,2021,Central Elgin,8515,  15 to 64 years,Total - Age
+2021A00053534020,Census subdivision,2021,Central Elgin,3100,  65 years and over,Total - Age
+2021A00053534021,Census subdivision,2021,St. Thomas,7135,  0 to 14 years,Total - Age
+2021A00053534021,Census subdivision,2021,St. Thomas,26350,  15 to 64 years,Total - Age
+2021A00053534021,Census subdivision,2021,St. Thomas,8620,  65 years and over,Total - Age
+2021A00053536020,Census subdivision,2021,Chatham-Kent,16545,  0 to 14 years,Total - Age
+2021A00053536020,Census subdivision,2021,Chatham-Kent,62215,  15 to 64 years,Total - Age
+2021A00053536020,Census subdivision,2021,Chatham-Kent,23010,  65 years and over,Total - Age
+2021A00053537003,Census subdivision,2021,Leamington,5190,  0 to 14 years,Total - Age
+2021A00053537003,Census subdivision,2021,Leamington,17690,  15 to 64 years,Total - Age
+2021A00053537003,Census subdivision,2021,Leamington,5295,  65 years and over,Total - Age
+2021A00053537013,Census subdivision,2021,Kingsville,3570,  0 to 14 years,Total - Age
+2021A00053537013,Census subdivision,2021,Kingsville,12950,  15 to 64 years,Total - Age
+2021A00053537013,Census subdivision,2021,Kingsville,4665,  65 years and over,Total - Age
+2021A00053537016,Census subdivision,2021,Essex,3230,  0 to 14 years,Total - Age
+2021A00053537016,Census subdivision,2021,Essex,13095,  15 to 64 years,Total - Age
+2021A00053537016,Census subdivision,2021,Essex,4335,  65 years and over,Total - Age
+2021A00053537028,Census subdivision,2021,Amherstburg,3730,  0 to 14 years,Total - Age
+2021A00053537028,Census subdivision,2021,Amherstburg,14750,  15 to 64 years,Total - Age
+2021A00053537028,Census subdivision,2021,Amherstburg,4820,  65 years and over,Total - Age
+2021A00053537034,Census subdivision,2021,LaSalle,5515,  0 to 14 years,Total - Age
+2021A00053537034,Census subdivision,2021,LaSalle,21130,  15 to 64 years,Total - Age
+2021A00053537034,Census subdivision,2021,LaSalle,5835,  65 years and over,Total - Age
+2021A00053537039,Census subdivision,2021,Windsor,36595,  0 to 14 years,Total - Age
+2021A00053537039,Census subdivision,2021,Windsor,149270,  15 to 64 years,Total - Age
+2021A00053537039,Census subdivision,2021,Windsor,40595,  65 years and over,Total - Age
+2021A00053537048,Census subdivision,2021,Tecumseh,3575,  0 to 14 years,Total - Age
+2021A00053537048,Census subdivision,2021,Tecumseh,14315,  15 to 64 years,Total - Age
+2021A00053537048,Census subdivision,2021,Tecumseh,5120,  65 years and over,Total - Age
+2021A00053537064,Census subdivision,2021,Lakeshore,7330,  0 to 14 years,Total - Age
+2021A00053537064,Census subdivision,2021,Lakeshore,26305,  15 to 64 years,Total - Age
+2021A00053537064,Census subdivision,2021,Lakeshore,6595,  65 years and over,Total - Age
+2021A00053538003,Census subdivision,2021,St. Clair,2480,  0 to 14 years,Total - Age
+2021A00053538003,Census subdivision,2021,St. Clair,8850,  15 to 64 years,Total - Age
+2021A00053538003,Census subdivision,2021,St. Clair,3310,  65 years and over,Total - Age
+2021A00053538030,Census subdivision,2021,Sarnia,10560,  0 to 14 years,Total - Age
+2021A00053538030,Census subdivision,2021,Sarnia,43555,  15 to 64 years,Total - Age
+2021A00053538030,Census subdivision,2021,Sarnia,16820,  65 years and over,Total - Age
+2021A00053538040,Census subdivision,2021,Lambton Shores,1455,  0 to 14 years,Total - Age
+2021A00053538040,Census subdivision,2021,Lambton Shores,6385,  15 to 64 years,Total - Age
+2021A00053538040,Census subdivision,2021,Lambton Shores,3705,  65 years and over,Total - Age
+2021A00053539015,Census subdivision,2021,Strathroy-Caradoc,4000,  0 to 14 years,Total - Age
+2021A00053539015,Census subdivision,2021,Strathroy-Caradoc,14670,  15 to 64 years,Total - Age
+2021A00053539015,Census subdivision,2021,Strathroy-Caradoc,4880,  65 years and over,Total - Age
+2021A00053539027,Census subdivision,2021,Thames Centre,2400,  0 to 14 years,Total - Age
+2021A00053539027,Census subdivision,2021,Thames Centre,8820,  15 to 64 years,Total - Age
+2021A00053539027,Census subdivision,2021,Thames Centre,2635,  65 years and over,Total - Age
+2021A00053539033,Census subdivision,2021,Middlesex Centre,3645,  0 to 14 years,Total - Age
+2021A00053539033,Census subdivision,2021,Middlesex Centre,11640,  15 to 64 years,Total - Age
+2021A00053539033,Census subdivision,2021,Middlesex Centre,3450,  65 years and over,Total - Age
+2021A00053539036,Census subdivision,2021,London,68935,  0 to 14 years,Total - Age
+2021A00053539036,Census subdivision,2021,London,276515,  15 to 64 years,Total - Age
+2021A00053539036,Census subdivision,2021,London,70815,  65 years and over,Total - Age
+2021A00053540005,Census subdivision,2021,South Huron,1515,  0 to 14 years,Total - Age
+2021A00053540005,Census subdivision,2021,South Huron,5540,  15 to 64 years,Total - Age
+2021A00053540005,Census subdivision,2021,South Huron,2800,  65 years and over,Total - Age
+2021A00053541024,Census subdivision,2021,Kincardine,2150,  0 to 14 years,Total - Age
+2021A00053541024,Census subdivision,2021,Kincardine,7170,  15 to 64 years,Total - Age
+2021A00053541024,Census subdivision,2021,Kincardine,2745,  65 years and over,Total - Age
+2021A00053541045,Census subdivision,2021,Saugeen Shores,2530,  0 to 14 years,Total - Age
+2021A00053541045,Census subdivision,2021,Saugeen Shores,9165,  15 to 64 years,Total - Age
+2021A00053541045,Census subdivision,2021,Saugeen Shores,3950,  65 years and over,Total - Age
+2021A00053542004,Census subdivision,2021,West Grey,2070,  0 to 14 years,Total - Age
+2021A00053542004,Census subdivision,2021,West Grey,7715,  15 to 64 years,Total - Age
+2021A00053542004,Census subdivision,2021,West Grey,3210,  65 years and over,Total - Age
+2021A00053542015,Census subdivision,2021,Grey Highlands,1830,  0 to 14 years,Total - Age
+2021A00053542015,Census subdivision,2021,Grey Highlands,6120,  15 to 64 years,Total - Age
+2021A00053542015,Census subdivision,2021,Grey Highlands,2385,  65 years and over,Total - Age
+2021A00053542047,Census subdivision,2021,Meaford,1510,  0 to 14 years,Total - Age
+2021A00053542047,Census subdivision,2021,Meaford,6260,  15 to 64 years,Total - Age
+2021A00053542047,Census subdivision,2021,Meaford,3540,  65 years and over,Total - Age
+2021A00053542053,Census subdivision,2021,Georgian Bluffs,1580,  0 to 14 years,Total - Age
+2021A00053542053,Census subdivision,2021,Georgian Bluffs,6570,  15 to 64 years,Total - Age
+2021A00053542053,Census subdivision,2021,Georgian Bluffs,2900,  65 years and over,Total - Age
+2021A00053542059,Census subdivision,2021,Owen Sound,3085,  0 to 14 years,Total - Age
+2021A00053542059,Census subdivision,2021,Owen Sound,12580,  15 to 64 years,Total - Age
+2021A00053542059,Census subdivision,2021,Owen Sound,5160,  65 years and over,Total - Age
+2021A00053543003,Census subdivision,2021,Adjala-Tosorontio,1695,  0 to 14 years,Total - Age
+2021A00053543003,Census subdivision,2021,Adjala-Tosorontio,7345,  15 to 64 years,Total - Age
+2021A00053543003,Census subdivision,2021,Adjala-Tosorontio,1915,  65 years and over,Total - Age
+2021A00053543005,Census subdivision,2021,Clearview,2360,  0 to 14 years,Total - Age
+2021A00053543005,Census subdivision,2021,Clearview,9470,  15 to 64 years,Total - Age
+2021A00053543005,Census subdivision,2021,Clearview,2785,  65 years and over,Total - Age
+2021A00053543007,Census subdivision,2021,New Tecumseth,8370,  0 to 14 years,Total - Age
+2021A00053543007,Census subdivision,2021,New Tecumseth,27595,  15 to 64 years,Total - Age
+2021A00053543007,Census subdivision,2021,New Tecumseth,7500,  65 years and over,Total - Age
+2021A00053543009,Census subdivision,2021,Springwater,3900,  0 to 14 years,Total - Age
+2021A00053543009,Census subdivision,2021,Springwater,14130,  15 to 64 years,Total - Age
+2021A00053543009,Census subdivision,2021,Springwater,3530,  65 years and over,Total - Age
+2021A00053543014,Census subdivision,2021,Bradford West Gwillimbury,9185,  0 to 14 years,Total - Age
+2021A00053543014,Census subdivision,2021,Bradford West Gwillimbury,28090,  15 to 64 years,Total - Age
+2021A00053543014,Census subdivision,2021,Bradford West Gwillimbury,5060,  65 years and over,Total - Age
+2021A00053543015,Census subdivision,2021,Severn,2085,  0 to 14 years,Total - Age
+2021A00053543015,Census subdivision,2021,Severn,9025,  15 to 64 years,Total - Age
+2021A00053543015,Census subdivision,2021,Severn,3400,  65 years and over,Total - Age
+2021A00053543017,Census subdivision,2021,Innisfil,7550,  0 to 14 years,Total - Age
+2021A00053543017,Census subdivision,2021,Innisfil,28475,  15 to 64 years,Total - Age
+2021A00053543017,Census subdivision,2021,Innisfil,7180,  65 years and over,Total - Age
+2021A00053543019,Census subdivision,2021,Ramara,1185,  0 to 14 years,Total - Age
+2021A00053543019,Census subdivision,2021,Ramara,6295,  15 to 64 years,Total - Age
+2021A00053543019,Census subdivision,2021,Ramara,2875,  65 years and over,Total - Age
+2021A00053543021,Census subdivision,2021,Essa,4620,  0 to 14 years,Total - Age
+2021A00053543021,Census subdivision,2021,Essa,15440,  15 to 64 years,Total - Age
+2021A00053543021,Census subdivision,2021,Essa,2725,  65 years and over,Total - Age
+2021A00053543023,Census subdivision,2021,Oro-Medonte,3550,  0 to 14 years,Total - Age
+2021A00053543023,Census subdivision,2021,Oro-Medonte,14485,  15 to 64 years,Total - Age
+2021A00053543023,Census subdivision,2021,Oro-Medonte,4920,  65 years and over,Total - Age
+2021A00053543031,Census subdivision,2021,Collingwood,3295,  0 to 14 years,Total - Age
+2021A00053543031,Census subdivision,2021,Collingwood,13980,  15 to 64 years,Total - Age
+2021A00053543031,Census subdivision,2021,Collingwood,7000,  65 years and over,Total - Age
+2021A00053543042,Census subdivision,2021,Barrie,24695,  0 to 14 years,Total - Age
+2021A00053543042,Census subdivision,2021,Barrie,99030,  15 to 64 years,Total - Age
+2021A00053543042,Census subdivision,2021,Barrie,21660,  65 years and over,Total - Age
+2021A00053543052,Census subdivision,2021,Orillia,4640,  0 to 14 years,Total - Age
+2021A00053543052,Census subdivision,2021,Orillia,19835,  15 to 64 years,Total - Age
+2021A00053543052,Census subdivision,2021,Orillia,7795,  65 years and over,Total - Age
+2021A00053543064,Census subdivision,2021,Wasaga Beach,2900,  0 to 14 years,Total - Age
+2021A00053543064,Census subdivision,2021,Wasaga Beach,13195,  15 to 64 years,Total - Age
+2021A00053543064,Census subdivision,2021,Wasaga Beach,8490,  65 years and over,Total - Age
+2021A00053543068,Census subdivision,2021,Tiny,1550,  0 to 14 years,Total - Age
+2021A00053543068,Census subdivision,2021,Tiny,7495,  15 to 64 years,Total - Age
+2021A00053543068,Census subdivision,2021,Tiny,3730,  65 years and over,Total - Age
+2021A00053543071,Census subdivision,2021,Tay,1550,  0 to 14 years,Total - Age
+2021A00053543071,Census subdivision,2021,Tay,6865,  15 to 64 years,Total - Age
+2021A00053543071,Census subdivision,2021,Tay,2575,  65 years and over,Total - Age
+2021A00053543072,Census subdivision,2021,Penetanguishene,1105,  0 to 14 years,Total - Age
+2021A00053543072,Census subdivision,2021,Penetanguishene,5370,  15 to 64 years,Total - Age
+2021A00053543072,Census subdivision,2021,Penetanguishene,2495,  65 years and over,Total - Age
+2021A00053543074,Census subdivision,2021,Midland,2375,  0 to 14 years,Total - Age
+2021A00053543074,Census subdivision,2021,Midland,10395,  15 to 64 years,Total - Age
+2021A00053543074,Census subdivision,2021,Midland,4625,  65 years and over,Total - Age
+2021A00053544002,Census subdivision,2021,Gravenhurst,1500,  0 to 14 years,Total - Age
+2021A00053544002,Census subdivision,2021,Gravenhurst,7090,  15 to 64 years,Total - Age
+2021A00053544002,Census subdivision,2021,Gravenhurst,3545,  65 years and over,Total - Age
+2021A00053544018,Census subdivision,2021,Bracebridge,2310,  0 to 14 years,Total - Age
+2021A00053544018,Census subdivision,2021,Bracebridge,10030,  15 to 64 years,Total - Age
+2021A00053544018,Census subdivision,2021,Bracebridge,4425,  65 years and over,Total - Age
+2021A00053544042,Census subdivision,2021,Huntsville,2865,  0 to 14 years,Total - Age
+2021A00053544042,Census subdivision,2021,Huntsville,12915,  15 to 64 years,Total - Age
+2021A00053544042,Census subdivision,2021,Huntsville,4950,  65 years and over,Total - Age
+2021A00053547064,Census subdivision,2021,Pembroke,2025,  0 to 14 years,Total - Age
+2021A00053547064,Census subdivision,2021,Pembroke,8435,  15 to 64 years,Total - Age
+2021A00053547064,Census subdivision,2021,Pembroke,3170,  65 years and over,Total - Age
+2021A00053547076,Census subdivision,2021,Petawawa,3920,  0 to 14 years,Total - Age
+2021A00053547076,Census subdivision,2021,Petawawa,11660,  15 to 64 years,Total - Age
+2021A00053547076,Census subdivision,2021,Petawawa,1710,  65 years and over,Total - Age
+2021A00053548044,Census subdivision,2021,North Bay,7575,  0 to 14 years,Total - Age
+2021A00053548044,Census subdivision,2021,North Bay,32985,  15 to 64 years,Total - Age
+2021A00053548044,Census subdivision,2021,North Bay,10900,  65 years and over,Total - Age
+2021A00053548055,Census subdivision,2021,West Nipissing / Nipissing Ouest,2085,  0 to 14 years,Total - Age
+2021A00053548055,Census subdivision,2021,West Nipissing / Nipissing Ouest,8525,  15 to 64 years,Total - Age
+2021A00053548055,Census subdivision,2021,West Nipissing / Nipissing Ouest,3650,  65 years and over,Total - Age
+2021A00053553005,Census subdivision,2021,Greater Sudbury / Grand Sudbury,25600,  0 to 14 years,Total - Age
+2021A00053553005,Census subdivision,2021,Greater Sudbury / Grand Sudbury,105785,  15 to 64 years,Total - Age
+2021A00053553005,Census subdivision,2021,Greater Sudbury / Grand Sudbury,31645,  65 years and over,Total - Age
+2021A00053556027,Census subdivision,2021,Timmins,6650,  0 to 14 years,Total - Age
+2021A00053556027,Census subdivision,2021,Timmins,26855,  15 to 64 years,Total - Age
+2021A00053556027,Census subdivision,2021,Timmins,6800,  65 years and over,Total - Age
+2021A00053557041,Census subdivision,2021,Elliot Lake,1175,  0 to 14 years,Total - Age
+2021A00053557041,Census subdivision,2021,Elliot Lake,5640,  15 to 64 years,Total - Age
+2021A00053557041,Census subdivision,2021,Elliot Lake,4410,  65 years and over,Total - Age
+2021A00053557061,Census subdivision,2021,Sault Ste. Marie,10240,  0 to 14 years,Total - Age
+2021A00053557061,Census subdivision,2021,Sault Ste. Marie,43530,  15 to 64 years,Total - Age
+2021A00053557061,Census subdivision,2021,Sault Ste. Marie,16960,  65 years and over,Total - Age
+2021A00053558004,Census subdivision,2021,Thunder Bay,15410,  0 to 14 years,Total - Age
+2021A00053558004,Census subdivision,2021,Thunder Bay,68815,  15 to 64 years,Total - Age
+2021A00053558004,Census subdivision,2021,Thunder Bay,22420,  65 years and over,Total - Age
+2021A00053560010,Census subdivision,2021,Kenora,2295,  0 to 14 years,Total - Age
+2021A00053560010,Census subdivision,2021,Kenora,9305,  15 to 64 years,Total - Age
+2021A00053560010,Census subdivision,2021,Kenora,3015,  65 years and over,Total - Age
+2021C30053599999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Ontario",159050,  0 to 14 years,Total - Age
+2021C30053599999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Ontario",596790,  15 to 64 years,Total - Age
+2021C30053599999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Ontario",228880,  65 years and over,Total - Age
+2021A00054602041,Census subdivision,2021,Hanover,5010,  0 to 14 years,Total - Age
+2021A00054602041,Census subdivision,2021,Hanover,10705,  15 to 64 years,Total - Age
+2021A00054602041,Census subdivision,2021,Hanover,1420,  65 years and over,Total - Age
+2021A00054602044,Census subdivision,2021,Steinbach,3785,  0 to 14 years,Total - Age
+2021A00054602044,Census subdivision,2021,Steinbach,10885,  15 to 64 years,Total - Age
+2021A00054602044,Census subdivision,2021,Steinbach,2900,  65 years and over,Total - Age
+2021A00054602069,Census subdivision,2021,Taché,2800,  0 to 14 years,Total - Age
+2021A00054602069,Census subdivision,2021,Taché,7810,  15 to 64 years,Total - Age
+2021A00054602069,Census subdivision,2021,Taché,1270,  65 years and over,Total - Age
+2021A00054603050,Census subdivision,2021,Winkler,3095,  0 to 14 years,Total - Age
+2021A00054603050,Census subdivision,2021,Winkler,8435,  15 to 64 years,Total - Age
+2021A00054603050,Census subdivision,2021,Winkler,2030,  65 years and over,Total - Age
+2021A00054607062,Census subdivision,2021,Brandon,9395,  0 to 14 years,Total - Age
+2021A00054607062,Census subdivision,2021,Brandon,32900,  15 to 64 years,Total - Age
+2021A00054607062,Census subdivision,2021,Brandon,7550,  65 years and over,Total - Age
+2021A00054609029,Census subdivision,2021,Portage la Prairie,2475,  0 to 14 years,Total - Age
+2021A00054609029,Census subdivision,2021,Portage la Prairie,7945,  15 to 64 years,Total - Age
+2021A00054609029,Census subdivision,2021,Portage la Prairie,2410,  65 years and over,Total - Age
+2021A00054611040,Census subdivision,2021,Winnipeg,124110,  0 to 14 years,Total - Age
+2021A00054611040,Census subdivision,2021,Winnipeg,493755,  15 to 64 years,Total - Age
+2021A00054611040,Census subdivision,2021,Winnipeg,118800,  65 years and over,Total - Age
+2021A00054612047,Census subdivision,2021,Springfield,2990,  0 to 14 years,Total - Age
+2021A00054612047,Census subdivision,2021,Springfield,10175,  15 to 64 years,Total - Age
+2021A00054612047,Census subdivision,2021,Springfield,2580,  65 years and over,Total - Age
+2021A00054613043,Census subdivision,2021,St. Andrews,1715,  0 to 14 years,Total - Age
+2021A00054613043,Census subdivision,2021,St. Andrews,7600,  15 to 64 years,Total - Age
+2021A00054613043,Census subdivision,2021,St. Andrews,2235,  65 years and over,Total - Age
+2021A00054613047,Census subdivision,2021,Selkirk,1650,  0 to 14 years,Total - Age
+2021A00054613047,Census subdivision,2021,Selkirk,6085,  15 to 64 years,Total - Age
+2021A00054613047,Census subdivision,2021,Selkirk,2200,  65 years and over,Total - Age
+2021A00054613056,Census subdivision,2021,St. Clements,1710,  0 to 14 years,Total - Age
+2021A00054613056,Census subdivision,2021,St. Clements,7465,  15 to 64 years,Total - Age
+2021A00054613056,Census subdivision,2021,St. Clements,2225,  65 years and over,Total - Age
+2021A00054622026,Census subdivision,2021,Thompson,3360,  0 to 14 years,Total - Age
+2021A00054622026,Census subdivision,2021,Thompson,8590,  15 to 64 years,Total - Age
+2021A00054622026,Census subdivision,2021,Thompson,930,  65 years and over,Total - Age
+2021C30054699999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Manitoba",86685,  0 to 14 years,Total - Age
+2021C30054699999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Manitoba",232330,  15 to 64 years,Total - Age
+2021C30054699999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Manitoba",67160,  65 years and over,Total - Age
+2021A00054701024,Census subdivision,2021,Estevan,2040,  0 to 14 years,Total - Age
+2021A00054701024,Census subdivision,2021,Estevan,7005,  15 to 64 years,Total - Age
+2021A00054701024,Census subdivision,2021,Estevan,1580,  65 years and over,Total - Age
+2021A00054702047,Census subdivision,2021,Weyburn,2035,  0 to 14 years,Total - Age
+2021A00054702047,Census subdivision,2021,Weyburn,6610,  15 to 64 years,Total - Age
+2021A00054702047,Census subdivision,2021,Weyburn,1950,  65 years and over,Total - Age
+2021A00054706027,Census subdivision,2021,Regina,42560,  0 to 14 years,Total - Age
+2021A00054706027,Census subdivision,2021,Regina,147675,  15 to 64 years,Total - Age
+2021A00054706027,Census subdivision,2021,Regina,32840,  65 years and over,Total - Age
+2021A00054707039,Census subdivision,2021,Moose Jaw,5960,  0 to 14 years,Total - Age
+2021A00054707039,Census subdivision,2021,Moose Jaw,20445,  15 to 64 years,Total - Age
+2021A00054707039,Census subdivision,2021,Moose Jaw,6540,  65 years and over,Total - Age
+2021A00054708004,Census subdivision,2021,Swift Current,2765,  0 to 14 years,Total - Age
+2021A00054708004,Census subdivision,2021,Swift Current,10185,  15 to 64 years,Total - Age
+2021A00054708004,Census subdivision,2021,Swift Current,3185,  65 years and over,Total - Age
+2021A00054709012,Census subdivision,2021,Yorkton,2935,  0 to 14 years,Total - Age
+2021A00054709012,Census subdivision,2021,Yorkton,9850,  15 to 64 years,Total - Age
+2021A00054709012,Census subdivision,2021,Yorkton,3135,  65 years and over,Total - Age
+2021A00054711066,Census subdivision,2021,Saskatoon,48440,  0 to 14 years,Total - Age
+2021A00054711066,Census subdivision,2021,Saskatoon,175030,  15 to 64 years,Total - Age
+2021A00054711066,Census subdivision,2021,Saskatoon,37480,  65 years and over,Total - Age
+2021A00054711068,Census subdivision,2021,Warman,3280,  0 to 14 years,Total - Age
+2021A00054711068,Census subdivision,2021,Warman,7640,  15 to 64 years,Total - Age
+2021A00054711068,Census subdivision,2021,Warman,1255,  65 years and over,Total - Age
+2021A00054711070,Census subdivision,2021,Martensville,2735,  0 to 14 years,Total - Age
+2021A00054711070,Census subdivision,2021,Martensville,7040,  15 to 64 years,Total - Age
+2021A00054711070,Census subdivision,2021,Martensville,750,  65 years and over,Total - Age
+2021A00054715066,Census subdivision,2021,Prince Albert,8130,  0 to 14 years,Total - Age
+2021A00054715066,Census subdivision,2021,Prince Albert,22510,  15 to 64 years,Total - Age
+2021A00054715066,Census subdivision,2021,Prince Albert,5470,  65 years and over,Total - Age
+2021A00054716029,Census subdivision,2021,North Battleford,2730,  0 to 14 years,Total - Age
+2021A00054716029,Census subdivision,2021,North Battleford,8440,  15 to 64 years,Total - Age
+2021A00054716029,Census subdivision,2021,North Battleford,2320,  65 years and over,Total - Age
+2021A00054717029,Census subdivision,2021,Lloydminster (Part),2810,  0 to 14 years,Total - Age
+2021A00054717029,Census subdivision,2021,Lloydminster (Part),8165,  15 to 64 years,Total - Age
+2021A00054717029,Census subdivision,2021,Lloydminster (Part),785,  65 years and over,Total - Age
+2021C30054799999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Saskatchewan",94010,  0 to 14 years,Total - Age
+2021C30054799999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Saskatchewan",268710,  15 to 64 years,Total - Age
+2021C30054799999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Saskatchewan",86160,  65 years and over,Total - Age
+2021A00054801006,Census subdivision,2021,Medicine Hat,10605,  0 to 14 years,Total - Age
+2021A00054801006,Census subdivision,2021,Medicine Hat,39060,  15 to 64 years,Total - Age
+2021A00054801006,Census subdivision,2021,Medicine Hat,12165,  65 years and over,Total - Age
+2021A00054802011,Census subdivision,2021,Lethbridge County,2490,  0 to 14 years,Total - Age
+2021A00054802011,Census subdivision,2021,Lethbridge County,5460,  15 to 64 years,Total - Age
+2021A00054802011,Census subdivision,2021,Lethbridge County,1150,  65 years and over,Total - Age
+2021A00054802012,Census subdivision,2021,Lethbridge,17055,  0 to 14 years,Total - Age
+2021A00054802012,Census subdivision,2021,Lethbridge,62990,  15 to 64 years,Total - Age
+2021A00054802012,Census subdivision,2021,Lethbridge,16230,  65 years and over,Total - Age
+2021A00054802034,Census subdivision,2021,Brooks,3410,  0 to 14 years,Total - Age
+2021A00054802034,Census subdivision,2021,Brooks,9800,  15 to 64 years,Total - Age
+2021A00054802034,Census subdivision,2021,Brooks,1435,  65 years and over,Total - Age
+2021A00054805018,Census subdivision,2021,Strathmore,2830,  0 to 14 years,Total - Age
+2021A00054805018,Census subdivision,2021,Strathmore,8925,  15 to 64 years,Total - Age
+2021A00054805018,Census subdivision,2021,Strathmore,2355,  65 years and over,Total - Age
+2021A00054806001,Census subdivision,2021,Foothills County,3590,  0 to 14 years,Total - Age
+2021A00054806001,Census subdivision,2021,Foothills County,14495,  15 to 64 years,Total - Age
+2021A00054806001,Census subdivision,2021,Foothills County,4590,  65 years and over,Total - Age
+2021A00054806006,Census subdivision,2021,High River,2450,  0 to 14 years,Total - Age
+2021A00054806006,Census subdivision,2021,High River,8330,  15 to 64 years,Total - Age
+2021A00054806006,Census subdivision,2021,High River,3330,  65 years and over,Total - Age
+2021A00054806012,Census subdivision,2021,Okotoks,6575,  0 to 14 years,Total - Age
+2021A00054806012,Census subdivision,2021,Okotoks,19330,  15 to 64 years,Total - Age
+2021A00054806012,Census subdivision,2021,Okotoks,4120,  65 years and over,Total - Age
+2021A00054806014,Census subdivision,2021,Rocky View County,7020,  0 to 14 years,Total - Age
+2021A00054806014,Census subdivision,2021,Rocky View County,26425,  15 to 64 years,Total - Age
+2021A00054806014,Census subdivision,2021,Rocky View County,7015,  65 years and over,Total - Age
+2021A00054806016,Census subdivision,2021,Calgary,235540,  0 to 14 years,Total - Age
+2021A00054806016,Census subdivision,2021,Calgary,888975,  15 to 64 years,Total - Age
+2021A00054806016,Census subdivision,2021,Calgary,167255,  65 years and over,Total - Age
+2021A00054806017,Census subdivision,2021,Chestermere,5035,  0 to 14 years,Total - Age
+2021A00054806017,Census subdivision,2021,Chestermere,14825,  15 to 64 years,Total - Age
+2021A00054806017,Census subdivision,2021,Chestermere,2290,  65 years and over,Total - Age
+2021A00054806019,Census subdivision,2021,Cochrane,6835,  0 to 14 years,Total - Age
+2021A00054806019,Census subdivision,2021,Cochrane,20105,  15 to 64 years,Total - Age
+2021A00054806019,Census subdivision,2021,Cochrane,4525,  65 years and over,Total - Age
+2021A00054806021,Census subdivision,2021,Airdrie,18250,  0 to 14 years,Total - Age
+2021A00054806021,Census subdivision,2021,Airdrie,48930,  15 to 64 years,Total - Age
+2021A00054806021,Census subdivision,2021,Airdrie,6615,  65 years and over,Total - Age
+2021A00054806028,Census subdivision,2021,Mountain View County,2270,  0 to 14 years,Total - Age
+2021A00054806028,Census subdivision,2021,Mountain View County,7885,  15 to 64 years,Total - Age
+2021A00054806028,Census subdivision,2021,Mountain View County,2610,  65 years and over,Total - Age
+2021A00054808001,Census subdivision,2021,Red Deer County,3190,  0 to 14 years,Total - Age
+2021A00054808001,Census subdivision,2021,Red Deer County,11865,  15 to 64 years,Total - Age
+2021A00054808001,Census subdivision,2021,Red Deer County,3710,  65 years and over,Total - Age
+2021A00054808011,Census subdivision,2021,Red Deer,18330,  0 to 14 years,Total - Age
+2021A00054808011,Census subdivision,2021,Red Deer,65720,  15 to 64 years,Total - Age
+2021A00054808011,Census subdivision,2021,Red Deer,13995,  65 years and over,Total - Age
+2021A00054808012,Census subdivision,2021,Sylvan Lake,3450,  0 to 14 years,Total - Age
+2021A00054808012,Census subdivision,2021,Sylvan Lake,10820,  15 to 64 years,Total - Age
+2021A00054808012,Census subdivision,2021,Sylvan Lake,1685,  65 years and over,Total - Age
+2021A00054808022,Census subdivision,2021,Lacombe County,1815,  0 to 14 years,Total - Age
+2021A00054808022,Census subdivision,2021,Lacombe County,6150,  15 to 64 years,Total - Age
+2021A00054808022,Census subdivision,2021,Lacombe County,1970,  65 years and over,Total - Age
+2021A00054808029,Census subdivision,2021,Blackfalds,2790,  0 to 14 years,Total - Age
+2021A00054808029,Census subdivision,2021,Blackfalds,7040,  15 to 64 years,Total - Age
+2021A00054808029,Census subdivision,2021,Blackfalds,645,  65 years and over,Total - Age
+2021A00054808031,Census subdivision,2021,Lacombe,2635,  0 to 14 years,Total - Age
+2021A00054808031,Census subdivision,2021,Lacombe,8205,  15 to 64 years,Total - Age
+2021A00054808031,Census subdivision,2021,Lacombe,2230,  65 years and over,Total - Age
+2021A00054809002,Census subdivision,2021,Clearwater County,2085,  0 to 14 years,Total - Age
+2021A00054809002,Census subdivision,2021,Clearwater County,7340,  15 to 64 years,Total - Age
+2021A00054809002,Census subdivision,2021,Clearwater County,2335,  65 years and over,Total - Age
+2021A00054810011,Census subdivision,2021,Camrose,3175,  0 to 14 years,Total - Age
+2021A00054810011,Census subdivision,2021,Camrose,10950,  15 to 64 years,Total - Age
+2021A00054810011,Census subdivision,2021,Camrose,4065,  65 years and over,Total - Age
+2021A00054810039,Census subdivision,2021,Lloydminster (Part),4170,  0 to 14 years,Total - Age
+2021A00054810039,Census subdivision,2021,Lloydminster (Part),12745,  15 to 64 years,Total - Age
+2021A00054810039,Census subdivision,2021,Lloydminster (Part),2315,  65 years and over,Total - Age
+2021A00054811001,Census subdivision,2021,Wetaskiwin County No. 10,1800,  0 to 14 years,Total - Age
+2021A00054811001,Census subdivision,2021,Wetaskiwin County No. 10,6670,  15 to 64 years,Total - Age
+2021A00054811001,Census subdivision,2021,Wetaskiwin County No. 10,2495,  65 years and over,Total - Age
+2021A00054811002,Census subdivision,2021,Wetaskiwin,2285,  0 to 14 years,Total - Age
+2021A00054811002,Census subdivision,2021,Wetaskiwin,7500,  15 to 64 years,Total - Age
+2021A00054811002,Census subdivision,2021,Wetaskiwin,2325,  65 years and over,Total - Age
+2021A00054811012,Census subdivision,2021,Leduc County,2630,  0 to 14 years,Total - Age
+2021A00054811012,Census subdivision,2021,Leduc County,9255,  15 to 64 years,Total - Age
+2021A00054811012,Census subdivision,2021,Leduc County,2455,  65 years and over,Total - Age
+2021A00054811013,Census subdivision,2021,Beaumont,5325,  0 to 14 years,Total - Age
+2021A00054811013,Census subdivision,2021,Beaumont,13615,  15 to 64 years,Total - Age
+2021A00054811013,Census subdivision,2021,Beaumont,1910,  65 years and over,Total - Age
+2021A00054811016,Census subdivision,2021,Leduc,7435,  0 to 14 years,Total - Age
+2021A00054811016,Census subdivision,2021,Leduc,21795,  15 to 64 years,Total - Age
+2021A00054811016,Census subdivision,2021,Leduc,4435,  65 years and over,Total - Age
+2021A00054811034,Census subdivision,2021,Parkland County,5690,  0 to 14 years,Total - Age
+2021A00054811034,Census subdivision,2021,Parkland County,20495,  15 to 64 years,Total - Age
+2021A00054811034,Census subdivision,2021,Parkland County,5830,  65 years and over,Total - Age
+2021A00054811048,Census subdivision,2021,Stony Plain,3385,  0 to 14 years,Total - Age
+2021A00054811048,Census subdivision,2021,Stony Plain,10670,  15 to 64 years,Total - Age
+2021A00054811048,Census subdivision,2021,Stony Plain,3305,  65 years and over,Total - Age
+2021A00054811049,Census subdivision,2021,Spruce Grove,8140,  0 to 14 years,Total - Age
+2021A00054811049,Census subdivision,2021,Spruce Grove,24660,  15 to 64 years,Total - Age
+2021A00054811049,Census subdivision,2021,Spruce Grove,4665,  65 years and over,Total - Age
+2021A00054811052,Census subdivision,2021,Strathcona County,17405,  0 to 14 years,Total - Age
+2021A00054811052,Census subdivision,2021,Strathcona County,63960,  15 to 64 years,Total - Age
+2021A00054811052,Census subdivision,2021,Strathcona County,16360,  65 years and over,Total - Age
+2021A00054811056,Census subdivision,2021,Fort Saskatchewan,5620,  0 to 14 years,Total - Age
+2021A00054811056,Census subdivision,2021,Fort Saskatchewan,17590,  15 to 64 years,Total - Age
+2021A00054811056,Census subdivision,2021,Fort Saskatchewan,3360,  65 years and over,Total - Age
+2021A00054811059,Census subdivision,2021,Sturgeon County,3725,  0 to 14 years,Total - Age
+2021A00054811059,Census subdivision,2021,Sturgeon County,12815,  15 to 64 years,Total - Age
+2021A00054811059,Census subdivision,2021,Sturgeon County,2990,  65 years and over,Total - Age
+2021A00054811061,Census subdivision,2021,Edmonton,183875,  0 to 14 years,Total - Age
+2021A00054811061,Census subdivision,2021,Edmonton,682840,  15 to 64 years,Total - Age
+2021A00054811061,Census subdivision,2021,Edmonton,129765,  65 years and over,Total - Age
+2021A00054811062,Census subdivision,2021,St. Albert,12265,  0 to 14 years,Total - Age
+2021A00054811062,Census subdivision,2021,St. Albert,42665,  15 to 64 years,Total - Age
+2021A00054811062,Census subdivision,2021,St. Albert,12010,  65 years and over,Total - Age
+2021A00054811068,Census subdivision,2021,Morinville,2420,  0 to 14 years,Total - Age
+2021A00054811068,Census subdivision,2021,Morinville,6615,  15 to 64 years,Total - Age
+2021A00054811068,Census subdivision,2021,Morinville,1100,  65 years and over,Total - Age
+2021A00054812002,Census subdivision,2021,Cold Lake,3565,  0 to 14 years,Total - Age
+2021A00054812002,Census subdivision,2021,Cold Lake,10615,  15 to 64 years,Total - Age
+2021A00054812002,Census subdivision,2021,Cold Lake,1160,  65 years and over,Total - Age
+2021A00054812004,Census subdivision,2021,Bonnyville No. 87,2640,  0 to 14 years,Total - Age
+2021A00054812004,Census subdivision,2021,Bonnyville No. 87,8320,  15 to 64 years,Total - Age
+2021A00054812004,Census subdivision,2021,Bonnyville No. 87,1730,  65 years and over,Total - Age
+2021A00054813001,Census subdivision,2021,Lac Ste. Anne County,1975,  0 to 14 years,Total - Age
+2021A00054813001,Census subdivision,2021,Lac Ste. Anne County,6675,  15 to 64 years,Total - Age
+2021A00054813001,Census subdivision,2021,Lac Ste. Anne County,2090,  65 years and over,Total - Age
+2021A00054814003,Census subdivision,2021,Yellowhead County,1945,  0 to 14 years,Total - Age
+2021A00054814003,Census subdivision,2021,Yellowhead County,6455,  15 to 64 years,Total - Age
+2021A00054814003,Census subdivision,2021,Yellowhead County,1960,  65 years and over,Total - Age
+2021A00054815023,Census subdivision,2021,Canmore,2040,  0 to 14 years,Total - Age
+2021A00054815023,Census subdivision,2021,Canmore,10965,  15 to 64 years,Total - Age
+2021A00054815023,Census subdivision,2021,Canmore,2520,  65 years and over,Total - Age
+2021A00054816037,Census subdivision,2021,Wood Buffalo,16535,  0 to 14 years,Total - Age
+2021A00054816037,Census subdivision,2021,Wood Buffalo,52265,  15 to 64 years,Total - Age
+2021A00054816037,Census subdivision,2021,Wood Buffalo,2980,  65 years and over,Total - Age
+2021A00054817095,Census subdivision,2021,Mackenzie County,4535,  0 to 14 years,Total - Age
+2021A00054817095,Census subdivision,2021,Mackenzie County,7190,  15 to 64 years,Total - Age
+2021A00054817095,Census subdivision,2021,Mackenzie County,960,  65 years and over,Total - Age
+2021A00054819006,Census subdivision,2021,Grande Prairie County No. 1,5305,  0 to 14 years,Total - Age
+2021A00054819006,Census subdivision,2021,Grande Prairie County No. 1,15315,  15 to 64 years,Total - Age
+2021A00054819006,Census subdivision,2021,Grande Prairie County No. 1,2685,  65 years and over,Total - Age
+2021A00054819012,Census subdivision,2021,Grande Prairie,13950,  0 to 14 years,Total - Age
+2021A00054819012,Census subdivision,2021,Grande Prairie,43955,  15 to 64 years,Total - Age
+2021A00054819012,Census subdivision,2021,Grande Prairie,5270,  65 years and over,Total - Age
+2021C30054899999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Alberta",122490,  0 to 14 years,Total - Age
+2021C30054899999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Alberta",371040,  15 to 64 years,Total - Age
+2021C30054899999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Alberta",101815,  65 years and over,Total - Age
+2021A00055901022,Census subdivision,2021,Cranbrook,3000,  0 to 14 years,Total - Age
+2021A00055901022,Census subdivision,2021,Cranbrook,12355,  15 to 64 years,Total - Age
+2021A00055901022,Census subdivision,2021,Cranbrook,4485,  65 years and over,Total - Age
+2021A00055903015,Census subdivision,2021,Nelson,1540,  0 to 14 years,Total - Age
+2021A00055903015,Census subdivision,2021,Nelson,7165,  15 to 64 years,Total - Age
+2021A00055903015,Census subdivision,2021,Nelson,2020,  65 years and over,Total - Age
+2021A00055907035,Census subdivision,2021,Summerland,1570,  0 to 14 years,Total - Age
+2021A00055907035,Census subdivision,2021,Summerland,6535,  15 to 64 years,Total - Age
+2021A00055907035,Census subdivision,2021,Summerland,3595,  65 years and over,Total - Age
+2021A00055907041,Census subdivision,2021,Penticton,4385,  0 to 14 years,Total - Age
+2021A00055907041,Census subdivision,2021,Penticton,21065,  15 to 64 years,Total - Age
+2021A00055907041,Census subdivision,2021,Penticton,10275,  65 years and over,Total - Age
+2021A00055909020,Census subdivision,2021,Chilliwack,17695,  0 to 14 years,Total - Age
+2021A00055909020,Census subdivision,2021,Chilliwack,57565,  15 to 64 years,Total - Age
+2021A00055909020,Census subdivision,2021,Chilliwack,16730,  65 years and over,Total - Age
+2021A00055909052,Census subdivision,2021,Abbotsford,26650,  0 to 14 years,Total - Age
+2021A00055909052,Census subdivision,2021,Abbotsford,97615,  15 to 64 years,Total - Age
+2021A00055909052,Census subdivision,2021,Abbotsford,26530,  65 years and over,Total - Age
+2021A00055909056,Census subdivision,2021,Mission,7800,  0 to 14 years,Total - Age
+2021A00055909056,Census subdivision,2021,Mission,26655,  15 to 64 years,Total - Age
+2021A00055909056,Census subdivision,2021,Mission,6170,  65 years and over,Total - Age
+2021A00055915001,Census subdivision,2021,Langley,24085,  0 to 14 years,Total - Age
+2021A00055915001,Census subdivision,2021,Langley,85165,  15 to 64 years,Total - Age
+2021A00055915001,Census subdivision,2021,Langley,21710,  65 years and over,Total - Age
+2021A00055915002,Census subdivision,2021,Langley,4415,  0 to 14 years,Total - Age
+2021A00055915002,Census subdivision,2021,Langley,18465,  15 to 64 years,Total - Age
+2021A00055915002,Census subdivision,2021,Langley,5150,  65 years and over,Total - Age
+2021A00055915004,Census subdivision,2021,Surrey,93945,  0 to 14 years,Total - Age
+2021A00055915004,Census subdivision,2021,Surrey,385035,  15 to 64 years,Total - Age
+2021A00055915004,Census subdivision,2021,Surrey,83580,  65 years and over,Total - Age
+2021A00055915007,Census subdivision,2021,White Rock,1980,  0 to 14 years,Total - Age
+2021A00055915007,Census subdivision,2021,White Rock,11685,  15 to 64 years,Total - Age
+2021A00055915007,Census subdivision,2021,White Rock,7060,  65 years and over,Total - Age
+2021A00055915011,Census subdivision,2021,Delta,16410,  0 to 14 years,Total - Age
+2021A00055915011,Census subdivision,2021,Delta,69520,  15 to 64 years,Total - Age
+2021A00055915011,Census subdivision,2021,Delta,21340,  65 years and over,Total - Age
+2021A00055915015,Census subdivision,2021,Richmond,27925,  0 to 14 years,Total - Age
+2021A00055915015,Census subdivision,2021,Richmond,139745,  15 to 64 years,Total - Age
+2021A00055915015,Census subdivision,2021,Richmond,40730,  65 years and over,Total - Age
+2021A00055915020,Census subdivision,2021,Metro Vancouver A,2735,  0 to 14 years,Total - Age
+2021A00055915020,Census subdivision,2021,Metro Vancouver A,12570,  15 to 64 years,Total - Age
+2021A00055915020,Census subdivision,2021,Metro Vancouver A,1775,  65 years and over,Total - Age
+2021A00055915022,Census subdivision,2021,Vancouver,70370,  0 to 14 years,Total - Age
+2021A00055915022,Census subdivision,2021,Vancouver,473255,  15 to 64 years,Total - Age
+2021A00055915022,Census subdivision,2021,Vancouver,106760,  65 years and over,Total - Age
+2021A00055915025,Census subdivision,2021,Burnaby,32250,  0 to 14 years,Total - Age
+2021A00055915025,Census subdivision,2021,Burnaby,171775,  15 to 64 years,Total - Age
+2021A00055915025,Census subdivision,2021,Burnaby,41700,  65 years and over,Total - Age
+2021A00055915029,Census subdivision,2021,New Westminster,9925,  0 to 14 years,Total - Age
+2021A00055915029,Census subdivision,2021,New Westminster,56020,  15 to 64 years,Total - Age
+2021A00055915029,Census subdivision,2021,New Westminster,12110,  65 years and over,Total - Age
+2021A00055915034,Census subdivision,2021,Coquitlam,22395,  0 to 14 years,Total - Age
+2021A00055915034,Census subdivision,2021,Coquitlam,101620,  15 to 64 years,Total - Age
+2021A00055915034,Census subdivision,2021,Coquitlam,23455,  65 years and over,Total - Age
+2021A00055915039,Census subdivision,2021,Port Coquitlam,9620,  0 to 14 years,Total - Age
+2021A00055915039,Census subdivision,2021,Port Coquitlam,41775,  15 to 64 years,Total - Age
+2021A00055915039,Census subdivision,2021,Port Coquitlam,8995,  65 years and over,Total - Age
+2021A00055915043,Census subdivision,2021,Port Moody,5515,  0 to 14 years,Total - Age
+2021A00055915043,Census subdivision,2021,Port Moody,23165,  15 to 64 years,Total - Age
+2021A00055915043,Census subdivision,2021,Port Moody,4775,  65 years and over,Total - Age
+2021A00055915046,Census subdivision,2021,North Vancouver,14570,  0 to 14 years,Total - Age
+2021A00055915046,Census subdivision,2021,North Vancouver,56530,  15 to 64 years,Total - Age
+2021A00055915046,Census subdivision,2021,North Vancouver,16285,  65 years and over,Total - Age
+2021A00055915051,Census subdivision,2021,North Vancouver,7300,  0 to 14 years,Total - Age
+2021A00055915051,Census subdivision,2021,North Vancouver,40225,  15 to 64 years,Total - Age
+2021A00055915051,Census subdivision,2021,North Vancouver,9980,  65 years and over,Total - Age
+2021A00055915055,Census subdivision,2021,West Vancouver,6155,  0 to 14 years,Total - Age
+2021A00055915055,Census subdivision,2021,West Vancouver,25315,  15 to 64 years,Total - Age
+2021A00055915055,Census subdivision,2021,West Vancouver,11910,  65 years and over,Total - Age
+2021A00055915070,Census subdivision,2021,Pitt Meadows,3275,  0 to 14 years,Total - Age
+2021A00055915070,Census subdivision,2021,Pitt Meadows,12370,  15 to 64 years,Total - Age
+2021A00055915070,Census subdivision,2021,Pitt Meadows,3380,  65 years and over,Total - Age
+2021A00055915075,Census subdivision,2021,Maple Ridge,16055,  0 to 14 years,Total - Age
+2021A00055915075,Census subdivision,2021,Maple Ridge,59970,  15 to 64 years,Total - Age
+2021A00055915075,Census subdivision,2021,Maple Ridge,13835,  65 years and over,Total - Age
+2021A00055917005,Census subdivision,2021,North Saanich,1395,  0 to 14 years,Total - Age
+2021A00055917005,Census subdivision,2021,North Saanich,6565,  15 to 64 years,Total - Age
+2021A00055917005,Census subdivision,2021,North Saanich,4235,  65 years and over,Total - Age
+2021A00055917010,Census subdivision,2021,Sidney,1085,  0 to 14 years,Total - Age
+2021A00055917010,Census subdivision,2021,Sidney,5615,  15 to 64 years,Total - Age
+2021A00055917010,Census subdivision,2021,Sidney,5080,  65 years and over,Total - Age
+2021A00055917015,Census subdivision,2021,Central Saanich,2445,  0 to 14 years,Total - Age
+2021A00055917015,Census subdivision,2021,Central Saanich,10200,  15 to 64 years,Total - Age
+2021A00055917015,Census subdivision,2021,Central Saanich,4525,  65 years and over,Total - Age
+2021A00055917021,Census subdivision,2021,Saanich,15195,  0 to 14 years,Total - Age
+2021A00055917021,Census subdivision,2021,Saanich,74735,  15 to 64 years,Total - Age
+2021A00055917021,Census subdivision,2021,Saanich,25580,  65 years and over,Total - Age
+2021A00055917027,Census subdivision,2021,Saltspring Island,1355,  0 to 14 years,Total - Age
+2021A00055917027,Census subdivision,2021,Saltspring Island,6180,  15 to 64 years,Total - Age
+2021A00055917027,Census subdivision,2021,Saltspring Island,3735,  65 years and over,Total - Age
+2021A00055917030,Census subdivision,2021,Oak Bay,2295,  0 to 14 years,Total - Age
+2021A00055917030,Census subdivision,2021,Oak Bay,9520,  15 to 64 years,Total - Age
+2021A00055917030,Census subdivision,2021,Oak Bay,5820,  65 years and over,Total - Age
+2021A00055917034,Census subdivision,2021,Victoria,8420,  0 to 14 years,Total - Age
+2021A00055917034,Census subdivision,2021,Victoria,60675,  15 to 64 years,Total - Age
+2021A00055917034,Census subdivision,2021,Victoria,18795,  65 years and over,Total - Age
+2021A00055917040,Census subdivision,2021,Esquimalt,2140,  0 to 14 years,Total - Age
+2021A00055917040,Census subdivision,2021,Esquimalt,11680,  15 to 64 years,Total - Age
+2021A00055917040,Census subdivision,2021,Esquimalt,3475,  65 years and over,Total - Age
+2021A00055917041,Census subdivision,2021,Colwood,3150,  0 to 14 years,Total - Age
+2021A00055917041,Census subdivision,2021,Colwood,12130,  15 to 64 years,Total - Age
+2021A00055917041,Census subdivision,2021,Colwood,3515,  65 years and over,Total - Age
+2021A00055917044,Census subdivision,2021,Langford,7995,  0 to 14 years,Total - Age
+2021A00055917044,Census subdivision,2021,Langford,32125,  15 to 64 years,Total - Age
+2021A00055917044,Census subdivision,2021,Langford,6070,  65 years and over,Total - Age
+2021A00055917047,Census subdivision,2021,View Royal,1615,  0 to 14 years,Total - Age
+2021A00055917047,Census subdivision,2021,View Royal,7320,  15 to 64 years,Total - Age
+2021A00055917047,Census subdivision,2021,View Royal,2330,  65 years and over,Total - Age
+2021A00055917052,Census subdivision,2021,Sooke,2400,  0 to 14 years,Total - Age
+2021A00055917052,Census subdivision,2021,Sooke,9585,  15 to 64 years,Total - Age
+2021A00055917052,Census subdivision,2021,Sooke,2995,  65 years and over,Total - Age
+2021A00055919008,Census subdivision,2021,North Cowichan,4415,  0 to 14 years,Total - Age
+2021A00055919008,Census subdivision,2021,North Cowichan,18075,  15 to 64 years,Total - Age
+2021A00055919008,Census subdivision,2021,North Cowichan,8935,  65 years and over,Total - Age
+2021A00055921007,Census subdivision,2021,Nanaimo,14110,  0 to 14 years,Total - Age
+2021A00055921007,Census subdivision,2021,Nanaimo,60415,  15 to 64 years,Total - Age
+2021A00055921007,Census subdivision,2021,Nanaimo,22490,  65 years and over,Total - Age
+2021A00055921018,Census subdivision,2021,Parksville,1255,  0 to 14 years,Total - Age
+2021A00055921018,Census subdivision,2021,Parksville,6200,  15 to 64 years,Total - Age
+2021A00055921018,Census subdivision,2021,Parksville,5850,  65 years and over,Total - Age
+2021A00055923008,Census subdivision,2021,Port Alberni,2580,  0 to 14 years,Total - Age
+2021A00055923008,Census subdivision,2021,Port Alberni,10610,  15 to 64 years,Total - Age
+2021A00055923008,Census subdivision,2021,Port Alberni,4780,  65 years and over,Total - Age
+2021A00055924034,Census subdivision,2021,Campbell River,5175,  0 to 14 years,Total - Age
+2021A00055924034,Census subdivision,2021,Campbell River,20950,  15 to 64 years,Total - Age
+2021A00055924034,Census subdivision,2021,Campbell River,8755,  65 years and over,Total - Age
+2021A00055926005,Census subdivision,2021,Comox,2050,  0 to 14 years,Total - Age
+2021A00055926005,Census subdivision,2021,Comox,7915,  15 to 64 years,Total - Age
+2021A00055926005,Census subdivision,2021,Comox,4370,  65 years and over,Total - Age
+2021A00055926010,Census subdivision,2021,Courtenay,3835,  0 to 14 years,Total - Age
+2021A00055926010,Census subdivision,2021,Courtenay,16380,  15 to 64 years,Total - Age
+2021A00055926010,Census subdivision,2021,Courtenay,7600,  65 years and over,Total - Age
+2021A00055927008,Census subdivision,2021,Powell River,1745,  0 to 14 years,Total - Age
+2021A00055927008,Census subdivision,2021,Powell River,7915,  15 to 64 years,Total - Age
+2021A00055927008,Census subdivision,2021,Powell River,3975,  65 years and over,Total - Age
+2021A00055929011,Census subdivision,2021,Sechelt,1280,  0 to 14 years,Total - Age
+2021A00055929011,Census subdivision,2021,Sechelt,5490,  15 to 64 years,Total - Age
+2021A00055929011,Census subdivision,2021,Sechelt,3845,  65 years and over,Total - Age
+2021A00055931006,Census subdivision,2021,Squamish,4450,  0 to 14 years,Total - Age
+2021A00055931006,Census subdivision,2021,Squamish,16460,  15 to 64 years,Total - Age
+2021A00055931006,Census subdivision,2021,Squamish,2635,  65 years and over,Total - Age
+2021A00055931020,Census subdivision,2021,Whistler,1540,  0 to 14 years,Total - Age
+2021A00055931020,Census subdivision,2021,Whistler,10695,  15 to 64 years,Total - Age
+2021A00055931020,Census subdivision,2021,Whistler,1195,  65 years and over,Total - Age
+2021A00055933042,Census subdivision,2021,Kamloops,14785,  0 to 14 years,Total - Age
+2021A00055933042,Census subdivision,2021,Kamloops,62105,  15 to 64 years,Total - Age
+2021A00055933042,Census subdivision,2021,Kamloops,17670,  65 years and over,Total - Age
+2021A00055935010,Census subdivision,2021,Kelowna,19580,  0 to 14 years,Total - Age
+2021A00055935010,Census subdivision,2021,Kelowna,93280,  15 to 64 years,Total - Age
+2021A00055935010,Census subdivision,2021,Kelowna,28895,  65 years and over,Total - Age
+2021A00055935016,Census subdivision,2021,Lake Country,2565,  0 to 14 years,Total - Age
+2021A00055935016,Census subdivision,2021,Lake Country,10180,  15 to 64 years,Total - Age
+2021A00055935016,Census subdivision,2021,Lake Country,2885,  65 years and over,Total - Age
+2021A00055935029,Census subdivision,2021,West Kelowna,5875,  0 to 14 years,Total - Age
+2021A00055935029,Census subdivision,2021,West Kelowna,22455,  15 to 64 years,Total - Age
+2021A00055935029,Census subdivision,2021,West Kelowna,7415,  65 years and over,Total - Age
+2021A00055937010,Census subdivision,2021,Coldstream,1815,  0 to 14 years,Total - Age
+2021A00055937010,Census subdivision,2021,Coldstream,6810,  15 to 64 years,Total - Age
+2021A00055937010,Census subdivision,2021,Coldstream,2370,  65 years and over,Total - Age
+2021A00055937014,Census subdivision,2021,Vernon,6025,  0 to 14 years,Total - Age
+2021A00055937014,Census subdivision,2021,Vernon,25705,  15 to 64 years,Total - Age
+2021A00055937014,Census subdivision,2021,Vernon,11380,  65 years and over,Total - Age
+2021A00055939032,Census subdivision,2021,Salmon Arm,2810,  0 to 14 years,Total - Age
+2021A00055939032,Census subdivision,2021,Salmon Arm,10600,  15 to 64 years,Total - Age
+2021A00055939032,Census subdivision,2021,Salmon Arm,5215,  65 years and over,Total - Age
+2021A00055941009,Census subdivision,2021,Williams Lake,1840,  0 to 14 years,Total - Age
+2021A00055941009,Census subdivision,2021,Williams Lake,6840,  15 to 64 years,Total - Age
+2021A00055941009,Census subdivision,2021,Williams Lake,2030,  65 years and over,Total - Age
+2021A00055947012,Census subdivision,2021,Prince Rupert,2100,  0 to 14 years,Total - Age
+2021A00055947012,Census subdivision,2021,Prince Rupert,8160,  15 to 64 years,Total - Age
+2021A00055947012,Census subdivision,2021,Prince Rupert,1915,  65 years and over,Total - Age
+2021A00055949011,Census subdivision,2021,Terrace,2200,  0 to 14 years,Total - Age
+2021A00055949011,Census subdivision,2021,Terrace,7670,  15 to 64 years,Total - Age
+2021A00055949011,Census subdivision,2021,Terrace,1955,  65 years and over,Total - Age
+2021A00055953023,Census subdivision,2021,Prince George,12865,  0 to 14 years,Total - Age
+2021A00055953023,Census subdivision,2021,Prince George,50415,  15 to 64 years,Total - Age
+2021A00055953023,Census subdivision,2021,Prince George,11870,  65 years and over,Total - Age
+2021A00055955014,Census subdivision,2021,Dawson Creek,2315,  0 to 14 years,Total - Age
+2021A00055955014,Census subdivision,2021,Dawson Creek,8170,  15 to 64 years,Total - Age
+2021A00055955014,Census subdivision,2021,Dawson Creek,1585,  65 years and over,Total - Age
+2021A00055955034,Census subdivision,2021,Fort St. John,4575,  0 to 14 years,Total - Age
+2021A00055955034,Census subdivision,2021,Fort St. John,14995,  15 to 64 years,Total - Age
+2021A00055955034,Census subdivision,2021,Fort St. John,1600,  65 years and over,Total - Age
+2021C30055999999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, British Columbia",112680,  0 to 14 years,Total - Age
+2021C30055999999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, British Columbia",467790,  15 to 64 years,Total - Age
+2021C30055999999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, British Columbia",202950,  65 years and over,Total - Age
+2021A00056001009,Census subdivision,2021,Whitehorse,4940,  0 to 14 years,Total - Age
+2021A00056001009,Census subdivision,2021,Whitehorse,19235,  15 to 64 years,Total - Age
+2021A00056001009,Census subdivision,2021,Whitehorse,3545,  65 years and over,Total - Age
+2021C30056099999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Yukon",1865,  0 to 14 years,Total - Age
+2021C30056099999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Yukon",7790,  15 to 64 years,Total - Age
+2021C30056099999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Yukon",2205,  65 years and over,Total - Age
+2021A00056106023,Census subdivision,2021,Yellowknife,4120,  0 to 14 years,Total - Age
+2021A00056106023,Census subdivision,2021,Yellowknife,14340,  15 to 64 years,Total - Age
+2021A00056106023,Census subdivision,2021,Yellowknife,1450,  65 years and over,Total - Age
+2021C30056199999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Northwest Territories",4350,  0 to 14 years,Total - Age
+2021C30056199999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Northwest Territories",13725,  15 to 64 years,Total - Age
+2021C30056199999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Northwest Territories",2400,  65 years and over,Total - Age
