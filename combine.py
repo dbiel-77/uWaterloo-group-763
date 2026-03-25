@@ -23,13 +23,26 @@ def load_csv(file_path):
     """
     Load a CSV file into a DataFrame.
 
-    #TODO: Add error handling and logging
-    - Add dtype handling if needed
-    - Handle encoding issues if they arise
+    #TODO:
+    - Handle encoding issues if they arise -- this has not been added for the time being
     """
+    
     try:
-        df = pd.read_csv(file_path)
+        df = pd.read_csv(file_path, dtype={"DGUID": str})
         return df
+
+    except FileNotFoundError:
+        print(f"File not found: {file_path}")
+        return None
+
+    except pd.errors.EmptyDataError:
+        print(f"File is empty: {file_path}")
+        return None
+
+    except pd.errors.ParserError as e:
+        print(f"Parser error in {file_path}: {e}")
+        return None
+
     except Exception as e:
         print(f"Error loading {file_path}: {e}")
         return None
@@ -56,7 +69,6 @@ def load_all_csvs(folder):
             dataframes[file] = df
 
     return dataframes
-
 
 # =========================
 # CLEANING PER FILE
