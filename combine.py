@@ -16,7 +16,7 @@ CSV_FILES = [
 
 
 # =========================
-# LOADING
+# LOADING ----- COMPLETE
 # =========================
 
 def load_csv(file_path):
