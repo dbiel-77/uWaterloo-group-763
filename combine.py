@@ -9,9 +9,13 @@ INPUT_FOLDER = "data/input"
 OUTPUT_FILE = "data/output/combined.csv"
 
 # List CSVs explicitly if needed, otherwise auto-detect
+# Explicitly listed due to no standard convention, or folder standardization
 CSV_FILES = [
-    # "file1.csv",
-    # "file2.csv",
+    'Employment - Angelina Chen.csv',
+    'Knowledge of Official Languages - Florence Daran.csv',
+    'Land Area Data - Denish Manogarakumar.csv',
+    'Population Data Transposed - Alireza Nouri.csv',
+    'TransposedPopDwelCountMNK.csv',
 ]
 
 
