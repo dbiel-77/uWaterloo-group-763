@@ -26,5 +26,12 @@
 
     },
 
+    "Denish":{
+        "title": "Land area by census metropolitan area",
+        "name": "Land Area Data - Denish Manogarakumar.csv",
+        "description": "This dataset provides the land area for each municipality in Canada, based on data from Statistics Canada",
+        "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000201",
+        "last_updated": "2022-02-09"
+
     
 }
