@@ -9,11 +9,11 @@
     },
 
     "Michael": {
-        "title": "Labour force characteristics by census metropolitan area",
-        "name": "employment-data.csv",
-        "description": "A dataset containing employment data for various industries.",
-        "source": "statcan.gc.ca/en/census/2016/dp-pd/hlt-fst/emp/Table.cfm?Lang=Eng&T=206&S=99&O=A",
-        "last_updated": "2024-06-01"
+        "title": "Population and dwelling counts: Canada and census subdivisions",
+        "name": "pop-and-dwelling-data.csv",
+        "description": "A dataset containing 2021 and 2016 census data for population and dwelling count.",
+        "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000201",
+        "last_updated": "2022-02-09"
 
     },
     
