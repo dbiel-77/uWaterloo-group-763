@@ -24,15 +24,15 @@ months_2021 = df.columns[1:]
 
 df[months_2021] = df[months_2021].apply(pd.to_numeric, errors='coerce')
 
-df["Average Employment Rate (2021)"] = df[months_2021].mean(axis=1) 
+df["Average Unemployment Rate (2021)"] = df[months_2021].mean(axis=1) 
 
-avg_employment = df[["Locality", "Average Employment Rate (2021)"]]
+avg_unemployment = df[["Locality", "Average Unemployment Rate (2021)"]]
 
-avg_employment["Average Employment Rate (2021)"] = (
-    avg_employment["Average Employment Rate (2021)"].round(2)
+avg_unemployment["Average Unemployment Rate (2021)"] = (
+    avg_unemployment["Average Unemployment Rate (2021)"].round(2)
 )
 
-avg_employment = avg_employment.dropna()
-avg_employment = avg_employment.drop_duplicates()
+avg_unemployment = avg_unemployment.dropna()
+avg_unemployment = avg_unemployment.drop_duplicates()
 
-avg_employment.to_csv("Average Employment Rate by Locality (2021).csv", index=False)
+avg_unemployment.to_csv("Average Unemployment Rate.csv", index=False)
