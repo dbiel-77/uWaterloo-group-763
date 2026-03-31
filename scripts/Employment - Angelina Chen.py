@@ -1,21 +1,39 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('Employment - Angelina Chen.csv')
-df_e2021 = df[df["Year"] == 2021]
-df_e2021["Employment Rate"] = pd.to_numeric(df_e2021["Employment Rate"], error="coerce")
-df_e2021 = df_e2021.dropna(subset=["Employment Rate"])
+with open('Employment - Angelina Chen.csv', 'r', encoding = 'utf-8') as file:
+    lines = file.readlines()
 
+end_index = next(i for i, line in enumerate(lines) if "Footnotes" in line)
 
-avg_employment = (
-    df_e2021
-    .groupby("Locality", as_index=False)["Employment Rate"]
-    .apply(np.mean)
+df = pd.read_csv('Employment - Angelina Chen.csv',
+                 skiprows=8, 
+                 nrows=end_index - 8,
+                 engine='python'
 )
 
-avg_employment.columns = ["Locality", "Average Employment Rate (2021)"]
+df = df.dropna(axis=1, how='all')
 
-avg_employment["Average Employment Rate (2021)"] = \
+df.columns = df.columns.str.strip()
+df = df.rename(columns={df.columns[0]: "Locality"})
+df = df[
+    ~df["Locality"].str.contains("Statistics|Geography|Estimate|Percent", na=False)
+]
+
+months_2021 = df.columns[1:]  
+
+df[months_2021] = df[months_2021].apply(pd.to_numeric, errors='coerce')
+
+df["Average Employment Rate (2021)"] = df[months_2021].mean(axis=1) 
+
+avg_employment = df[["Locality", "Average Employment Rate (2021)"]]
+
+avg_employment["Average Employment Rate (2021)"] = (
     avg_employment["Average Employment Rate (2021)"].round(2)
+)
 
-print(avg_employment.to_string(index=False))
+avg_employment.to_csv("Average Employment Rate by Locality (2021).csv", index=False)
+
+avg_employment = avg_employment.dropna()
+
+print(avg_employment)
