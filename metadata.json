@@ -1,7 +1,7 @@
 {
     "Angelina": {
         "title": "Labour force characteristics by census metropolitan area",
-        "name": "employment-data.csv",
+        "name": "Employment - Angelina Chen.csv",
         "description": "A dataset containing employment data for various industries.",
         "source": "statcan.gc.ca/en/census/2016/dp-pd/hlt-fst/emp/Table.cfm?Lang=Eng&T=206&S=99&O=A",
         "last_updated": "2024-06-01"
@@ -32,6 +32,8 @@
         "description": "This dataset provides the land area for each municipality in Canada, based on data from Statistics Canada",
         "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000201",
         "last_updated": "2022-02-09"
-
+        
+    }.
+    
     
 }
