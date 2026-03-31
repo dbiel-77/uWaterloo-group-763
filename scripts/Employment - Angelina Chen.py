@@ -32,8 +32,7 @@ avg_employment["Average Employment Rate (2021)"] = (
     avg_employment["Average Employment Rate (2021)"].round(2)
 )
 
-avg_employment.to_csv("Average Employment Rate by Locality (2021).csv", index=False)
-
 avg_employment = avg_employment.dropna()
+avg_employment = avg_employment.drop_duplicates()
 
-print(avg_employment)
+avg_employment.to_csv("Average Employment Rate by Locality (2021).csv", index=False)
