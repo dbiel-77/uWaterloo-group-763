@@ -10,7 +10,7 @@
 
     "Michael": {
         "title": "Population and dwelling counts: Canada and census subdivisions",
-        "name": "pop-and-dwelling-data.csv",
+        "name": "TransposedPopDwelCountMNK.csv",
         "description": "A dataset containing 2021 and 2016 census data for population and dwelling count.",
         "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000201",
         "last_updated": "2022-02-09"
