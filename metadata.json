@@ -35,12 +35,12 @@
         
     },
     
-    "NAME":{
-        "title": "CENSUS...",
-        "name": "FILE.csv",
-        "description": "This dataset provides...",
-        "source": "https://www150.statcan.gc.ca/...",
-        "last_updated": "2022-02-09"
+    "Florence":{
+        "title": "Knowledge of Official Languages: Canada, provinces and territories and census subdivisions",
+        "name": "Knowledge of Official Languages - Florence Daran.csv",
+        "description": "A dataset containing the knowledge of official languages in Canada, provinces and territories and census subdivisions with a population 5,000 or more.",
+        "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810022501",
+        "last_updated": "2026-03-31"
         
     },
         
