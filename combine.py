@@ -16,6 +16,8 @@ CSV_FILES = [
     'Land Area Data - Denish Manogarakumar.csv',
     'Population Data Transposed - Alireza Nouri.csv',
     'TransposedPopDwelCountMNK.csv',
+    'Data Set(Visual Minorities) - Andrew.csv',
+    'Immigration - Akshini Nithi.csv',
 ]
 
 
