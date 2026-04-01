@@ -60,14 +60,5 @@
         "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810034701",
         "last_updated": "2026-03-31"
 
-    },
-        
-    "NAME":{
-        "title": "CENSUS...",
-        "name": "FILE.csv",
-        "description": "This dataset provides...",
-        "source": "https://www150.statcan.gc.ca/...",
-        "last_updated": "2022-02-09"
-        
-    },
+    }
 }
