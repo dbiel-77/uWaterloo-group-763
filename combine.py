@@ -12,12 +12,12 @@ OUTPUT_FILE = "data/output/combined.csv"
 # Explicitly listed due to no standard convention, or folder standardization
 CSV_FILES = [
     'employment_2021.csv',
-    'Knowledge of Official Languages - Florence Daran.csv',
-    'Land Area Data - Denish Manogarakumar.csv',
-    'Population Data Transposed - Alireza Nouri.csv',
-    'TransposedPopDwelCountMNK.csv',
-    'Data Set(Visual Minorities) - Andrew.csv',
-    'Immigration - Akshini Nithi.csv',
+    'landarea_2021.csv',
+    'officiallanguages_2021.csv',
+    'agepopulationdata_2021.csv',
+    'populationdwellingcount_2016-2021.csv',
+    'totalImmigration_2016-2021.csv',
+    'visualminorities_2021.csv',
 ]
 
 # =========================
