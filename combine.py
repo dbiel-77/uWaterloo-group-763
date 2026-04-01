@@ -16,7 +16,7 @@ CSV_FILES = [
     'officiallanguages_2021.csv',
     'agepopulationdata_2021.csv',
     'populationdwellingcount_2016-2021.csv',
-    'totalImmigration_2016-2021.csv',
+    'totalimmigration_2016-2021.csv',
     'visualminorities_2021.csv',
 ]
 
