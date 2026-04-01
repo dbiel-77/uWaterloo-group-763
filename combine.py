@@ -11,7 +11,7 @@ OUTPUT_FILE = "data/output/combined.csv"
 # List CSVs explicitly if needed, otherwise auto-detect
 # Explicitly listed due to no standard convention, or folder standardization
 CSV_FILES = [
-    'Employment - Angelina Chen.csv',
+    'employment_2021.csv',
     'Knowledge of Official Languages - Florence Daran.csv',
     'Land Area Data - Denish Manogarakumar.csv',
     'Population Data Transposed - Alireza Nouri.csv',
@@ -19,7 +19,6 @@ CSV_FILES = [
     'Data Set(Visual Minorities) - Andrew.csv',
     'Immigration - Akshini Nithi.csv',
 ]
-
 
 # =========================
 # LOADING ----- COMPLETE

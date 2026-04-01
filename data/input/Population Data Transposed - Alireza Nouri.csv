@@ -1,0 +1,442 @@
+﻿DGUID,GEO_LEVEL,CENSUS_YEAR,GEO_NAME,  0 to 14 years,  15 to 64 years,  65 years and over
+2021A00051001485,Census subdivision,2021,Conception Bay South,4450,17810,4490
+2021A00051001517,Census subdivision,2021,Paradise,4510,16010,2280
+2021A00051001519,Census subdivision,2021,St. John's,14635,72935,20085
+2021A00051001542,Census subdivision,2021,Mount Pearl,2760,14785,4810
+2021A00051005018,Census subdivision,2021,Corner Brook,2275,11675,4645
+2021A00051006009,Census subdivision,2021,Gander,1815,7555,2170
+2021A00051006017,Census subdivision,2021,Grand Falls-Windsor,1925,8425,3245
+2021A00051102075,Census subdivision,2021,Charlottetown,5135,25175,7290
+2021A00051102080,Census subdivision,2021,Stratford,2110,6795,1945
+2021A00051103025,Census subdivision,2021,Summerside,2285,9695,3565
+2021A00051202004,Census subdivision,2021,Yarmouth,1360,6095,2490
+2021A00051204010,Census subdivision,2021,Queens,1120,5980,3165
+2021A00051206001,Census subdivision,2021,Lunenburg,3095,15095,7200
+2021A00051206009,Census subdivision,2021,Chester,1235,6155,3175
+2021A00051207001,Census subdivision,2021,"Kings, Subd. A",3675,13600,4745
+2021A00051207016,Census subdivision,2021,"Kings, Subd. B",1780,7510,2625
+2021A00051208003,Census subdivision,2021,West Hants,2835,11805,4480
+2021A00051208008,Census subdivision,2021,East Hants,3710,14945,4195
+2021A00051209034,Census subdivision,2021,Halifax,64935,297045,73310
+2021A00051210001,Census subdivision,2021,"Colchester, Subd. C",1920,7850,2655
+2021A00051210006,Census subdivision,2021,Truro,1645,7710,3060
+2021A00051210008,Census subdivision,2021,"Colchester, Subd. B",2880,12020,4720
+2021A00051217030,Census subdivision,2021,Cape Breton,11760,56465,23795
+2021A00051301006,Census subdivision,2021,Saint John,10150,44620,13410
+2021A00051305045,Census subdivision,2021,Rothesay,1875,7515,2525
+2021A00051305057,Census subdivision,2021,Quispamsis,3425,11890,3165
+2021A00051306020,Census subdivision,2021,Riverview,3120,12905,4270
+2021A00051307019,Census subdivision,2021,Moncton,1785,6900,1945
+2021A00051307022,Census subdivision,2021,Moncton,11885,51425,14090
+2021A00051307045,Census subdivision,2021,Dieppe,4700,18515,4455
+2021A00051309050,Census subdivision,2021,Miramichi,2360,10250,4585
+2021A00051310032,Census subdivision,2021,Fredericton,9105,41085,11645
+2021A00051313027,Census subdivision,2021,Edmundston,1855,9175,4225
+2021A00051315002,Census subdivision,2021,Tracadie,1760,9955,3930
+2021A00051315011,Census subdivision,2021,Bathurst,1315,6905,3400
+2021A00052401023,Census subdivision,2021,Les Îles-de-la-Madeleine,1360,7255,3305
+2021A00052403005,Census subdivision,2021,Gaspé,2125,9000,3530
+2021A00052408053,Census subdivision,2021,Matane,1685,7920,3915
+2021A00052410043,Census subdivision,2021,Rimouski,7010,28975,11480
+2021A00052412072,Census subdivision,2021,Rivière-du-Loup,2745,11455,4665
+2021A00052418050,Census subdivision,2021,Montmagny,1325,6305,3090
+2021A00052423027,Census subdivision,2021,Québec,80845,339750,112940
+2021A00052423057,Census subdivision,2021,L'Ancienne-Lorette,2505,10110,3825
+2021A00052423072,Census subdivision,2021,Saint-Augustin-de-Desmaures,2980,12000,4275
+2021A00052425213,Census subdivision,2021,Lévis,25135,92385,28710
+2021A00052426030,Census subdivision,2021,Sainte-Marie,2335,7780,2525
+2021A00052429073,Census subdivision,2021,Saint-Georges,5315,19735,7045
+2021A00052431084,Census subdivision,2021,Thetford Mines,3525,13880,6840
+2021A00052434017,Census subdivision,2021,Pont-Rouge,2030,6265,1620
+2021A00052434128,Census subdivision,2021,Saint-Raymond,1850,6650,2355
+2021A00052436033,Census subdivision,2021,Shawinigan,6290,27805,13550
+2021A00052437067,Census subdivision,2021,Trois-Rivières,19555,82435,31685
+2021A00052438010,Census subdivision,2021,Bécancour,2300,8175,2690
+2021A00052439062,Census subdivision,2021,Victoriaville,7435,26840,11105
+2021A00052443027,Census subdivision,2021,Sherbrooke,27195,107560,32425
+2021A00052445072,Census subdivision,2021,Magog,3690,15465,7815
+2021A00052446078,Census subdivision,2021,Bromont,1830,7080,2350
+2021A00052446080,Census subdivision,2021,Cowansville,2275,8250,3760
+2021A00052446112,Census subdivision,2021,Farnham,1945,6120,1900
+2021A00052447017,Census subdivision,2021,Granby,10565,40315,15710
+2021A00052449058,Census subdivision,2021,Drummondville,12400,47440,16595
+2021A00052452007,Census subdivision,2021,Lavaltrie,2770,9270,2300
+2021A00052453052,Census subdivision,2021,Sorel-Tracy,4380,19545,9785
+2021A00052454048,Census subdivision,2021,Saint-Hyacinthe,8480,33525,12820
+2021A00052455048,Census subdivision,2021,Marieville,2300,7045,1690
+2021A00052456083,Census subdivision,2021,Saint-Jean-sur-Richelieu,16620,59935,19145
+2021A00052457005,Census subdivision,2021,Chambly,6725,20180,3990
+2021A00052457010,Census subdivision,2021,Carignan,2545,7835,1355
+2021A00052457020,Census subdivision,2021,Saint-Basile-le-Grand,3355,11215,2335
+2021A00052457035,Census subdivision,2021,Mont-Saint-Hilaire,3140,11305,3865
+2021A00052457040,Census subdivision,2021,Beloeil,4575,14355,4815
+2021A00052458007,Census subdivision,2021,Brossard,15160,56340,17645
+2021A00052458012,Census subdivision,2021,Saint-Lambert,3410,12760,5620
+2021A00052458033,Census subdivision,2021,Boucherville,6505,24845,9525
+2021A00052458037,Census subdivision,2021,Saint-Bruno-de-Montarville,4640,15545,5745
+2021A00052458227,Census subdivision,2021,Longueuil,42610,162960,44865
+2021A00052459010,Census subdivision,2021,Sainte-Julie,5205,19425,4710
+2021A00052459015,Census subdivision,2021,Saint-Amable,3020,8975,1325
+2021A00052459020,Census subdivision,2021,Varennes,3920,13790,3090
+2021A00052460013,Census subdivision,2021,Repentigny,15535,52815,16630
+2021A00052460028,Census subdivision,2021,L'Assomption,5065,14335,3620
+2021A00052461025,Census subdivision,2021,Joliette,3060,12530,4885
+2021A00052461035,Census subdivision,2021,Saint-Charles-Borromée,1825,7395,4470
+2021A00052462037,Census subdivision,2021,Rawdon,1745,7070,2685
+2021A00052463048,Census subdivision,2021,Saint-Lin--Laurentides,5625,15480,2760
+2021A00052463060,Census subdivision,2021,Sainte-Julienne,2065,7060,1780
+2021A00052464008,Census subdivision,2021,Terrebonne,23795,77410,16840
+2021A00052464015,Census subdivision,2021,Mascouche,10150,32590,7340
+2021A00052465005,Census subdivision,2021,Laval,75140,280025,74390
+2021A00052466023,Census subdivision,2021,Montréal,269930,1187090,266205
+2021A00052466032,Census subdivision,2021,Westmount,2835,11150,5300
+2021A00052466058,Census subdivision,2021,Côte-Saint-Luc,6000,18560,9155
+2021A00052466072,Census subdivision,2021,Mont-Royal,4260,12755,3675
+2021A00052466087,Census subdivision,2021,Dorval,2640,12490,3885
+2021A00052466097,Census subdivision,2021,Pointe-Claire,4885,19240,7435
+2021A00052466102,Census subdivision,2021,Kirkland,3070,12480,3690
+2021A00052466107,Census subdivision,2021,Beaconsfield,3465,11950,3620
+2021A00052466142,Census subdivision,2021,Dollard-Des Ormeaux,7885,30210,9830
+2021A00052467015,Census subdivision,2021,La Prairie,4765,17145,4285
+2021A00052467020,Census subdivision,2021,Candiac,4565,14580,3390
+2021A00052467030,Census subdivision,2021,Sainte-Catherine,2910,11200,2490
+2021A00052467035,Census subdivision,2021,Saint-Constant,5980,19800,3975
+2021A00052467045,Census subdivision,2021,Mercier,3240,9330,2000
+2021A00052467050,Census subdivision,2021,Châteauguay,9330,31435,9230
+2021A00052470022,Census subdivision,2021,Beauharnois,2225,8505,2790
+2021A00052470052,Census subdivision,2021,Salaberry-de-Valleyfield,6240,25315,9645
+2021A00052471060,Census subdivision,2021,L'Île-Perrot,1820,7505,1855
+2021A00052471065,Census subdivision,2021,Notre-Dame-de-l'Île-Perrot,2110,7735,1575
+2021A00052471070,Census subdivision,2021,Pincourt,2840,9405,2455
+2021A00052471083,Census subdivision,2021,Vaudreuil-Dorion,8545,27295,6335
+2021A00052471105,Census subdivision,2021,Saint-Lazare,4525,14890,2935
+2021A00052472005,Census subdivision,2021,Saint-Eustache,7550,27835,8885
+2021A00052472010,Census subdivision,2021,Deux-Montagnes,3260,11620,2715
+2021A00052472015,Census subdivision,2021,Sainte-Marthe-sur-le-Lac,4660,12595,2500
+2021A00052473005,Census subdivision,2021,Boisbriand,5545,18430,4300
+2021A00052473010,Census subdivision,2021,Sainte-Thérèse,3285,16085,5485
+2021A00052473015,Census subdivision,2021,Blainville,10995,39910,8105
+2021A00052473020,Census subdivision,2021,Rosemère,2470,8800,2800
+2021A00052473030,Census subdivision,2021,Bois-des-Filion,1920,6685,1435
+2021A00052473035,Census subdivision,2021,Sainte-Anne-des-Plaines,2855,9465,2190
+2021A00052474005,Census subdivision,2021,Mirabel,12605,40650,7590
+2021A00052475005,Census subdivision,2021,Saint-Colomban,4080,11815,1830
+2021A00052475017,Census subdivision,2021,Saint-Jérôme,12405,48210,17260
+2021A00052475028,Census subdivision,2021,Sainte-Sophie,3890,12075,2015
+2021A00052475040,Census subdivision,2021,Prévost,2480,8640,2500
+2021A00052475045,Census subdivision,2021,Saint-Hippolyte,1770,7120,1755
+2021A00052476020,Census subdivision,2021,Lachute,1995,8020,3345
+2021A00052477022,Census subdivision,2021,Sainte-Adèle,1715,8415,3635
+2021A00052477043,Census subdivision,2021,Saint-Sauveur,1150,6335,3925
+2021A00052478032,Census subdivision,2021,Sainte-Agathe-des-Monts,1385,6290,3175
+2021A00052478102,Census subdivision,2021,Mont-Tremblant,1300,6380,2875
+2021A00052479088,Census subdivision,2021,Mont-Laurier,2015,8320,3360
+2021A00052481017,Census subdivision,2021,Gatineau,52580,189730,43405
+2021A00052482015,Census subdivision,2021,Val-des-Monts,2570,9005,1745
+2021A00052482020,Census subdivision,2021,Cantley,2445,7780,1210
+2021A00052486042,Census subdivision,2021,Rouyn-Noranda,7295,26565,7430
+2021A00052488055,Census subdivision,2021,Amos,2000,7540,2565
+2021A00052489008,Census subdivision,2021,Val-d'Or,5625,20565,5955
+2021A00052490012,Census subdivision,2021,La Tuque,1575,6525,2820
+2021A00052491042,Census subdivision,2021,Saint-Félicien,1555,5945,2370
+2021A00052492022,Census subdivision,2021,Dolbeau-Mistassini,2065,7725,3335
+2021A00052493042,Census subdivision,2021,Alma,4635,17950,6735
+2021A00052494068,Census subdivision,2021,Saguenay,21530,86625,32960
+2021A00052496020,Census subdivision,2021,Baie-Comeau,2950,12575,4270
+2021A00052497007,Census subdivision,2021,Sept-Îles,4005,15330,4690
+2021A00053501005,Census subdivision,2021,South Glengarry,2000,7965,3250
+2021A00053501011,Census subdivision,2021,South Stormont,2125,8310,2970
+2021A00053501012,Census subdivision,2021,Cornwall,7505,27930,10910
+2021A00053501020,Census subdivision,2021,South Dundas,1655,6365,2925
+2021A00053501030,Census subdivision,2021,North Dundas,1915,7030,2160
+2021A00053501050,Census subdivision,2021,North Glengarry,1385,5975,2535
+2021A00053502008,Census subdivision,2021,Hawkesbury,1200,5670,2960
+2021A00053502025,Census subdivision,2021,The Nation / La Nation,2420,8790,1945
+2021A00053502036,Census subdivision,2021,Clarence-Rockland,4705,16750,4490
+2021A00053502048,Census subdivision,2021,Russell,3855,12895,2690
+2021A00053506008,Census subdivision,2021,Ottawa,166800,673700,160435
+2021A00053507015,Census subdivision,2021,Brockville,2655,12665,6195
+2021A00053507040,Census subdivision,2021,Rideau Lakes,1355,6125,3310
+2021A00053507065,Census subdivision,2021,North Grenville,2930,11165,3710
+2021A00053509028,Census subdivision,2021,Carleton Place,2235,7660,2375
+2021A00053509030,Census subdivision,2021,Mississippi Mills,2175,8610,3605
+2021A00053510010,Census subdivision,2021,Kingston,18710,84210,26190
+2021A00053510020,Census subdivision,2021,South Frontenac,3110,12705,4320
+2021A00053511005,Census subdivision,2021,Loyalist,2800,10365,3730
+2021A00053511015,Census subdivision,2021,Greater Napanee,2285,9535,4145
+2021A00053512005,Census subdivision,2021,Belleville,8220,33505,12065
+2021A00053512015,Census subdivision,2021,Quinte West,7345,28640,9990
+2021A00053513020,Census subdivision,2021,Prince Edward County,2960,13950,8280
+2021A00053514004,Census subdivision,2021,Brighton,1360,6260,3875
+2021A00053514019,Census subdivision,2021,Hamilton,1535,6990,2505
+2021A00053514020,Census subdivision,2021,Port Hope,2215,10165,4505
+2021A00053514021,Census subdivision,2021,Cobourg,2535,10935,6310
+2021A00053514045,Census subdivision,2021,Trent Hills,1720,7790,4105
+2021A00053515013,Census subdivision,2021,Cavan Monaghan,1785,6095,1885
+2021A00053515014,Census subdivision,2021,Peterborough,11960,51000,18640
+2021A00053515015,Census subdivision,2021,Selwyn,2595,10705,5160
+2021A00053516010,Census subdivision,2021,Kawartha Lakes,10530,45440,21260
+2021A00053518001,Census subdivision,2021,Pickering,16390,66265,15930
+2021A00053518005,Census subdivision,2021,Ajax,23790,86175,16285
+2021A00053518009,Census subdivision,2021,Whitby,26400,91185,19080
+2021A00053518013,Census subdivision,2021,Oshawa,30770,114935,28300
+2021A00053518017,Census subdivision,2021,Clarington,19600,66000,15130
+2021A00053518020,Census subdivision,2021,Scugog,3015,13255,5010
+2021A00053518029,Census subdivision,2021,Uxbridge,3265,13650,4495
+2021A00053518039,Census subdivision,2021,Brock,2130,7610,2565
+2021A00053519028,Census subdivision,2021,Vaughan,53260,216920,51130
+2021A00053519036,Census subdivision,2021,Markham,53850,222425,60980
+2021A00053519038,Census subdivision,2021,Richmond Hill,29950,137175,33805
+2021A00053519044,Census subdivision,2021,Whitchurch-Stouffville,9650,31205,8570
+2021A00053519046,Census subdivision,2021,Aurora,10560,41790,9040
+2021A00053519048,Census subdivision,2021,Newmarket,14510,59185,12915
+2021A00053519049,Census subdivision,2021,King,4875,17915,4415
+2021A00053519054,Census subdivision,2021,East Gwillimbury,6615,22825,4680
+2021A00053519070,Census subdivision,2021,Georgina,7770,31620,7735
+2021A00053520005,Census subdivision,2021,Toronto,383340,1921010,456940
+2021A00053521005,Census subdivision,2021,Mississauga,109230,488510,115080
+2021A00053521010,Census subdivision,2021,Brampton,117620,452810,79730
+2021A00053521024,Census subdivision,2021,Caledon,13150,51670,11265
+2021A00053522014,Census subdivision,2021,Orangeville,5720,19750,4225
+2021A00053523008,Census subdivision,2021,Guelph,23480,96380,21970
+2021A00053523009,Census subdivision,2021,Guelph/Eramosa,2310,8925,2510
+2021A00053523017,Census subdivision,2021,Erin,1810,8065,2080
+2021A00053523025,Census subdivision,2021,Centre Wellington,5335,18760,6550
+2021A00053523033,Census subdivision,2021,Mapleton,2930,6570,1325
+2021A00053523050,Census subdivision,2021,Wellington North,2340,7325,2435
+2021A00053524001,Census subdivision,2021,Oakville,38430,141515,32110
+2021A00053524002,Census subdivision,2021,Burlington,29880,117430,36645
+2021A00053524009,Census subdivision,2021,Milton,31970,86640,12825
+2021A00053524015,Census subdivision,2021,Halton Hills,10710,42530,9085
+2021A00053525005,Census subdivision,2021,Hamilton,91120,371225,98575
+2021A00053526003,Census subdivision,2021,Fort Erie,4400,19415,8675
+2021A00053526011,Census subdivision,2021,Port Colborne,2630,11895,4880
+2021A00053526021,Census subdivision,2021,West Lincoln,3115,9605,2685
+2021A00053526028,Census subdivision,2021,Pelham,2715,10445,4640
+2021A00053526032,Census subdivision,2021,Welland,8310,34450,12220
+2021A00053526037,Census subdivision,2021,Thorold,4015,15840,3680
+2021A00053526043,Census subdivision,2021,Niagara Falls,13855,59370,19445
+2021A00053526047,Census subdivision,2021,Niagara-on-the-Lake,2095,9835,6535
+2021A00053526053,Census subdivision,2021,St. Catharines,19330,85055,29950
+2021A00053526057,Census subdivision,2021,Lincoln,4265,15370,5310
+2021A00053526065,Census subdivision,2021,Grimsby,4675,18000,5895
+2021A00053528018,Census subdivision,2021,Haldimand County,8625,30320,9620
+2021A00053528052,Census subdivision,2021,Norfolk County,10245,39230,16755
+2021A00053529005,Census subdivision,2021,Brant,6665,24560,7475
+2021A00053529006,Census subdivision,2021,Brantford,17980,66515,18705
+2021A00053530004,Census subdivision,2021,North Dumfries,1940,6865,1755
+2021A00053530010,Census subdivision,2021,Cambridge,24465,91550,21105
+2021A00053530013,Census subdivision,2021,Kitchener,44865,173310,35970
+2021A00053530016,Census subdivision,2021,Waterloo,17570,83880,16940
+2021A00053530020,Census subdivision,2021,Wilmot,4020,12820,4405
+2021A00053530027,Census subdivision,2021,Wellesley,2775,6950,1585
+2021A00053530035,Census subdivision,2021,Woolwich,5605,16555,4450
+2021A00053531011,Census subdivision,2021,Stratford,4765,20340,7380
+2021A00053531030,Census subdivision,2021,Perth East,2915,7655,1820
+2021A00053531040,Census subdivision,2021,North Perth,3280,9335,2795
+2021A00053532002,Census subdivision,2021,Norwich,2640,6780,1690
+2021A00053532004,Census subdivision,2021,Tillsonburg,2630,10470,5195
+2021A00053532018,Census subdivision,2021,Ingersoll,2495,8825,2215
+2021A00053532042,Census subdivision,2021,Woodstock,8225,29155,8570
+2021A00053534020,Census subdivision,2021,Central Elgin,1995,8515,3100
+2021A00053534021,Census subdivision,2021,St. Thomas,7135,26350,8620
+2021A00053536020,Census subdivision,2021,Chatham-Kent,16545,62215,23010
+2021A00053537003,Census subdivision,2021,Leamington,5190,17690,5295
+2021A00053537013,Census subdivision,2021,Kingsville,3570,12950,4665
+2021A00053537016,Census subdivision,2021,Essex,3230,13095,4335
+2021A00053537028,Census subdivision,2021,Amherstburg,3730,14750,4820
+2021A00053537034,Census subdivision,2021,LaSalle,5515,21130,5835
+2021A00053537039,Census subdivision,2021,Windsor,36595,149270,40595
+2021A00053537048,Census subdivision,2021,Tecumseh,3575,14315,5120
+2021A00053537064,Census subdivision,2021,Lakeshore,7330,26305,6595
+2021A00053538003,Census subdivision,2021,St. Clair,2480,8850,3310
+2021A00053538030,Census subdivision,2021,Sarnia,10560,43555,16820
+2021A00053538040,Census subdivision,2021,Lambton Shores,1455,6385,3705
+2021A00053539015,Census subdivision,2021,Strathroy-Caradoc,4000,14670,4880
+2021A00053539027,Census subdivision,2021,Thames Centre,2400,8820,2635
+2021A00053539033,Census subdivision,2021,Middlesex Centre,3645,11640,3450
+2021A00053539036,Census subdivision,2021,London,68935,276515,70815
+2021A00053540005,Census subdivision,2021,South Huron,1515,5540,2800
+2021A00053541024,Census subdivision,2021,Kincardine,2150,7170,2745
+2021A00053541045,Census subdivision,2021,Saugeen Shores,2530,9165,3950
+2021A00053542004,Census subdivision,2021,West Grey,2070,7715,3210
+2021A00053542015,Census subdivision,2021,Grey Highlands,1830,6120,2385
+2021A00053542047,Census subdivision,2021,Meaford,1510,6260,3540
+2021A00053542053,Census subdivision,2021,Georgian Bluffs,1580,6570,2900
+2021A00053542059,Census subdivision,2021,Owen Sound,3085,12580,5160
+2021A00053543003,Census subdivision,2021,Adjala-Tosorontio,1695,7345,1915
+2021A00053543005,Census subdivision,2021,Clearview,2360,9470,2785
+2021A00053543007,Census subdivision,2021,New Tecumseth,8370,27595,7500
+2021A00053543009,Census subdivision,2021,Springwater,3900,14130,3530
+2021A00053543014,Census subdivision,2021,Bradford West Gwillimbury,9185,28090,5060
+2021A00053543015,Census subdivision,2021,Severn,2085,9025,3400
+2021A00053543017,Census subdivision,2021,Innisfil,7550,28475,7180
+2021A00053543019,Census subdivision,2021,Ramara,1185,6295,2875
+2021A00053543021,Census subdivision,2021,Essa,4620,15440,2725
+2021A00053543023,Census subdivision,2021,Oro-Medonte,3550,14485,4920
+2021A00053543031,Census subdivision,2021,Collingwood,3295,13980,7000
+2021A00053543042,Census subdivision,2021,Barrie,24695,99030,21660
+2021A00053543052,Census subdivision,2021,Orillia,4640,19835,7795
+2021A00053543064,Census subdivision,2021,Wasaga Beach,2900,13195,8490
+2021A00053543068,Census subdivision,2021,Tiny,1550,7495,3730
+2021A00053543071,Census subdivision,2021,Tay,1550,6865,2575
+2021A00053543072,Census subdivision,2021,Penetanguishene,1105,5370,2495
+2021A00053543074,Census subdivision,2021,Midland,2375,10395,4625
+2021A00053544002,Census subdivision,2021,Gravenhurst,1500,7090,3545
+2021A00053544018,Census subdivision,2021,Bracebridge,2310,10030,4425
+2021A00053544042,Census subdivision,2021,Huntsville,2865,12915,4950
+2021A00053547064,Census subdivision,2021,Pembroke,2025,8435,3170
+2021A00053547076,Census subdivision,2021,Petawawa,3920,11660,1710
+2021A00053548044,Census subdivision,2021,North Bay,7575,32985,10900
+2021A00053548055,Census subdivision,2021,West Nipissing / Nipissing Ouest,2085,8525,3650
+2021A00053553005,Census subdivision,2021,Greater Sudbury / Grand Sudbury,25600,105785,31645
+2021A00053556027,Census subdivision,2021,Timmins,6650,26855,6800
+2021A00053557041,Census subdivision,2021,Elliot Lake,1175,5640,4410
+2021A00053557061,Census subdivision,2021,Sault Ste. Marie,10240,43530,16960
+2021A00053558004,Census subdivision,2021,Thunder Bay,15410,68815,22420
+2021A00053560010,Census subdivision,2021,Kenora,2295,9305,3015
+2021A00054602041,Census subdivision,2021,Hanover,5010,10705,1420
+2021A00054602044,Census subdivision,2021,Steinbach,3785,10885,2900
+2021A00054602069,Census subdivision,2021,Taché,2800,7810,1270
+2021A00054603050,Census subdivision,2021,Winkler,3095,8435,2030
+2021A00054607062,Census subdivision,2021,Brandon,9395,32900,7550
+2021A00054609029,Census subdivision,2021,Portage la Prairie,2475,7945,2410
+2021A00054611040,Census subdivision,2021,Winnipeg,124110,493755,118800
+2021A00054612047,Census subdivision,2021,Springfield,2990,10175,2580
+2021A00054613043,Census subdivision,2021,St. Andrews,1715,7600,2235
+2021A00054613047,Census subdivision,2021,Selkirk,1650,6085,2200
+2021A00054613056,Census subdivision,2021,St. Clements,1710,7465,2225
+2021A00054622026,Census subdivision,2021,Thompson,3360,8590,930
+2021A00054701024,Census subdivision,2021,Estevan,2040,7005,1580
+2021A00054702047,Census subdivision,2021,Weyburn,2035,6610,1950
+2021A00054706027,Census subdivision,2021,Regina,42560,147675,32840
+2021A00054707039,Census subdivision,2021,Moose Jaw,5960,20445,6540
+2021A00054708004,Census subdivision,2021,Swift Current,2765,10185,3185
+2021A00054709012,Census subdivision,2021,Yorkton,2935,9850,3135
+2021A00054711066,Census subdivision,2021,Saskatoon,48440,175030,37480
+2021A00054711068,Census subdivision,2021,Warman,3280,7640,1255
+2021A00054711070,Census subdivision,2021,Martensville,2735,7040,750
+2021A00054715066,Census subdivision,2021,Prince Albert,8130,22510,5470
+2021A00054716029,Census subdivision,2021,North Battleford,2730,8440,2320
+2021A00054717029,Census subdivision,2021,Lloydminster (Part),2810,8165,785
+2021A00054801006,Census subdivision,2021,Medicine Hat,10605,39060,12165
+2021A00054802011,Census subdivision,2021,Lethbridge County,2490,5460,1150
+2021A00054802012,Census subdivision,2021,Lethbridge,17055,62990,16230
+2021A00054802034,Census subdivision,2021,Brooks,3410,9800,1435
+2021A00054805018,Census subdivision,2021,Strathmore,2830,8925,2355
+2021A00054806001,Census subdivision,2021,Foothills County,3590,14495,4590
+2021A00054806006,Census subdivision,2021,High River,2450,8330,3330
+2021A00054806012,Census subdivision,2021,Okotoks,6575,19330,4120
+2021A00054806014,Census subdivision,2021,Rocky View County,7020,26425,7015
+2021A00054806016,Census subdivision,2021,Calgary,235540,888975,167255
+2021A00054806017,Census subdivision,2021,Chestermere,5035,14825,2290
+2021A00054806019,Census subdivision,2021,Cochrane,6835,20105,4525
+2021A00054806021,Census subdivision,2021,Airdrie,18250,48930,6615
+2021A00054806028,Census subdivision,2021,Mountain View County,2270,7885,2610
+2021A00054808001,Census subdivision,2021,Red Deer County,3190,11865,3710
+2021A00054808011,Census subdivision,2021,Red Deer,18330,65720,13995
+2021A00054808012,Census subdivision,2021,Sylvan Lake,3450,10820,1685
+2021A00054808022,Census subdivision,2021,Lacombe County,1815,6150,1970
+2021A00054808029,Census subdivision,2021,Blackfalds,2790,7040,645
+2021A00054808031,Census subdivision,2021,Lacombe,2635,8205,2230
+2021A00054809002,Census subdivision,2021,Clearwater County,2085,7340,2335
+2021A00054810011,Census subdivision,2021,Camrose,3175,10950,4065
+2021A00054810039,Census subdivision,2021,Lloydminster (Part),4170,12745,2315
+2021A00054811001,Census subdivision,2021,Wetaskiwin County No. 10,1800,6670,2495
+2021A00054811002,Census subdivision,2021,Wetaskiwin,2285,7500,2325
+2021A00054811012,Census subdivision,2021,Leduc County,2630,9255,2455
+2021A00054811013,Census subdivision,2021,Beaumont,5325,13615,1910
+2021A00054811016,Census subdivision,2021,Leduc,7435,21795,4435
+2021A00054811034,Census subdivision,2021,Parkland County,5690,20495,5830
+2021A00054811048,Census subdivision,2021,Stony Plain,3385,10670,3305
+2021A00054811049,Census subdivision,2021,Spruce Grove,8140,24660,4665
+2021A00054811052,Census subdivision,2021,Strathcona County,17405,63960,16360
+2021A00054811056,Census subdivision,2021,Fort Saskatchewan,5620,17590,3360
+2021A00054811059,Census subdivision,2021,Sturgeon County,3725,12815,2990
+2021A00054811061,Census subdivision,2021,Edmonton,183875,682840,129765
+2021A00054811062,Census subdivision,2021,St. Albert,12265,42665,12010
+2021A00054811068,Census subdivision,2021,Morinville,2420,6615,1100
+2021A00054812002,Census subdivision,2021,Cold Lake,3565,10615,1160
+2021A00054812004,Census subdivision,2021,Bonnyville No. 87,2640,8320,1730
+2021A00054813001,Census subdivision,2021,Lac Ste. Anne County,1975,6675,2090
+2021A00054814003,Census subdivision,2021,Yellowhead County,1945,6455,1960
+2021A00054815023,Census subdivision,2021,Canmore,2040,10965,2520
+2021A00054816037,Census subdivision,2021,Wood Buffalo,16535,52265,2980
+2021A00054817095,Census subdivision,2021,Mackenzie County,4535,7190,960
+2021A00054819006,Census subdivision,2021,Grande Prairie County No. 1,5305,15315,2685
+2021A00054819012,Census subdivision,2021,Grande Prairie,13950,43955,5270
+2021A00055901022,Census subdivision,2021,Cranbrook,3000,12355,4485
+2021A00055903015,Census subdivision,2021,Nelson,1540,7165,2020
+2021A00055907035,Census subdivision,2021,Summerland,1570,6535,3595
+2021A00055907041,Census subdivision,2021,Penticton,4385,21065,10275
+2021A00055909020,Census subdivision,2021,Chilliwack,17695,57565,16730
+2021A00055909052,Census subdivision,2021,Abbotsford,26650,97615,26530
+2021A00055909056,Census subdivision,2021,Mission,7800,26655,6170
+2021A00055915001,Census subdivision,2021,Langley,24085,85165,21710
+2021A00055915002,Census subdivision,2021,Langley,4415,18465,5150
+2021A00055915004,Census subdivision,2021,Surrey,93945,385035,83580
+2021A00055915007,Census subdivision,2021,White Rock,1980,11685,7060
+2021A00055915011,Census subdivision,2021,Delta,16410,69520,21340
+2021A00055915015,Census subdivision,2021,Richmond,27925,139745,40730
+2021A00055915020,Census subdivision,2021,Metro Vancouver A,2735,12570,1775
+2021A00055915022,Census subdivision,2021,Vancouver,70370,473255,106760
+2021A00055915025,Census subdivision,2021,Burnaby,32250,171775,41700
+2021A00055915029,Census subdivision,2021,New Westminster,9925,56020,12110
+2021A00055915034,Census subdivision,2021,Coquitlam,22395,101620,23455
+2021A00055915039,Census subdivision,2021,Port Coquitlam,9620,41775,8995
+2021A00055915043,Census subdivision,2021,Port Moody,5515,23165,4775
+2021A00055915046,Census subdivision,2021,North Vancouver,14570,56530,16285
+2021A00055915051,Census subdivision,2021,North Vancouver,7300,40225,9980
+2021A00055915055,Census subdivision,2021,West Vancouver,6155,25315,11910
+2021A00055915070,Census subdivision,2021,Pitt Meadows,3275,12370,3380
+2021A00055915075,Census subdivision,2021,Maple Ridge,16055,59970,13835
+2021A00055917005,Census subdivision,2021,North Saanich,1395,6565,4235
+2021A00055917010,Census subdivision,2021,Sidney,1085,5615,5080
+2021A00055917015,Census subdivision,2021,Central Saanich,2445,10200,4525
+2021A00055917021,Census subdivision,2021,Saanich,15195,74735,25580
+2021A00055917027,Census subdivision,2021,Saltspring Island,1355,6180,3735
+2021A00055917030,Census subdivision,2021,Oak Bay,2295,9520,5820
+2021A00055917034,Census subdivision,2021,Victoria,8420,60675,18795
+2021A00055917040,Census subdivision,2021,Esquimalt,2140,11680,3475
+2021A00055917041,Census subdivision,2021,Colwood,3150,12130,3515
+2021A00055917044,Census subdivision,2021,Langford,7995,32125,6070
+2021A00055917047,Census subdivision,2021,View Royal,1615,7320,2330
+2021A00055917052,Census subdivision,2021,Sooke,2400,9585,2995
+2021A00055919008,Census subdivision,2021,North Cowichan,4415,18075,8935
+2021A00055921007,Census subdivision,2021,Nanaimo,14110,60415,22490
+2021A00055921018,Census subdivision,2021,Parksville,1255,6200,5850
+2021A00055923008,Census subdivision,2021,Port Alberni,2580,10610,4780
+2021A00055924034,Census subdivision,2021,Campbell River,5175,20950,8755
+2021A00055926005,Census subdivision,2021,Comox,2050,7915,4370
+2021A00055926010,Census subdivision,2021,Courtenay,3835,16380,7600
+2021A00055927008,Census subdivision,2021,Powell River,1745,7915,3975
+2021A00055929011,Census subdivision,2021,Sechelt,1280,5490,3845
+2021A00055931006,Census subdivision,2021,Squamish,4450,16460,2635
+2021A00055931020,Census subdivision,2021,Whistler,1540,10695,1195
+2021A00055933042,Census subdivision,2021,Kamloops,14785,62105,17670
+2021A00055935010,Census subdivision,2021,Kelowna,19580,93280,28895
+2021A00055935016,Census subdivision,2021,Lake Country,2565,10180,2885
+2021A00055935029,Census subdivision,2021,West Kelowna,5875,22455,7415
+2021A00055937010,Census subdivision,2021,Coldstream,1815,6810,2370
+2021A00055937014,Census subdivision,2021,Vernon,6025,25705,11380
+2021A00055939032,Census subdivision,2021,Salmon Arm,2810,10600,5215
+2021A00055941009,Census subdivision,2021,Williams Lake,1840,6840,2030
+2021A00055947012,Census subdivision,2021,Prince Rupert,2100,8160,1915
+2021A00055949011,Census subdivision,2021,Terrace,2200,7670,1955
+2021A00055953023,Census subdivision,2021,Prince George,12865,50415,11870
+2021A00055955014,Census subdivision,2021,Dawson Creek,2315,8170,1585
+2021A00055955034,Census subdivision,2021,Fort St. John,4575,14995,1600
+2021A00056001009,Census subdivision,2021,Whitehorse,4940,19235,3545
+2021A00056106023,Census subdivision,2021,Yellowknife,4120,14340,1450
+2021C30051099999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Newfoundland and Labrador",35770,170020,73015
+2021C30051199999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Prince Edward Island",14055,54440,17995
+2021C30051299999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Nova Scotia",34575,150790,66645
+2021C30051399999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, New Brunswick",57615,250375,95100
+2021C30052499999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Quebec",303915,1088590,393330
+2021C30053599999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Ontario",159050,596790,228880
+2021C30054699999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Manitoba",86685,232330,67160
+2021C30054799999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Saskatchewan",94010,268710,86160
+2021C30054899999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Alberta",122490,371040,101815
+2021C30055999999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, British Columbia",112680,467790,202950
+2021C30056099999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Yukon",1865,7790,2205
+2021C30056199999,"Provincial/territorial combined CSDs with 2021 population under 10,000",2021,"Combined census subdivisions with 2021 population under 10,000, Northwest Territories",4350,13725,2400
