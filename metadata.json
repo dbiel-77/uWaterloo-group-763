@@ -52,6 +52,15 @@
         "last_updated": "2023-06-21"
         
     },
+
+    "Akshini":{
+        "title": "Immigrant status and period of immigration by gender and age: Canada, provinces and territories",
+        "name": "Immigration - Akshini Nithi.csv",
+        "description": "This dataset contains the total immigration status and period of immigration including non-immigrants and non-permanant residents in Canada's provinces and territories.",
+        "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810034701",
+        "last_updated": "2026-03-31"
+
+    },
         
     "NAME":{
         "title": "CENSUS...",
