@@ -1,7 +1,7 @@
 {
     "Angelina": {
         "title": "Labour force characteristics by census metropolitan area",
-        "name": "Average Unemployment Rate - Angelina Chen.csv",
+        "name": "Employment - Angelina Chen.csv",
         "description": "A dataset containing employment data for various industries.",
         "source": "statcan.gc.ca/en/census/2016/dp-pd/hlt-fst/emp/Table.cfm?Lang=Eng&T=206&S=99&O=A",
         "last_updated": "2024-06-01"
@@ -44,12 +44,12 @@
         
     },
         
-    "Andrew":{
-        "title": "Visible Minorities: Census divisions",
-        "name": "Data Set(Visual Minorities) - Andrew.csv",
-        "description": "This dataset provides how many people belong to each visual minority group, and what share they represent within each municipality ",
-        "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810035201",
-        "last_updated": "2023-06-21"
+    "Akshini":{
+        "title": "Immigrant status and period of immigration by gender and age: Canada, provinces and territories",
+        "name": "Immigration - Akshini Nithi.csv",
+        "description": "This dataset contains the total immigration status and period of immigration including non-immigrants and non-permanant residents in Canada's provinces and territories.",
+        "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810034701",
+        "last_updated": "2026-03-31"
         
     },
         
