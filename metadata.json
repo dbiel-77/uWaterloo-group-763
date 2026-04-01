@@ -10,7 +10,7 @@
 
     "Michael": {
         "title": "Population and dwelling counts: Canada and census subdivisions",
-        "name": "TransposedPopDwelCountMNK.csv",
+        "name": "populationdwellingcount_2016-2021.csv",
         "description": "A dataset containing 2021 and 2016 census data for population and dwelling count.",
         "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000201",
         "last_updated": "2022-02-09"
@@ -19,7 +19,7 @@
     
     "Alireza":{
         "title": "Municipal population data broken down into three age groups",
-        "name": "Population-Data-Transposed - Alireza-Nouri.csv",
+        "name": "agepopulationdata_2021.csv",
         "description": " This dataset contains the population data of most municipalities broken down into three age groups  of 0-14, 15-64 and 65+ years old.",
         "source": "https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/sip/details/download-telecharger/download-telecharger.cfm?Lang=E",
         "last_updated": "2024-03-14"
@@ -28,7 +28,7 @@
 
     "Denish":{
         "title": "Land area by census metropolitan area",
-        "name": "Land Area Data - Denish Manogarakumar.csv",
+        "name": "landarea_2021.csv",
         "description": "This dataset provides the land area for each municipality in Canada, based on data from Statistics Canada",
         "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000201",
         "last_updated": "2022-02-09"
@@ -37,7 +37,7 @@
     
     "Florence":{
         "title": "Knowledge of Official Languages: Canada, provinces and territories and census subdivisions",
-        "name": "Knowledge of Official Languages - Florence Daran.csv",
+        "name": "officiallanguages_2021.csv",
         "description": "A dataset containing the knowledge of official languages in Canada, provinces and territories and census subdivisions with a population 5,000 or more.",
         "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810022501",
         "last_updated": "2026-03-31"
@@ -46,7 +46,7 @@
         
     "Andrew":{
         "title": "Visible Minorities: Census divisions",
-        "name": "Data Set(Visual Minorities) - Andrew.csv",
+        "name": "visualminorities_2021.csv",
         "description": "This dataset provides how many people belong to each visual minority group, and what share they represent within each municipality ",
         "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810035201",
         "last_updated": "2023-06-21"
@@ -55,7 +55,7 @@
 
     "Akshini":{
         "title": "Immigrant status and period of immigration by gender and age: Canada, provinces and territories",
-        "name": "Immigration - Akshini Nithi.csv",
+        "name": "totalimmigration_2016-2021.csv",
         "description": "This dataset contains the total immigration status and period of immigration including non-immigrants and non-permanant residents in Canada's provinces and territories.",
         "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810034701",
         "last_updated": "2026-03-31"
