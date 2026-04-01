@@ -1,0 +1,175 @@
+GEO,DGUID,Age,Gender,Total,Non_Immigrants,Immigrants,Recent_Immigrants_2016_2021,Non_Permanent_Residents
+Canada,2021A000011124,Total - Age,Total - Gender,36328475.0,27042120.0,8361505.0,1328240.0,924845.0
+Newfoundland and Labrador,2021A000210,Total - Age,Total - Gender,502100.0,482615.0,14255.0,4270.0,5235.0
+"Corner Brook (CA), N.L.",2021S0504015,Total - Age,Total - Gender,28975.0,28155.0,660.0,170.0,160.0
+"Gander (CA), N.L.",2021S0504011,Total - Age,Total - Gender,13080.0,12695.0,300.0,130.0,80.0
+"Grand Falls-Windsor (CA), N.L.",2021S0504010,Total - Age,Total - Gender,13600.0,13250.0,260.0,40.0,95.0
+"St. John's (CMA), N.L.",2021S0503001,Total - Age,Total - Gender,208815.0,194935.0,9510.0,3085.0,4375.0
+Prince Edward Island,2021A000211,Total - Age,Total - Gender,150480.0,133285.0,11765.0,4860.0,5430.0
+"Charlottetown (CA), P.E.I.",2021S0504105,Total - Age,Total - Gender,77380.0,64980.0,8385.0,3860.0,4020.0
+"Summerside (CA), P.E.I.",2021S0504110,Total - Age,Total - Gender,17670.0,15965.0,1075.0,420.0,635.0
+Nova Scotia,2021A000212,Total - Age,Total - Gender,955860.0,861945.0,71565.0,21385.0,22345.0
+"Cape Breton (CA), N.S.",2021S0504225,Total - Age,Total - Gender,96640.0,92120.0,2185.0,405.0,2335.0
+"Halifax (CMA), N.S.",2021S0503205,Total - Age,Total - Gender,461140.0,392615.0,51485.0,18135.0,17040.0
+"Kentville (CA), N.S.",2021S0504210,Total - Age,Total - Gender,26600.0,24825.0,1400.0,320.0,375.0
+"New Glasgow (CA), N.S.",2021S0504220,Total - Age,Total - Gender,33780.0,32640.0,980.0,245.0,155.0
+"Truro (CA), N.S.",2021S0504215,Total - Age,Total - Gender,45325.0,42640.0,2090.0,465.0,590.0
+New Brunswick,2021A000213,Total - Age,Total - Gender,759195.0,704220.0,44125.0,16040.0,10860.0
+"Bathurst (CA), N.B.",2021S0504328,Total - Age,Total - Gender,30545.0,29500.0,755.0,215.0,290.0
+"Campbellton (CA), N.B./Que.",2021S0504330,Total - Age,Total - Gender,12655.0,12290.0,290.0,85.0,75.0
+"Campbellton (New Brunswick part) (CA), N.B.",2021S050613330,Total - Age,Total - Gender,11335.0,10980.0,275.0,85.0,75.0
+"Campbellton (Quebec part) (CA), Que.",2021S050624330,Total - Age,Total - Gender,1320.0,1305.0,10.0,0.0,0.0
+"Edmundston (CA), N.B.",2021S0504335,Total - Age,Total - Gender,20925.0,19915.0,715.0,245.0,300.0
+"Fredericton (CMA), N.B.",2021S0503320,Total - Age,Total - Gender,107160.0,95865.0,9510.0,3725.0,1790.0
+"Miramichi (CA), N.B.",2021S0504329,Total - Age,Total - Gender,27040.0,26065.0,865.0,295.0,110.0
+"Moncton (CMA), N.B.",2021S0503305,Total - Age,Total - Gender,154245.0,136125.0,13345.0,6460.0,4775.0
+"Saint John (CMA), N.B.",2021S0503310,Total - Age,Total - Gender,128385.0,118110.0,8460.0,3060.0,1815.0
+Quebec,2021A000224,Total - Age,Total - Gender,8308480.0,6892110.0,1210600.0,202740.0,205775.0
+"Alma (CA), Que.",2021S0504410,Total - Age,Total - Gender,29320.0,28955.0,260.0,45.0,105.0
+"Amos (CA), Que.",2021S0504481,Total - Age,Total - Gender,18215.0,17870.0,230.0,85.0,110.0
+"Baie-Comeau (CA), Que.",2021S0504406,Total - Age,Total - Gender,25720.0,25255.0,320.0,40.0,145.0
+"Cowansville (CA), Que.",2021S0504437,Total - Age,Total - Gender,14285.0,13760.0,485.0,50.0,45.0
+"Dolbeau-Mistassini (CA), Que.",2021S0504411,Total - Age,Total - Gender,14725.0,14520.0,120.0,35.0,85.0
+"Drummondville (CMA), Que.",2021S0503447,Total - Age,Total - Gender,98570.0,93735.0,3700.0,980.0,1130.0
+"Granby (CA), Que.",2021S0504450,Total - Age,Total - Gender,88250.0,83155.0,4420.0,940.0,670.0
+"Joliette (CA), Que.",2021S0504456,Total - Age,Total - Gender,50165.0,47730.0,2120.0,500.0,315.0
+"Lachute (CA), Que.",2021S0504468,Total - Age,Total - Gender,13360.0,13030.0,320.0,30.0,15.0
+"Matane (CA), Que.",2021S0504403,Total - Age,Total - Gender,18020.0,17520.0,210.0,35.0,290.0
+"Montréal (CMA), Que.",2021S0503462,Total - Age,Total - Gender,4206455.0,3021830.0,1022940.0,162260.0,161680.0
+"Québec (CMA), Que.",2021S0503421,Total - Age,Total - Gender,817105.0,746855.0,54860.0,14310.0,15395.0
+"Rimouski (CA), Que.",2021S0504404,Total - Age,Total - Gender,52480.0,50805.0,1190.0,370.0,485.0
+"Rivière-du-Loup (CA), Que.",2021S0504405,Total - Age,Total - Gender,28675.0,27810.0,480.0,135.0,385.0
+"Rouyn-Noranda (CA), Que.",2021S0504485,Total - Age,Total - Gender,41285.0,40110.0,750.0,220.0,425.0
+"Saguenay (CMA), Que.",2021S0503408,Total - Age,Total - Gender,157895.0,154185.0,2065.0,420.0,1650.0
+"Saint-Georges (CA), Que.",2021S0504428,Total - Age,Total - Gender,33990.0,32810.0,615.0,200.0,565.0
+"Saint-Hyacinthe (CA), Que.",2021S0504452,Total - Age,Total - Gender,57575.0,51915.0,4295.0,1235.0,1365.0
+"Sainte-Agathe-des-Monts (CA), Que.",2021S0504467,Total - Age,Total - Gender,19415.0,18240.0,1090.0,120.0,85.0
+"Sainte-Marie (CA), Que.",2021S0504423,Total - Age,Total - Gender,12640.0,12115.0,320.0,65.0,210.0
+"Salaberry-de-Valleyfield (CA), Que.",2021S0504465,Total - Age,Total - Gender,41200.0,39740.0,1310.0,220.0,150.0
+"Sept-Îles (CA), Que.",2021S0504412,Total - Age,Total - Gender,27155.0,26520.0,490.0,175.0,150.0
+"Shawinigan (CA), Que.",2021S0504444,Total - Age,Total - Gender,47640.0,46310.0,1010.0,255.0,320.0
+"Sherbrooke (CMA), Que.",2021S0503433,Total - Age,Total - Gender,220105.0,199565.0,16725.0,4145.0,3815.0
+"Sorel-Tracy (CA), Que.",2021S0504454,Total - Age,Total - Gender,40455.0,39275.0,1015.0,125.0,165.0
+"Thetford Mines (CA), Que.",2021S0504430,Total - Age,Total - Gender,26430.0,25555.0,470.0,90.0,400.0
+"Trois-Rivières (CMA), Que.",2021S0503442,Total - Age,Total - Gender,155535.0,146760.0,6355.0,1455.0,2415.0
+"Val-d'Or (CA), Que.",2021S0504480,Total - Age,Total - Gender,33420.0,32420.0,740.0,240.0,265.0
+"Victoriaville (CA), Que.",2021S0504440,Total - Age,Total - Gender,50550.0,48565.0,1580.0,335.0,415.0
+Ontario,2021A000235,Total - Age,Total - Gender,14031755.0,9437320.0,4206585.0,584680.0,387850.0
+"Barrie (CMA), Ont.",2021S0503568,Total - Age,Total - Gender,210155.0,171400.0,35340.0,4160.0,3405.0
+"Belleville - Quinte West (CMA), Ont.",2021S0503522,Total - Age,Total - Gender,109245.0,99070.0,9065.0,870.0,1115.0
+"Brantford (CMA), Ont.",2021S0503543,Total - Age,Total - Gender,141905.0,120245.0,20235.0,2265.0,1430.0
+"Brockville (CA), Ont.",2021S0504512,Total - Age,Total - Gender,30880.0,27930.0,2855.0,260.0,95.0
+"Centre Wellington (CA), Ont.",2021S0504531,Total - Age,Total - Gender,30645.0,27085.0,3450.0,220.0,110.0
+"Chatham-Kent (CA), Ont.",2021S0504556,Total - Age,Total - Gender,102090.0,92315.0,9245.0,845.0,530.0
+"Cobourg (CA), Ont.",2021S0504527,Total - Age,Total - Gender,19780.0,17190.0,2550.0,195.0,40.0
+"Collingwood (CA), Ont.",2021S0504567,Total - Age,Total - Gender,24270.0,20945.0,3205.0,285.0,120.0
+"Cornwall (CA), Ont.",2021S0504501,Total - Age,Total - Gender,59750.0,54655.0,4525.0,655.0,570.0
+"Elliot Lake (CA), Ont.",2021S0504582,Total - Age,Total - Gender,11225.0,10030.0,1175.0,25.0,15.0
+"Essa (CA), Ont.",2021S0504563,Total - Age,Total - Gender,22785.0,20005.0,2685.0,220.0,100.0
+"Greater Sudbury (CMA), Ont.",2021S0503580,Total - Age,Total - Gender,167615.0,154070.0,9985.0,1655.0,3560.0
+"Guelph (CMA), Ont.",2021S0503550,Total - Age,Total - Gender,163485.0,123670.0,37100.0,6000.0,2715.0
+"Hamilton (CMA), Ont.",2021S0503537,Total - Age,Total - Gender,773440.0,561180.0,197845.0,26545.0,14410.0
+"Hawkesbury (CA), Ont./Que.",2021S0504502,Total - Age,Total - Gender,11640.0,10980.0,625.0,120.0,35.0
+"Hawkesbury (Ontario part) (CA), Ont.",2021S050635502,Total - Age,Total - Gender,9830.0,9215.0,580.0,115.0,35.0
+"Hawkesbury (Quebec part) (CA), Que.",2021S050624502,Total - Age,Total - Gender,1815.0,1770.0,50.0,0.0,0.0
+"Ingersoll (CA), Ont.",2021S0504533,Total - Age,Total - Gender,13545.0,12485.0,1030.0,115.0,30.0
+"Kawartha Lakes (CA), Ont.",2021S0504530,Total - Age,Total - Gender,77230.0,70930.0,6100.0,215.0,195.0
+"Kenora (CA), Ont.",2021S0504598,Total - Age,Total - Gender,14610.0,13855.0,640.0,75.0,115.0
+"Kingston (CMA), Ont.",2021S0503521,Total - Age,Total - Gender,168075.0,144460.0,20290.0,2725.0,3320.0
+"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Total - Age,Total - Gender,568065.0,399240.0,146575.0,27785.0,22250.0
+"London (CMA), Ont.",2021S0503555,Total - Age,Total - Gender,535780.0,400620.0,115600.0,20495.0,19555.0
+"Midland (CA), Ont.",2021S0504571,Total - Age,Total - Gender,26365.0,24020.0,2265.0,180.0,80.0
+"Norfolk (CA), Ont.",2021S0504547,Total - Age,Total - Gender,66225.0,58905.0,7075.0,520.0,240.0
+"North Bay (CA), Ont.",2021S0504575,Total - Age,Total - Gender,70175.0,66260.0,3375.0,315.0,540.0
+"Orillia (CA), Ont.",2021S0504569,Total - Age,Total - Gender,32270.0,28970.0,3115.0,280.0,185.0
+"Oshawa (CMA), Ont.",2021S0503532,Total - Age,Total - Gender,411405.0,315710.0,91815.0,11555.0,3880.0
+"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Total - Age,Total - Gender,1464495.0,1115495.0,313845.0,58295.0,35160.0
+"Ottawa - Gatineau (Ontario part) (CMA), Ont.",2021S050535505,Total - Age,Total - Gender,1116795.0,819940.0,267060.0,48170.0,29800.0
+"Ottawa - Gatineau (Quebec part) (CMA), Que.",2021S050524505,Total - Age,Total - Gender,347700.0,295560.0,46785.0,10125.0,5360.0
+"Owen Sound (CA), Ont.",2021S0504566,Total - Age,Total - Gender,31875.0,29410.0,2340.0,320.0,125.0
+"Pembroke (CA), Ont.",2021S0504515,Total - Age,Total - Gender,23085.0,22060.0,970.0,75.0,55.0
+"Petawawa (CA), Ont.",2021S0504516,Total - Age,Total - Gender,17295.0,16130.0,1065.0,130.0,100.0
+"Peterborough (CMA), Ont.",2021S0503529,Total - Age,Total - Gender,125995.0,113400.0,10975.0,1300.0,1615.0
+"Port Hope (CA), Ont.",2021S0504528,Total - Age,Total - Gender,16885.0,15150.0,1720.0,25.0,20.0
+"Sarnia (CA), Ont.",2021S0504562,Total - Age,Total - Gender,96285.0,84845.0,10080.0,775.0,1360.0
+"Sault Ste. Marie (CA), Ont.",2021S0504590,Total - Age,Total - Gender,75420.0,68400.0,6095.0,590.0,925.0
+"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Total - Age,Total - Gender,425480.0,340945.0,76305.0,8225.0,8235.0
+"Stratford (CA), Ont.",2021S0504553,Total - Age,Total - Gender,32480.0,28625.0,3560.0,415.0,300.0
+"Thunder Bay (CMA), Ont.",2021S0503595,Total - Age,Total - Gender,120960.0,108275.0,9980.0,1100.0,2710.0
+"Tillsonburg (CA), Ont.",2021S0504546,Total - Age,Total - Gender,18300.0,15980.0,2295.0,105.0,15.0
+"Timmins (CA), Ont.",2021S0504586,Total - Age,Total - Gender,40310.0,38290.0,1370.0,250.0,650.0
+"Toronto (CMA), Ont.",2021S0503535,Total - Age,Total - Gender,6142885.0,3030050.0,2862850.0,391685.0,249980.0
+"Wasaga Beach (CA), Ont.",2021S0504565,Total - Age,Total - Gender,24585.0,20170.0,4275.0,150.0,140.0
+"Windsor (CMA), Ont.",2021S0503559,Total - Age,Total - Gender,415505.0,309345.0,96910.0,15830.0,9255.0
+"Woodstock (CA), Ont.",2021S0504544,Total - Age,Total - Gender,45950.0,38855.0,6805.0,950.0,285.0
+Manitoba,2021A000246,Total - Age,Total - Gender,1307185.0,1015285.0,257620.0,58370.0,34290.0
+"Brandon (CA), Man.",2021S0504610,Total - Age,Total - Gender,52750.0,42410.0,9180.0,2770.0,1160.0
+"Portage la Prairie (CA), Man.",2021S0504607,Total - Age,Total - Gender,12830.0,11420.0,1185.0,490.0,230.0
+"Steinbach (CA), Man.",2021S0504605,Total - Age,Total - Gender,17580.0,13585.0,3745.0,960.0,255.0
+"Thompson (CA), Man.",2021S0504640,Total - Age,Total - Gender,12880.0,10935.0,1730.0,590.0,215.0
+"Winkler (CA), Man.",2021S0504603,Total - Age,Total - Gender,32215.0,23790.0,8155.0,1930.0,270.0
+"Winnipeg (CMA), Man.",2021S0503602,Total - Age,Total - Gender,819715.0,581545.0,207950.0,46495.0,30220.0
+Saskatchewan,2021A000247,Total - Age,Total - Gender,1103200.0,949755.0,137620.0,43120.0,15830.0
+"Estevan (CA), Sask.",2021S0504750,Total - Age,Total - Gender,12555.0,11075.0,1350.0,415.0,130.0
+"Moose Jaw (CA), Sask.",2021S0504715,Total - Age,Total - Gender,34160.0,30480.0,3110.0,1040.0,570.0
+"North Battleford (CA), Sask.",2021S0504735,Total - Age,Total - Gender,18785.0,16315.0,2190.0,680.0,280.0
+"Prince Albert (CA), Sask.",2021S0504745,Total - Age,Total - Gender,43325.0,39120.0,3700.0,1250.0,510.0
+"Regina (CMA), Sask.",2021S0503705,Total - Age,Total - Gender,244950.0,192745.0,46050.0,14980.0,6155.0
+"Saskatoon (CMA), Sask.",2021S0503725,Total - Age,Total - Gender,311515.0,249955.0,56070.0,17515.0,5490.0
+"Swift Current (CA), Sask.",2021S0504720,Total - Age,Total - Gender,18060.0,15685.0,2135.0,725.0,245.0
+"Weyburn (CA), Sask.",2021S0504755,Total - Age,Total - Gender,11825.0,10500.0,1230.0,360.0,95.0
+"Yorkton (CA), Sask.",2021S0504710,Total - Age,Total - Gender,19505.0,17105.0,2060.0,640.0,340.0
+Alberta,2021A000248,Total - Age,Total - Gender,4177715.0,3141915.0,970975.0,193170.0,64825.0
+"Brooks (CA), Alta.",2021S0504806,Total - Age,Total - Gender,14645.0,8860.0,5435.0,1850.0,350.0
+"Calgary (CMA), Alta.",2021S0503825,Total - Age,Total - Gender,1465180.0,976435.0,460875.0,85615.0,27865.0
+"Camrose (CA), Alta.",2021S0504833,Total - Age,Total - Gender,18190.0,16145.0,1860.0,525.0,175.0
+"Canmore (CA), Alta.",2021S0504828,Total - Age,Total - Gender,15525.0,11705.0,3265.0,775.0,550.0
+"Edmonton (CMA), Alta.",2021S0503835,Total - Age,Total - Gender,1397750.0,1008260.0,363910.0,74700.0,25580.0
+"Grande Prairie (CA), Alta.",2021S0504850,Total - Age,Total - Gender,63180.0,53820.0,8360.0,2615.0,1000.0
+"High River (CA), Alta.",2021S0504821,Total - Age,Total - Gender,14110.0,11315.0,2650.0,740.0,150.0
+"Lacombe (CA), Alta.",2021S0504832,Total - Age,Total - Gender,13070.0,11410.0,1555.0,460.0,100.0
+"Lethbridge (CMA), Alta.",2021S0503810,Total - Age,Total - Gender,120500.0,101375.0,17385.0,3640.0,1735.0
+"Lloydminster (CA), Alta./Sask.",2021S0504840,Total - Age,Total - Gender,35920.0,31025.0,4620.0,1205.0,275.0
+"Lloydminster (Alberta part) (CA), Alta.",2021S050648840,Total - Age,Total - Gender,19225.0,16910.0,2140.0,545.0,180.0
+"Lloydminster (Saskatchewan part) (CA), Sask.",2021S050647840,Total - Age,Total - Gender,16695.0,14120.0,2480.0,655.0,90.0
+"Medicine Hat (CA), Alta.",2021S0504805,Total - Age,Total - Gender,74585.0,66665.0,7225.0,1495.0,700.0
+"Okotoks (CA), Alta.",2021S0504820,Total - Age,Total - Gender,30020.0,25925.0,3990.0,635.0,100.0
+"Red Deer (CMA), Alta.",2021S0503830,Total - Age,Total - Gender,98045.0,80665.0,16540.0,3925.0,840.0
+"Strathmore (CA), Alta.",2021S0504826,Total - Age,Total - Gender,14105.0,12730.0,1250.0,240.0,130.0
+"Sylvan Lake (CA), Alta.",2021S0504831,Total - Age,Total - Gender,16435.0,15285.0,1070.0,190.0,80.0
+"Wetaskiwin (CA), Alta.",2021S0504865,Total - Age,Total - Gender,12115.0,10420.0,1595.0,335.0,100.0
+"Wood Buffalo (CA), Alta.",2021S0504860,Total - Age,Total - Gender,73290.0,57005.0,15425.0,4140.0,865.0
+British Columbia,2021A000259,Total - Age,Total - Gender,4915940.0,3319230.0,1425715.0,197420.0,171000.0
+"Abbotsford - Mission (CMA), B.C.",2021S0503932,Total - Age,Total - Gender,192115.0,136195.0,50085.0,6845.0,5840.0
+"Campbell River (CA), B.C.",2021S0504944,Total - Age,Total - Gender,39935.0,35600.0,4105.0,420.0,230.0
+"Chilliwack (CMA), B.C.",2021S0503930,Total - Age,Total - Gender,111560.0,94570.0,16195.0,1695.0,795.0
+"Courtenay (CA), B.C.",2021S0504943,Total - Age,Total - Gender,62030.0,53470.0,8005.0,700.0,550.0
+"Cranbrook (CA), B.C.",2021S0504905,Total - Age,Total - Gender,26295.0,23590.0,2325.0,335.0,385.0
+"Dawson Creek (CA), B.C.",2021S0504975,Total - Age,Total - Gender,17380.0,15415.0,1520.0,430.0,445.0
+"Duncan (CA), B.C.",2021S0504937,Total - Age,Total - Gender,46435.0,40330.0,5835.0,550.0,275.0
+"Fort St. John (CA), B.C.",2021S0504977,Total - Age,Total - Gender,28430.0,24685.0,3025.0,930.0,720.0
+"Kamloops (CMA), B.C.",2021S0503925,Total - Age,Total - Gender,110545.0,96970.0,10820.0,1485.0,2750.0
+"Kelowna (CMA), B.C.",2021S0503915,Total - Age,Total - Gender,218525.0,182660.0,31575.0,4295.0,4290.0
+"Ladysmith (CA), B.C.",2021S0504936,Total - Age,Total - Gender,15235.0,13440.0,1710.0,60.0,80.0
+"Nanaimo (CMA), B.C.",2021S0503938,Total - Age,Total - Gender,112410.0,93330.0,17195.0,2355.0,1885.0
+"Nelson (CA), B.C.",2021S0504907,Total - Age,Total - Gender,18715.0,15725.0,2565.0,450.0,425.0
+"Parksville (CA), B.C.",2021S0504939,Total - Age,Total - Gender,30015.0,24565.0,5325.0,240.0,125.0
+"Penticton (CA), B.C.",2021S0504913,Total - Age,Total - Gender,46155.0,39620.0,6135.0,555.0,400.0
+"Port Alberni (CA), B.C.",2021S0504940,Total - Age,Total - Gender,25380.0,22910.0,2360.0,170.0,105.0
+"Powell River (CA), B.C.",2021S0504945,Total - Age,Total - Gender,17465.0,15090.0,2275.0,235.0,100.0
+"Prince George (CA), B.C.",2021S0504970,Total - Age,Total - Gender,87915.0,77685.0,8495.0,1465.0,1730.0
+"Prince Rupert (CA), B.C.",2021S0504955,Total - Age,Total - Gender,13295.0,11380.0,1620.0,255.0,295.0
+"Quesnel (CA), B.C.",2021S0504952,Total - Age,Total - Gender,22900.0,21145.0,1650.0,145.0,105.0
+"Salmon Arm (CA), B.C.",2021S0504920,Total - Age,Total - Gender,18890.0,16855.0,1915.0,255.0,125.0
+"Squamish (CA), B.C.",2021S0504934,Total - Age,Total - Gender,23955.0,18495.0,4775.0,985.0,685.0
+"Terrace (CA), B.C.",2021S0504965,Total - Age,Total - Gender,19515.0,17440.0,1635.0,175.0,440.0
+"Trail (CA), B.C.",2021S0504910,Total - Age,Total - Gender,13860.0,12575.0,1080.0,110.0,210.0
+"Vancouver (CMA), B.C.",2021S0503933,Total - Age,Total - Gender,2607015.0,1384550.0,1089180.0,154820.0,133275.0
+"Vernon (CA), B.C.",2021S0504918,Total - Age,Total - Gender,65325.0,56990.0,7820.0,760.0,510.0
+"Victoria (CMA), B.C.",2021S0503935,Total - Age,Total - Gender,388470.0,306395.0,73345.0,10080.0,8730.0
+"Williams Lake (CA), B.C.",2021S0504950,Total - Age,Total - Gender,23340.0,21160.0,1985.0,270.0,190.0
+Yukon,2021A000260,Total - Age,Total - Gender,39585.0,33280.0,5385.0,1125.0,925.0
+"Whitehorse (CA), Y.T.",2021S0504990,Total - Age,Total - Gender,31420.0,25940.0,4630.0,1035.0,855.0
+Northwest Territories,2021A000261,Total - Age,Total - Gender,40380.0,35825.0,4145.0,810.0,410.0
+"Yellowknife (CA), N.W.T.",2021S0504995,Total - Age,Total - Gender,19910.0,16300.0,3260.0,625.0,345.0
+Nunavut,2021A000262,Total - Age,Total - Gender,36600.0,35360.0,1165.0,240.0,75.0
